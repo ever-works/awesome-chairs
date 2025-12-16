@@ -1,38 +1,41 @@
-## Secretlab TITAN Evo
+# Secretlab Titan Evo Gaming Chair
 
-![Secretlab Logo](https://secretlab.co/assets/logo/secretlab-logo.svg)
+![Secretlab Titan Evo](https://www.secretlab.co/images/titan-evo-nanogen-white.png)
 
-### Overview
-The **Secretlab TITAN Evo** is a cutting-edge gaming chair engineered to provide superior ergonomic support and comfort. Designed with gamers in mind, this chair integrates advanced features and materials to enhance your gaming experience.
+## Overview
+The **Secretlab Titan Evo** is a high-end gaming chair designed for comfort and durability. Made with premium materials, it caters to gamers seeking a blend of style and functionality.
 
-### Features
-- **Magnetic Memory Foam Head Pillow**: Provides personalized neck support for extended gaming sessions.
-- **4-way L-ADAPT™ Lumbar Support System**: Offers adjustable lumbar support to fit your spine's natural curve.
-- **Multi-Tilt Mechanism**: Allows for customizable reclining angles and tilt for optimal comfort.
-- **Full-Metal 4D Armrests** with **CloudSwap™ Replacement System**: Provides adjustable armrest positioning for support during gameplay.
-- **SoftWeave™ Plus Fabric**: A breathable, durable fabric option for those who prefer a softer touch.
-- **NEO™ Hybrid Leatherette**: A premium leatherette option with the look and feel of real leather, offering increased durability.
-- **Cold-Cure Foam Mix**: Patent-pending foam that delivers a balance of comfort and support.
-- **ADC12 Aluminum Wheelbase**: Durable and lightweight base for stability.
-- **XL PU Casters**: Smooth-rolling casters for easy movement.
-- **NFC Anti-Counterfeit Tag**: Ensures the authenticity of your product.
-- **Full-length Backrest with 165° Recline**: Provides a wide range of reclining positions.
-- **Sizes Available**: Small, Regular, XL to accommodate different body types.
+## Features
+- **Material:**
+  - Crafted with a hybrid leatherette, which is 14x more durable than regular PU leather.
+  - Features enhanced UV and stain resistance.
+- **Padding:**
+  - Incorporates Secretlab's NanoFoam padding for a softer, more supportive experience.
+- **Adjustability:**
+  - Full adjustability to suit different body shapes and preferences.
+- **Build Quality:**
+  - Robust construction designed to last.
+- **Size Options:**
+  - Available in two sizes:
+    - **Regular:** For individuals 5'7" to 6'2" (170 - 188cm) and under 220lbs (100kg).
+    - **XL:** For individuals 5'11" to 6'9" (180 - 206cm) and between 175 and 395lbs (79 - 179kg).
+- **Color Options:**
+  - Available in white and black.
 
-### Additional Features
-- **Proprietary Sculpted Pebble Seat Base**: Designed for optimal ergonomic support.
-- **Shorter, Re-engineered Class 4 Hydraulics**: Ensures smooth and reliable height adjustment.
-- **Up to a 5-Year Extended Warranty**: For peace of mind and long-term use.
+## Pricing
+- **Starting Price:** $799
 
-### Availability
-The Secretlab TITAN Evo is available in various upholstery options, including the SoftWeave fabric and NEO Hybrid Leatherette. 
+## Pros & Cons
+- **Pros:**
+  - Excellent build quality and premium materials.
+  - Easy to assemble.
+  - Highly customizable to fit user needs.
+  - Leatherette material is easy to clean.
+- **Cons:**
+  - Pricey.
+  - Firm seat padding may be uncomfortable for extended periods.
+  - Heavy design.
+  - Casters may not glide smoothly on carpet.
 
-### Pricing
-- **Discounts**: Up to $249 off with free shipping on select products.
-- **Additional Offers**: Up to an extra $100 off with a minimum spend.
-
-For more information, visit the [Secretlab TITAN Evo page](https://secretlab.co/pages/titan-evo-2022-series).
-
----
-
-![Secretlab TITAN Evo - Black](https://secretlab.co/assets/images/titan-evo-2022/titan-evo-2022-black.png) ![Secretlab TITAN Evo - Red](https://secretlab.co/assets/images/titan-evo-2022/titan-evo-2022-red.png)
+## Conclusion
+The Secretlab Titan Evo is a top-tier choice for gamers who prioritize comfort and durability in their seating. While it comes with a hefty price tag, the quality and features offered make it a worthy investment for serious gamers.
