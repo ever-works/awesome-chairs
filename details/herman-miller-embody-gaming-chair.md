@@ -1,64 +1,62 @@
-## Herman Miller Embody Gaming Chair
+### Herman Miller Embody Gaming Chair
 
-### Overview
-A premium ergonomic gaming chair designed for long PC and console sessions. It’s based on the original Herman Miller Embody office chair but tuned for more upright, active gaming postures and better heat management over extended use.
+**Category:** Gaming Chair  
+**Brand:** Herman Miller
 
----
+#### Description
+A gaming-focused variant of the Herman Miller Embody chair, designed for long PC and console gaming sessions. It keeps the original Embody’s ergonomic frame and adjustability while adding materials and foam layers tailored for more active, upright gaming postures and improved heat management.
 
-### Features
-- **Ergonomics developed with clinical input**: Original Embody design created with contributions from physicians and PhDs in biomechanics, vision, physical therapy, and ergonomics.
-- **Gaming-optimized seat**: Additional seat foam layer tailored for the more upright, active sitting position common in gaming.
-- **Cooling foam technology**: Composite cooling foam in the seat helps prevent heat build-up during long sessions.
-- **PostureFit spinal support**:
-  - Supports the sacrum (base of the spine) to mimic a strong, upright standing posture while seated.
-  - Provides integrated lumbar support to help keep the chest open and pelvis slightly forward.
-- **BackFit adjustment**:
-  - Adjusts to the unique curvature of your spine.
-  - Helps maintain a neutral, balanced posture and combat the tendency of the spine to slump over time.
-- **Even pressure distribution**:
-  - Seat and back automatically conform to your movements.
-  - Distributes body weight evenly to reduce pressure build-up and support blood flow.
-- **Active-sitting support**: Frame, foam, and fabric system are designed to support frequent posture shifts while remaining supported.
+#### Features
+- **Ergonomic design developed with clinical input**
+  - Originally developed with input from more than 30 physicians and PhDs in biomechanics, vision, physical therapy, and ergonomics.
+  - Further refined for gaming in partnership with Logitech G.
 
----
+- **Enhanced gaming seat construction**
+  - Additional foam layer in the seat to support a more upright, active gaming posture.
+  - Composite cooling foam technology in the seat to reduce heat build-up during long sessions.
+  - Copper‑infused foam layer (from product spec) aimed at improving heat dissipation and comfort over extended use.
 
-### Materials & Construction
-- **Upholstery**: 100% polyester fabric, tested for:
-  - Abrasion durability
-  - Seam strength
-  - UV resistance
-  - Colour retention (crocking resistance)
-  - Flame resistance
-- **Base / structure**:
-  - Texture powder-coated die-cast aluminum components.
-  - Self-skinning thermo-plastic urethane foam molded around a glass-filled nylon insert.
-- **Seat and back structure**:
-  - Seat: two spring layers, one mat layer, one foam layer, topped with Sync fabric.
-  - Back: translucent flexible polymer attached to an acetal H-flexor back structure for flexible support.
-- **Casters**:
-  - 63.5 mm diameter double-wheel casters.
-  - Black nylon body with soft polyurethane tread (suited to hard floors and many low-pile carpets).
+- **Posture and spinal support**
+  - **PostureFit spinal support** mimics the posture of standing by supporting the sacrum and providing lumbar support, encouraging an open chest and slight forward pelvic tilt.
+  - **BackFit adjustment** allows the backrest to adjust to the user’s unique spinal shape, helping maintain a neutral, balanced posture and reducing the tendency of the spine to curve uncomfortably over time.
+  - Targeted pressure distribution in seat and back automatically conforms to body movements, distributes weight evenly, and is intended to support blood flow during extended sitting.
 
----
+- **Seat and backrest construction**
+  - Seat built with two spring layers, one mat layer, and one foam layer topped with Sync fabric for responsive support.
+  - Backrest uses a translucent flexible polymer attached to an acetal H-flexor back structure to allow dynamic support and movement.
 
-### Adjustability
-- **Arm height and width**:
-  - Height adjustable arms for forearm and elbow support.
-  - Width adjustments allow arms to be brought closer for support or moved outward/low to clear the desk.
-- **BackFit spinal adjustment**:
-  - Rear knob fine-tunes the backrest to match the shape of your spine.
-  - Helps align your head and neck with your monitor.
-- **Seat depth adjustment**:
-  - Seat can slide forward or backward.
-  - Used to relieve pressure behind the knees and coordinate seat position with the backrest.
-- **Seat height adjustment**:
-  - Vertical adjustment so feet can rest flat on the floor, providing a stable base while gaming.
+- **Adjustability**
+  - **Armrests**
+    - Adjustable arm height: raise for forearm support or lower to fit under desks.
+    - Adjustable arm width: move arms inward for closer support or outward to clear space.
+  - **BackFit adjustment**
+    - Backrest tension/shape tuning via a rear BackFit knob, so the chair aligns to the spine and head position relative to the monitor.
+  - **Seat depth adjustment**
+    - Seat can slide forward or backward to reduce pressure on the legs and allow coordinated movement with the backrest.
+  - **Seat height adjustment**
+    - Height can be raised or lowered so feet rest flat on the floor for stable, anchored posture while gaming.
 
----
+- **Materials and durability**
+  - **Upholstery**: 100% polyester, tested for:
+    - Abrasion durability
+    - Seam strength
+    - UV light resistance
+    - Colour retention (crocking resistance)
+    - Flame resistance
+  - **Frame and structural elements**:
+    - Texture powder coat on die-cast aluminum components.
+    - Self-skinning thermo-plastic urethane (TPU) foam molded around a glass-filled nylon insert for durable, shaped support.
+    - Acetal H-flexor back structure with translucent flexible polymer panels.
+  - **Casters**:
+    - 63.5 mm diameter double-wheel casters.
+    - Black nylon hubs with soft polyurethane tread for smoother rolling and floor protection.
 
-### Pricing
-From the referenced page (subject to change):
-- **Standard price**: £1,715.00
-- **Sale price (example shown)**: £1,286.25 (approximately 25% off)
+#### Variants / Options
+- Available colour options (may vary by region and stock):
+  - Cyan
+  - Black
+  - Amethyst
+  - Galaxy
 
-Prices may vary by configuration (colour/finish options) and over time; check the product page for current pricing.
+#### Pricing
+- Listed price on source page: **€2,001.00** (single-chair pricing; taxes, delivery, and promotions may vary by region and time).

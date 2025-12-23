@@ -1,38 +1,31 @@
 # Kelly Clarkson Home Louise Velvet Task Chair
 
 ## Overview
-A compact, velvet-upholstered task chair hand-picked by Kelly Clarkson for Wayfair. It emphasizes style and a small footprint over advanced ergonomics, making it best suited for light computer or home office use where appearance is a priority.
+A compact, velvet-upholstered task chair from Kelly Clarkson Home, designed for light home office or vanity use where appearance is as important as function. It offers basic height adjustment and swivel functionality but minimal ergonomic adjustability.
 
 ## Features
-- Velvet polyester upholstered seat and back
-- Button-tufted backrest
-- Swivel base
-- Pneumatic seat-height adjustment (simple up/down control)
-- Compact, narrow frame suited to shorter or smaller users
-- Fixed seat and back angle (no recline or tilt tension adjustment)
-- No advanced ergonomic adjustments (no adjustable lumbar, headrest, or arm adjustments)
-- Gold-colored base/frame finish (may be prone to occasional finish chipping)
-- Solid wood elements in construction (per retailer specs)
-- Assembly required; includes basic assembly tools
-- Typical assembly time under 30 minutes (per retailer classification)
+- **Velvet polyester upholstery** with a soft, plush feel
+- **Button-tufted backrest** for a more traditional, tailored look
+- **Compact, narrow frame** that typically fits shorter or smaller users best
+- **May feel restrictive for broader shoulders** due to the narrow profile
+- **Simple seat height adjustment** (no additional ergonomic adjustments such as lumbar, arm, or tilt tension controls)
+- **Swivel seat** for basic mobility around a desk or workspace
+- **Gold-colored frame/base accents**, with some reports of finish chipping over time
+- **Best suited for light or occasional computer/desk use**, not intensive all-day work
+- **Entry-level build** targeted more toward style-focused residential use than heavy-duty commercial use
+- **Assembly required**, with tools included
 
 ## Specifications
-- Product type: Task chair
-- Overall height: 35.5" H
-- Minimum seat height (floor to seat): 18.5"
-- Maximum seat height (floor to seat): 21.5"
-- Upholstery material: Velvet (polyester)
-- Base: Swivel base with gold-tone finish
-- Category: Chair / task chair
-- Brand: Kelly Clarkson Home
-
-## Comfort & Use Notes
-- Cushioning is described as firm yet reasonably comfortable for light to moderate use.
-- Best for short work sessions or occasional home office use rather than intensive, all-day ergonomic seating.
-- The narrow back and seat can feel restrictive for broader shoulders or larger body types.
-
-## Warranty
-- Approximate warranty length: 30 days (short-term coverage; details may vary by retailer).
+- **Product type:** Task chair (armless)
+- **Overall height (approx.):** 35.5" H
+- **Seat height range (floor to seat):** 18.5" – 21.5"
+- **Upholstery material:** Velvet polyester
+- **Example upholstery color:** Ivory Velvet (other colors may be available from retailer)
+- **Base/materials:** Includes solid wood components (per source listing)
+- **Motion:** Swivel
+- **Brand:** Kelly Clarkson Home
+- **Warranty:** Approximately 30-day limited warranty (short coverage window)
 
 ## Pricing
-- Listed price in source content: **$164.99 USD** (Wayfair, single-chair purchase; actual pricing may vary over time and by retailer).
+- **Approximate chair price:** $164.99 (as listed at source; subject to change)
+- **Example bundle:** Chair + Elisa Desk Organizer for $186.97 (pricing and availability may vary by retailer and time).

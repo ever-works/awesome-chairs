@@ -1,74 +1,78 @@
-### BodyBilt Midcelli 24/7 2800 Series – Intensive Use Chair
+## BodyBilt Midcelli 24/7 2800 Series – Intensive Use Chair
 
-Ergonomic, 24/7-rated intensive-use office and computer chair with a contoured seat, mesh back, and multiple adjustments designed for long-duration sitting.
+### Description
+The BodyBilt Midcelli 24/7 2800 Series is an ergonomic mid‑back office and computer chair designed for intensive, around‑the‑clock use. It combines a contoured seat with a flexible mesh back, multiple adjustments, and SKYDEX pressure‑distributing foam to support long sitting sessions.
 
----
-
-#### Features
-- 24/7 intensive-use design for continuous/all-day use
-- Mid-back chair with body-fitting midback and seat contours
-- Plush, contoured seat pad designed to support hips, buttocks, and legs during long sitting sessions
-- Proprietary elastomeric mesh back for:
-  - Improved airflow
+### Features
+- **24/7 intensive‑use rating** for continuous, all‑day and overnight use
+- **Body‑fitting mid‑back and seat contours** to support the back, buttocks, and legs
+- **Slim profile** to fit a variety of workspaces
+- **Elastomeric mesh back** designed for:
+  - Increased airflow
+  - Support of lower and upper back regions
   - Individualized lumbar support
-  - Support for both lower and upper back regions
-- SKYDEX foam technology in the seat:
-  - Engineered geometries to distribute seated pressure
-  - Gradual compression that conforms to user shape
-  - Enhanced comfort over extended periods
-- Sliding/adjustable seat depth (2.50" adjustment range)
-- Height-adjustable backrest (2.75" adjustment)
-- Backrest angle adjustment up to 12°
-- 360° chair swivel
-- Heavy-duty construction for intensive use with 300 lb weight capacity
-- Designed for extensive user customization (seat size, fabric, depth, etc.)
-- Select components covered by a lifetime warranty; other parts covered by multi-year warranties (per manufacturer’s policy)
+- **Plush seat with SKYDEX technology**:
+  - Engineered geometries to better distribute seated pressure
+  - Gradual compression that conforms to the user’s shape
+  - Enhanced comfort during extended sitting
+- **Multiple adjustment points**, including:
+  - Sliding seat (seat depth adjustment)
+  - Seat height adjustment
+  - Backrest height adjustment
+  - Backrest angle adjustment
+- **Air lumbar system** for adjustable lumbar support
+- **Intensive‑Use (I) mechanism** designed for heavy‑duty, continuous operation
+- **360° swivel** for full rotation
+- **Heavy‑duty components**:
+  - Heavy Duty cylinder (short height)
+  - Optima 24/7 arms with Heavy Duty S’port pads
+  - Marquis 27" diameter base
+  - 2" chrome casters
+- **300 lb weight capacity**
+- **Extensive customization options**, including seat shape, seat depth, fabric, and finishes
+- **Warranty coverage** with select components carrying lifetime coverage and other parts covered for multiple years (details vary by component)
 
----
+### Specifications
+- **Overall dimensions**: 31" W × 28" D × 47" H
+- **Weight**: N/A
 
-#### Specifications
-- **Overall dimensions:** 31" × 28" × 47" (L × W × H)
-- **Backrest height:** 25.125"
-- **Backrest height adjustment:** 2.75"
-- **Backrest angle adjustment:** 12°
-- **Lumbar height adjustment:** 0.00" (fixed lumbar zone)
-- **Backrest lumbar region height:** 18.25"
-- **Backrest shoulder region height:** 18.3125"
-- **Seat depth options:** 17.50", 19.00", 19.50"
-- **Seat depth adjustment:** 2.50"
-- **Seat height adjustment range:** 3.50"
-- **Seat height range:** 17.00" to 20.50"
-- **Chair swivel:** 360°
-- **Weight capacity:** 300 lbs
-- **Base:** Marquis base, black, 27" diameter (B2)
-- **Casters:** Chrome casters, 2" (C7)
-- **Cylinder:** Heavy duty, short height (YHDS)
-- **Foam:** SKYDEX
-- **Mechanism:** Intensive-Use (I) mechanism
+**Backrest**
+- Backrest height: **25.125"**
+- Backrest height adjustment: **2.75"**
+- Backrest angle adjustment: **12°**
+- Lumbar region height: **18.25"**
+- Shoulder region height: **18.3125"**
 
----
+**Seat & Adjustments**
+- Available seat depths: **17.50"**, **19.00"**, **19.50"**
+- Seat depth adjustment range: **2.50"**
+- Seat height adjustment range: **3.50"**
+- Seat height range: **17.00" to 20.50"**
+- Seat options:
+  - (1) Standard Seat – Moderate contouring (#7 Seat)
+  - (2) Standard Seat – Flat (#8 Seat)
 
-#### Configuration & Upholstery Options
-- **Chair arms:**
-  - Optima 24/7 arm with heavy duty S’port pad (ASPTL/)
-- **Seat sizes:**
-  - Standard seat, moderate contouring (#7 seat)
-  - Standard seat, flat (#8 seat)
-- **Quick-ship fabrics:**
+**Mechanism & Structure**
+- Mechanism: **Intensive‑Use (I) Mechanism**
+- Base: **Marquis Base – Black – 27" diameter (B2)**
+- Cylinder: **Heavy Duty Cylinder – Short Height (YHDS)**
+- Casters: **2" Chrome Casters (C7)**
+- Swivel: **360°**
+- Foam: **SKYDEX (SKYDEX)**
+- Weight capacity: **300 lbs**
+
+### Options & Customization
+- **Chair arms**: Optima 24/7 Arm with Heavy Duty S’port Pad (ASPTL/)
+- **Seat sizes**:
+  - Standard Moderate Contour (#7 Seat)
+  - Standard Flat (#8 Seat)
+- **Seat depths**: 17.50", 19.00", 19.50"
+- **Quick‑ship fabric options**:
   - Grade 01 Staccato – Navy
   - Grade 01 Staccato – Black
   - Grade 01 Staccato – Sandy
   - Grade 04 Brisa – Black Onyx
   - Grade 04 Brisa – Night Navy
-- **Lumbar:**
-  - Air Lumbar (A)
 
----
-
-#### Pricing
-- **Price range:** $1,549.00 – $1,649.00 (depending on configuration)
-
----
-
-**Brand:** BodyBilt  
-**Model:** Midcelli 24/7 2800 Series – Intensive Use Chair
+### Pricing
+- **Price range**: **$1,549.00 – $1,649.00** (varies based on selected configuration and options)

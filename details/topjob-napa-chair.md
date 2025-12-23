@@ -1,41 +1,65 @@
 # TopJob Napa Chair
 
-Ergonomic office and computer chair with a pull-out footrest and headrest, finished in amber vegan leather and built around a minimalist rolling base.
-
-- **Category:** Ergonomic Office Chairs  
-- **Brand:** TopJob  
-- **Model:** Napa (Amber)  
-- **Website:** <https://cna.st/affiliate-link/5a1FMimJbzYezMeMToA4fa2KPpoGk6a3mjMwdfkBSx8vqeN5ZYTnYXCCPjYH6EcN225A4HnoDpBHEWttB5hc8BRBrUNBfPjtFRRRZhj4Z1otgvfw3MfyHFsmpZKjhx9GJTWRKeN6gg4fxWVzx5MooYVpxjEpGGhVkuUr21ZdrEK8JaWrz2U4SnrZ3q1nDXjTkUnHXWp2GsoyUNL5BARGCmjhUbF61qHo71FM5WWWUjVyUSgifwYg6Yycnr8jCAfd8XYFVeBsaKfA8EuRL1NASpqQuDmnyrTdqEJMpsBrE1hfyazq8m6dpucysVYDZRPhrbtzrJGwViqg49ozT2HLYeW>  
-- **Primary Image:** ![TopJob Napa Chair](https://media.wired.com/photos/67c4c2ad08d280f3da2a4ee9/master/w_1600%2Cc_limit/TopJob-Napa-Chair-Reviewer-Photo-SOURCE-Julian-Chokkattu.jpg)
-
 ## Overview
-The TopJob Napa Chair is a style-forward office/computer chair that combines a high back with a pull-out footrest and headrest. It offers basic ergonomic adjustments, a firm sitting feel, and amber vegan leather upholstery on a minimalist five-wheel base.
+The TopJob Napa Chair (also called the Napa Ergonomic Chair) is an office and computer chair with a strong emphasis on visual style: amber vegan leather options and a minimalist five-wheel base. It offers a reclining back, adjustable armrests, an integrated headrest, and a pull-out footrest. Cushioning is relatively firm, ergonomic adjustment options are limited compared with more advanced task chairs, and the overall build may feel less premium than expected at this price, making it better suited for style-conscious setups than intensive all-day use.
 
 ## Features
-- **Adjustable armrests:** Height-adjustable armrest design.  
-- **Recline function:** Backrest recline with **limited recline locking** positions.  
-- **Tilt tension control:** Adjustable tilt tension to change how easily the chair leans back.  
-- **Pull-out footrest:** Integrated leg/footrest that extends from under the seat.  
-- **Headrest:** Built‑in headrest for upper‑back and neck support.  
-- **High-back design:** Tall backrest for more upper‑body coverage.  
-- **Upholstery:** Amber **vegan leather** finish.  
-- **Base:** Minimalist **five‑wheel** rolling base.  
-- **Cushioning:** Relatively **firm padding**, less plush than some all‑day ergonomic chairs.  
-- **Ergonomic adjustability:** Only a **few ergonomic adjustments** beyond arm height, recline lock, and tilt tension.  
-- **Build and feel:** Overall build quality may feel **less premium** compared with some chairs in a similar price range.  
-- **Design focus:** Emphasis on a **stylish, modern aesthetic** rather than maximum, fully adjustable all‑day comfort.
+- **Recline & Tilt**
+  - Backrest reclines up to **135°**
+  - Adjustable **tilt tension** to match user weight and preference
+  - Limited locking positions (not a fully multi-lock system)
 
-## Pros
-- Pull‑out footrest and headrest for semi‑reclined work or rest.  
-- Height‑adjustable armrests.  
-- Vegan leather finish for a sleek, non‑fabric look.  
-- Simple five‑wheel base for easy movement.
+- **Seat & Comfort**
+  - Firm, high-density foam seat cushion
+  - Designed for short-to-moderate duration use rather than maximum all-day plush comfort
 
-## Considerations / Limitations
-- Firm cushioning may not suit users who prefer soft, plush seating.  
-- Limited ergonomic adjustments compared with high‑end ergonomic chairs.  
-- Perceived build quality may feel basic for the expected price bracket.  
-- Better suited to style‑conscious setups than to users needing intensive, all‑day ergonomic tuning.
+- **Armrests**
+  - **Height-adjustable (2D) armrests**
+  - Designed to support forearms at different desk heights
+
+- **Headrest**
+  - Integrated **adjustable headrest** included with every chair
+  - Adjustable to better match different heights and body types
+
+- **Footrest**
+  - **Pull-out, adjustable footrest** built into the chair
+  - Can support stretched legs, semi-reclined positions, or cross-legged seating
+
+- **Upholstery & Look**
+  - Available in **premium eco-friendly (vegan) leather** and select liquid-resistant fabric options (bouclé or linen, depending on variant)
+  - Amber / cream-toned finishes support a warm, minimalist aesthetic
+  - Minimalist **five-wheel base** design
+
+- **Ergonomics & Adjustability (Overall)**
+  - Height-adjustable seat and armrests
+  - Reclining back with tilt tension control
+  - Adjustable headrest and footrest
+  - Fewer fine-tuning options than higher-end ergonomic task chairs (e.g., limited lumbar/seat-depth adjustments beyond basics)
+
+## Specifications
+
+### Dimensions
+- **Chair height:** 46.85" – 50.0"
+- **Seat height:** 17.91" – 20.87"
+- **Seat depth:** 17.60"
+- **Armrest height:** 25.79" – 28.74"
+- **Tilt range:** up to 135°
+
+### Capacity & Weight
+- **Maximum user weight:** 330 lbs (150 kg)
+- **Shipping package dimensions:** 28.7" × 16.9" × 27.6" (L × W × H)
+- **Gross shipping weight:** 50.38 lbs
+
+## Materials
+- **Body upholstery:**
+  - Premium eco‑friendly (vegan) leather, and/or
+  - Liquid-resistant bouclé fabric, and/or
+  - Liquid-resistant linen fabric (depending on chosen variant)
+- **Seat cushion:** high-density foam
+- **Armrests & base:** plastic (PP, PA)
 
 ## Pricing
-- **Pricing information:** Not provided in the available content.
+- **Napa Ergonomic Chair:** **$369.00** (listed sale price)
+  - Former/strikethrough price shown as **$529.00** on the product page (may reflect original MSRP or previous pricing).
+
+> Pricing and availability may change; refer to the retailer’s product page for the latest information.

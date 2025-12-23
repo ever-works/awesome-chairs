@@ -1,66 +1,66 @@
-**Overview**
+# Haworth Breck Office Chair
 
-The Haworth Breck is a compact ergonomic office chair designed primarily for shorter users (roughly under 5'8"). It combines a short, supportive seat, an adaptive mesh back, and a weight-activated recline mechanism in a simple, easy-to-assemble design.
+## Overview
+A compact ergonomic office chair tailored to shorter users (roughly under 5'8"). It has a shorter seat with limited depth extension, a weight-activated recline mechanism, and simple, tool-free assembly. The padding is thin but comfortable for long sitting sessions, though the gas lift and movement can be somewhat noisy.
 
----
+## Features
+- **Ergonomic design for smaller bodies**
+  - Shorter seat pan, better suited to users under ~5'8".
+  - Limited seat-depth extension for proper leg support without cutting into the back of the knees.
+- **GeoStretch™ backrest**
+  - Three-zoned back with varying suspension from upper to lower back.
+  - Designed to balance flexibility and firmness for ergonomic support.
+  - Aims to reduce pressure points along the spine and lower back.
+- **Weight-activated recline**
+  - Recline tension automatically responds to the user’s weight.
+  - 3-position backstop lets you:
+    - Sit fully upright.
+    - Limit how far you recline.
+    - Allow more open recline within set positions.
+- **Adjustable lumbar support**
+  - Standard height-adjustable lumbar to customize lower-back support.
+- **4D adjustable armrests**
+  - Height (up/down).
+  - Width (in/out).
+  - Depth (front/back).
+  - Pivot/side-to-side positioning.
+- **Seat adjustments**
+  - Seat height adjustable from 15.5" to 20.5".
+  - Seat depth adjustable a bit over 2" (15"–17.25") front to back.
+  - Designed to relieve pressure at the back of the knees and support the upper legs.
+- **Build & comfort**
+  - Thin but supportive padding suitable for extended sitting.
+  - Hard casters for typical office flooring.
+  - Durable, sturdy plastic base.
+  - Chair weight: ~30 lbs.
+  - Gas lift and movement may produce some noise in use.
+- **Assembly & handling**
+  - Ships flat in four main pieces.
+  - Tool-free assembly in under a minute (snap-together style construction).
+  - Lightweight design for easier moving and setup.
+- **Capacity & certifications**
+  - Weight capacity: 325 lbs.
+  - GREENGUARD Gold certified.
+  - BIFMA certified.
+- **Sustainability**
+  - Over 50% recycled content in construction.
+  - 94% recyclable at end of life.
+  - Engineered for a relatively low carbon footprint.
 
-### Features
+## Dimensions
+- Overall height: **39"–44"**
+- Overall width: **28.5"**
+- Overall depth: **28.5"**
+- Seat height: **15.5"–20.5"**
+- Seat depth: **15"–17.25"**
+- Seat width: **19.5"**
+- Back height: **23.5"**
+- Arm height (from seat): **7.75"–11.75"**
+- Width between armrests: **15.7"–21.1"**
+- Weight capacity: **325 lbs**
 
-- **Ergonomic design for shorter users**  
-  - Compact overall footprint  
-  - Short seat with limited depth extension, better suited to shorter legs and smaller frames
+## Pricing
+- **List price:** $419.00
+- **Current price:** $368.00 (approx. 12% off at time of listing)
 
-- **GeoStretch™ mesh back**  
-  - Three-zoned back with varying suspension for ergonomic support  
-  - Flexible yet firm mesh that adapts to the upper and lower back  
-  - Designed to reduce pressure points and support natural spinal alignment
-
-- **Recline and back support**  
-  - Weight-activated mechanism that automatically adjusts recline tension based on the user’s weight  
-  - Three-position backstop allowing the backrest to be locked into multiple recline positions
-
-- **Seat and cushioning**  
-  - Thin but supportive padding suitable for extended sitting  
-  - Shorter seat profile to help prevent pressure behind the knees for smaller users
-
-- **Armrests**  
-  - Adjustable armrests (height/position) to better align with desk and body posture
-
-- **Assembly & construction**  
-  - Ships in four main pieces  
-  - Tool-free assembly in under a minute
-
-- **Materials & sustainability**  
-  - Made from over 50% recycled content  
-  - Engineered for a reduced carbon footprint
-
-- **Colors & finishes**  
-  - Seat color options include: Coal, Blush, Stone, Lagoon, Agave, and Lunar (availability may vary)  
-  - Base color options: Black or Snow
-
-- **Certifications & warranty**  
-  - GREENGUARD Gold certified  
-  - BIFMA certified  
-  - 12-year warranty (manufacturer-stated)
-
-- **Other characteristics**  
-  - Gas lift and chair movement can be somewhat noisy compared with some alternatives
-
----
-
-### Considerations
-
-- Best suited for shorter users; taller individuals or those needing long seat depth may find it too compact.  
-- Padding is intentionally thin; comfortable for many, but users preferring a very plush seat may want to note this.  
-- Some users may find the gas lift and movement noise noticeable in very quiet environments.
-
----
-
-### Pricing
-
-- Specific pricing is not provided in the available content. Refer to the manufacturer’s product page for current pricing and promotions.
-
----
-
-**More information**  
-Product page: https://cna.st/affiliate-link/252UdZcajgSFKLYYghnedaPfGbw1WcSShgSZqEqxKJPPNg6VFeHDSNSRHvvupU71cV9AXWbd7jQiHWmmgtYjjRv3LF71qg1SQ32VFNF77iUqFgotejQMdhDeLeUJUEfSqzqjJVEjw2PU49nPWzDPjm3nibLp6TUZKCtNav5BAG9MRtU9o3veNagCTPvsZn5UtmVHAKMakuk5q1UrKq4Q6TgkfDkwELp4oBsXEzhoSccFGeGtk9WpQq3bwvQzFewPJGMdnShoztnoi1QpFfXB32YQVwti3c
+Pricing and promotions may change; check the source link for the latest information.

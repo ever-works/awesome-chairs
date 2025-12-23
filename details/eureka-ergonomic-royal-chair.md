@@ -1,41 +1,78 @@
 # Eureka Ergonomic Royal Chair
 
-## Overview
-The Eureka Ergonomic Royal Chair is an executive-style computer chair with a plush, high-back design and faux leather upholstery. It emphasizes appearance and a cushioned feel over advanced ergonomic features, making it more suitable for shorter work sessions than for intensive all‑day use.
+**Name:** Eureka Ergonomic Royal Chair (Royal, Microfiber Leather Executive Office Chair)  
+**Brand:** Eureka Ergonomic  
+**Category:** Chair Accessories / Executive Office Chair  
+**Model / SKU:** ERK-OC-003  
+**Slug:** `eureka-ergonomic-royal-chair`
+
+## Description
+An executive-style, high-back computer/office chair upholstered in microfiber reinforced (faux) leather. It offers a plush, slightly bouncy seat and backrest with basic adjustability: a height-adjustable headrest, a multi-position recline, and fixed padded armrests. The compact seat frame can feel narrow for larger users, and lumbar support is limited, making it better suited to moderate rather than continuous all‑day use. The leather-like upholstery is easy to wipe clean but may feel warmer than mesh during extended sitting.
 
 ## Features
-- **Executive high-back design** for a formal, office-ready look.
-- **Plush aesthetic** with visibly padded seat and backrest.
-- **Faux leather upholstery** for a sleek, leather-like appearance.
-- **Soft, slightly bouncy seat and back** for cushioned comfort.
-- **Basic recline adjustment** to lean back to a limited degree.
-- **Headrest adjustment** (within a basic range) to support the head and neck.
-- **Compact seat size**, better suited to smaller or average-sized users.
-- **Fixed armrests** that frame the seat; may feel **narrow for larger users**.
-- **Solid overall build quality** for a mid-range office chair.
-- **Easy-to-clean surface** thanks to faux leather material.
-- **Non-breathable materials** that can **trap heat**, especially in warm environments or during long sessions.
-- **Limited lumbar support**, which may be uncomfortable for prolonged, all-day sitting.
-- **Quick setup/assembly** with relatively simple construction.
-- **Two-year warranty**, shorter than some higher-end ergonomic chairs.
-- **Mid-range positioning**, aimed at users who prioritize style and a plush feel over extensive ergonomic customization.
+- **Executive high-back design** suitable for home offices or professional workspaces.
+- **Microfiber reinforced leather upholstery**
+  - Leather-style look and feel with microfiber reinforcement.
+  - Easier to wipe clean than fabric.
+  - More breathable than some dense faux leathers, but generally warmer than mesh.
+- **Plush, high-density foam cushioning**
+  - High-density, elastic foam for a soft, slightly bouncy sitting experience.
+  - Thick seat padding (approx. 5.91" cushion thickness).
+- **Height-adjustable headrest**
+  - Vertical adjustment range: 0–2.36".
+  - Aims to reduce neck strain by allowing alignment with user height.
+- **Recline function with lock**
+  - Tilt/recline range: 98°–130°.
+  - Four lockable recline positions.
+  - Allows switching between upright work and more relaxed postures.
+- **Fixed padded armrests**
+  - Softly padded for forearm support.
+  - Fixed (non-adjustable) height and angle.
+- **Compact seat frame**
+  - Seat width: 17.5" framed by the armrests.
+  - May feel narrow for broader-bodied users.
+- **Basic lumbar support**
+  - Some contouring from the back cushion but no dedicated adjustable lumbar system.
+  - May not provide enough support for users with specific back needs or very long daily sitting periods.
+- **Sturdy construction**
+  - Uses alloy steel and nylon components with a Class 4 gas piston.
+  - Contract-grade rating for both commercial and residential use.
+- **Weight capacity and user size range**
+  - Supports up to 300 lbs.
+  - Recommended user height range: 5'3"–6'1".
+- **Easy assembly**
+  - Delivered with an assembly manual; designed for straightforward setup.
 
-## Materials & Build
-- Upholstery: Faux leather (non-breathable, wipe-clean surface)
-- Style: Executive, high-back office/computer chair
-- Structure: Fixed armrests with a compact, framed seat
-
-## Ergonomics & Adjustability
-- Recline: Basic recline function
-- Headrest: Basic adjustment
-- Lumbar: Limited built-in support; not optimized for extended all-day use
-- Fit: Compact seat and fixed armrests may feel restrictive for larger users
-
-## Warranty
-- **Duration:** 2 years (manufacturer warranty; details may vary by retailer)
+## Specifications
+- **Upholstery Material:** Microfiber reinforced leather (faux leather)  
+- **Frame / Structural Materials:** Alloy steel, nylon  
+- **Color Options:** Beige White & Black  
+- **Overall Dimensions (D × W × H):** 30.9" × 29.7" × 47.64"–50.39"  
+- **Seat Height (from floor):** 19.3"–22.4"  
+- **Seat Depth:** 20"  
+- **Seat Width:** 17.5"  
+- **Cushion Thickness:** 5.91"  
+- **Headrest Adjustment Range:** 0–2.36" (height)  
+- **Armrest Type:** Fixed, padded armrests  
+- **Tilt / Recline Mechanism:** 98°–130° with 4-position locking  
+- **Gas Lift:** Class 4 hydraulic gas piston  
+- **Maximum Weight Capacity:** 300 lbs  
+- **Recommended User Height:** 5'3"–6'1"  
+- **Item Weight:** 64.3 lbs  
+- **Box Dimensions:** 30.31" × 21.65" × 25.98"  
+- **Box Weight:** 71.65 lbs  
+- **Use Rating:** Contract grade (commercial & residential)
 
 ## Pricing
-- **Pricing:** Not specified in the provided content. Check the retailer or brand website for current pricing.
+- **Listed price:** $439.99 (at time of data capture)  
+- **Previous listed price:** $449.99 (indicated as a $10 reduction)  
+- **Volume discount:** Retailer advertises tiered discounts up to 10% off when purchasing any 2 or more eligible items (exact tiers not specified; may vary by promotion).
 
-## Source
-- Product page: <https://cna.st/affiliate-link/6AeCGcpfTzQfze9vr8D7yzRWGmseLHkYRhKqWGwFyvSXQNZWUs3ye1KeV4qiktxNT3ep5zbmQfziNo8sNBB9JrUS4QKUAprbTK9oCxk9BeQVyHVhvcV3ksw4vJReMdhzyqzYw9RQ7rZM42qy34PaHeqKiVrmLaq87EHKd7No3qSh6MDJq6n2wFQgSsfts3APubuWfk8BED88W84zdwzAk93fw3g8crYZ4Sx8Aqfpv7jwJwjmExjjdmxfcWoPsLWxA4MtD7UpqiFFDBuFhvrHPufwuuZ77wjdEyjiNszZbwGAy8>
+## Warranty
+- **Warranty:** 5-year limited warranty (terms and coverage details provided by the manufacturer).
+
+## Considerations
+- Better suited for users who prioritize a plush, executive look and straightforward adjustments over highly configurable ergonomics.
+- Fixed armrests and a relatively narrow seat may not fit larger users comfortably.
+- Limited lumbar adjustability may be insufficient for people with back issues or for intensive all-day desk work.
+- Leather-style upholstery is easy to clean but typically less ventilated than mesh, which some users may find warm over long sessions.

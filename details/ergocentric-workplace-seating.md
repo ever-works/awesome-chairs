@@ -1,51 +1,37 @@
-# ergoCentric Workplace Seating
+## ergoCentric Workplace Seating
 
-## Overview
+**Category:** Chair Accessories / Office Seating  
+**Brand:** ergoCentric  
+**Website:** <https://www.ergocentric.com/workplace-seating/>
 
-ergoCentric Workplace Seating is a line of ergonomic office and task chairs designed for business environments, with a focus on employees who spend most of the day working at a computer or desk.
+### Overview
 
-## Features
+ergoCentric Workplace Seating is a line of ergonomic office chairs designed for business environments and all-day computer or desk work. The seating is intended to provide individually adjustable support so that employees who sit for extended periods can maintain comfort and an ergonomically appropriate posture.
 
-- Ergonomic seating specifically designed for workplace and office use
-- High-performance task chairs intended for all-day computer and desk work
-- Emphasis on individual adjustability to accommodate different users and workstyles
-- Designed to support user comfort during prolonged sitting
-- Aims to help maintain productivity for employees who sit throughout the workday
-- Modular manufacturing approach that allows chairs to be configured to fit a wide range of body types and needs
-- Available across multiple chair families and styles, including:
-  - tCentric Hybrid
-  - airCentric 2
-  - Centric Chair
-  - myCentric
-  - ergoForce
-  - eCentric Executive
+### Features
+
+- **Ergonomic design for office work**  
+  Developed specifically for workplace and business settings, with a focus on users who sit at a desk or computer throughout the day.
+
+- **Support for all-day sitting**  
+  Task chairs are optimized for prolonged use, aiming to reduce strain associated with extended seated work.
+
+- **Individual adjustability**  
+  Chairs in this line are built to allow individualized fitting and adjustment so that different users can configure the seating to suit their body dimensions and work style.
+
+- **Modular manufacturing approach**  
+  ergoCentric uses a modular manufacturing system for its office seating, enabling a wide range of configurations and helping accommodate varied user needs and workplace requirements.
+
+- **Range of task and executive seating options**  
+  The workplace seating collection includes multiple chair families intended for different preferences and roles, such as:
+  - tCentric Hybrid  
+  - airCentric 2  
+  - Centric Chair  
+  - myCentric  
+  - ergoForce  
+  - eCentric Executive  
   - iCentric Mesh
-- Range covers different visual and functional preferences (e.g., mesh-back models, executive-style seating)
 
-## Included Product Families
+### Pricing
 
-- **tCentric Hybrid** – task seating line within the workplace range
-- **airCentric 2** – ergonomic office chair family
-- **Centric Chair** – general-purpose ergonomic office seating
-- **myCentric** – task/office seating line
-- **ergoForce** – part of the workplace task seating range
-- **eCentric Executive** – executive-style office chairs
-- **iCentric Mesh** – mesh-back ergonomic seating line
-
-## Category
-
-- Office seating / workplace task chairs
-
-## Brand
-
-- **Brand:** ergoCentric
-
-## Images
-
-- ![](https://www.ergocentric.com/wp-content/uploads/work-environments-Business.webp)
-- ![](https://www.ergocentric.com/wp-content/uploads/Website-Office-env.webp)
-- ![](https://www.ergocentric.com/wp-content/uploads/Preview-ERG38-TSDC-Op2-View-1-1536x864-1.webp)
-
-## Pricing
-
-- Pricing is not listed in the provided content. Refer to the ergoCentric website or an authorized dealer for current pricing and configuration options.
+Pricing is not listed on the referenced page. For current prices and available configurations, see the Canadian or United States online stores or contact an authorized ergoCentric dealer.

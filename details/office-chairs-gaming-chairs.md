@@ -1,21 +1,32 @@
 # Office Chairs & Gaming Chairs
 
-## Overview
-A curated collection of 35 ergonomic office and gaming chairs from **Eureka Ergonomic**, designed for people who sit at a computer for long hours. The range focuses on posture support, comfort, and adjustability for both work and gaming setups.
+A curated collection of ergonomic office and gaming chairs from **Eureka Ergonomic**, designed for people who spend long hours at a computer. The range emphasizes posture support, comfort, and adjustability for both workstations and gaming setups.
 
-Collection URL: <https://eurekaergonomic.com/collections/ergonomic-office-desk-chairs>
+---
 
 ## Features
-- **Collection scope**
-  - 35 individual office and gaming chair models.
-  - Includes executive office chairs, ergonomic task-style seating, and chairs suitable for gaming setups.
 
-- **Ergonomic focus**
-  - Designed for long-hours computer use.
-  - Emphasis on posture support and overall sitting comfort.
-  - Adjustable elements (e.g., typical office-chair adjustments for height and positioning) to accommodate different work and gaming configurations.
-
-- **Available filters / specification options**
+- **Ergonomic focus**: Chairs designed to support healthy posture and extended sitting sessions for work or gaming.
+- **Use cases**:
+  - Office and executive work environments
+  - Gaming and PC setups
+- **Product variety** (35 products total):
+  - Executive office chairs (including multiple “Royal”, “Serene”, “Mathias”, “Alto” variants)
+  - Options suited to both professional and home-office settings
+- **Materials & finishes**:
+  - Napa leather executive chairs
+  - Microfiber leather executive chairs
+  - Silicone and leather combinations
+  - Silicone leather executive chairs
+- **Adjustability & comfort**:
+  - Designed for adjustability (e.g., height and other ergonomic adjustments; exact options vary by model)
+  - Focus on comfort for long-duration sitting
+- **Build & certification**:
+  - Several models marked as **Contract Grade**
+  - At least one model marked **FSC® Certified** (for responsible materials sourcing)
+- **Color options** (vary by model):
+  - Common options include Black, Off-White / Beige White, Brown, Beige Gray, Iron Gray, Orange
+- **Filterable attributes on the collection page**:
   - Type
   - Color
   - Price
@@ -31,82 +42,71 @@ Collection URL: <https://eurekaergonomic.com/collections/ergonomic-office-desk-c
   - Sale status
   - Availability
 
-- **Materials & upholstery options**
-  - Napa leather options.
-  - Microfiber leather options.
-  - Silicone leather and silicone/leather combination options.
-  - Multiple upholstery colors, including (where shown):
-    - Black
-    - Off-White / Beige White
-    - Brown
-    - Beige Gray / Iron Gray
-    - Orange (for some Napa leather models)
+---
 
-- **Example chair lines in the collection**
-  - **Mathias, Napa Leather Executive Office Chair**
-    - Genuine Napa leather executive office chair.
-    - Contract grade.
-    - FSC® Certified.
-    - Available colors: Black, Off-White.
-  - **Royal, Microfiber Leather Executive Office Chair**
-    - Executive office chair with microfiber leather upholstery.
-    - Contract grade.
-    - Available colors: Beige White, Black, Brown.
-  - **Serene, Napa Leather Executive Office Chair**
-    - Napa leather executive office chair.
-    - Contract grade.
-    - Available colors: Off-White, Black, Brown, Orange.
-  - **Alto, Silicone Leather Executive Office Chair**
-    - Executive office chair in silicone leather.
-    - Contract grade.
-    - Available color: Off-White.
-  - **Royal II, Silicone & Leather Executive Ergonomic Office Chair**
-    - Executive ergonomic office chair combining silicone and leather.
-    - Contract grade.
-    - Available colors: Beige Gray, Iron Gray, Brown.
-  - **Royal Slim, Executive Office Chair**
-    - Slim-profile executive office chair.
-    - Contract grade.
-    - Available colors: Beige White, Brown, Black.
-  - **Serene Ella, Napa Leather Executive Chair**
-    - Napa leather executive office chair.
-    - Contract grade.
+## Example Products in This Collection
 
-- **Quality & use context**
-  - Multiple models labeled as **Contract Grade**, suitable for commercial or higher-use environments.
-  - At least one model (Mathias) is **FSC® Certified**, indicating use of certified wood components.
-  - Intended for home offices, professional workspaces, and gaming setups.
+*(Prices and models are examples from within the collection; additional products are available on the source page.)*
+
+- **Mathias, Napa Leather Executive Office Chair**  
+  - Material: Napa leather  
+  - Notes: Contract Grade, FSC® Certified  
+  - Price: $749.99 (regular price shown as $799.99)
+
+- **Royal, Microfiber Leather Executive Office Chair**  
+  - Material: Microfiber leather  
+  - Notes: Contract Grade  
+  - Price range shown: around $429.99–$449.99 (with some sale pricing listed)
+
+- **Serene, Napa Leather Executive Office Chair**  
+  - Material: Napa leather  
+  - Notes: Contract Grade  
+  - Price range: $819.99–$849.99
+
+- **Alto, Silicone Leather Executive Office Chair**  
+  - Material: Silicone leather  
+  - Notes: Contract Grade  
+  - Price shown: $419.99 (regular price listed as $529.99)
+
+- **Royal II, Silicone & Leather Executive Ergonomic Office Chair**  
+  - Materials: Silicone & leather  
+  - Notes: Contract Grade  
+  - Price range shown: about $539.99–$569.99
+
+- **Royal Slim, Executive Office Chair**  
+  - Notes: Contract Grade  
+  - Price shown: $379.99 (regular price listed as $439.99)
+
+- **Serene Ella, Napa Leather Executive Chair**  
+  - Material: Napa leather  
+  - Notes: Contract Grade  
+  - Price shown: $1,299.99 (regular price listed as $1,399.99)
+
+---
 
 ## Pricing
-- **Overall price range for the collection (from page filters)**
-  - Approximately **$116.99 – $1,299.99** across all chairs.
 
-- **Sample product pricing (as listed)**
-  - **Mathias, Napa Leather Executive Office Chair**
-    - Current price: **$749.99**
-    - Previous price shown: **$799.99** ("Save $50")
-  - **Royal, Microfiber Leather Executive Office Chair**
-    - Listed regular price: **$449.99**
-    - Sale price mentioned: **$429.99** ("Save $20")
-  - **Serene, Napa Leather Executive Office Chair**
-    - Price range: **$819.99 – $849.99**
-  - **Alto, Silicone Leather Executive Office Chair**
-    - Current price: **$419.99**
-    - Previous price shown: **$529.99** ("Save $110")
-  - **Royal II, Silicone & Leather Executive Ergonomic Office Chair**
-    - Listed regular price: **$569.99**
-    - Sale price mentioned: **$539.99** ("Save $30")
-  - **Royal Slim, Executive Office Chair**
-    - Current price: **$379.99**
-    - Previous price shown: **$439.99** ("Save $60")
-  - **Serene Ella, Napa Leather Executive Chair**
-    - Current price: **$1,299.99**
-    - Previous price shown: **$1,399.99** ("Save $100")
+- **Overall collection price range** (as shown on the category page): **approximately $116.99 – $1,299.99**.  
+- **Typical executive chair pricing examples**:
+  - Mid-range executive chairs: roughly **$379.99 – $569.99**
+  - Higher-end Napa leather executive chairs: up to around **$1,299.99**
+- Some products list both a regular price and a current lower price; these are presented as factual price differences without additional promotional detail.
 
-> Note: Prices and savings are as listed on the referenced collection page and may change over time.
+For complete and up-to-date pricing across all 35 models, see the source collection page.
+
+---
+
+## Brand
+
+- **Brand**: Eureka Ergonomic  
+- **Collection URL**: https://eurekaergonomic.com/collections/ergonomic-office-desk-chairs
+
+---
 
 ## Images
+
 Representative images from the collection:
+
 - https://eurekaergonomic.com/cdn/shop/files/Office-Chair.jpg?format=webp&v=1711364279&width=300
 - https://eurekaergonomic.com/cdn/shop/files/Aero_Banner_Banner-PC_275e7796-d672-46a6-8942-fcbe3d80930a.jpg?format=webp&v=1765350438&width=2000
 - https://eurekaergonomic.com/cdn/shop/files/Aero_Banner_Banner-PC_2_06b2b166-27e8-416e-a547-f4ddb09b3590.jpg?format=webp&v=1765350438&width=2000

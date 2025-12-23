@@ -1,40 +1,30 @@
 # Setu Side Chair
 
-**Brand:** Herman Miller  
-**Category:** chair-accessories  
-**Slug:** `setu-side-chair`
+## Description
+The Herman Miller Setu Side Chair is a lightweight, flexible office chair designed for continuous support during computer and collaborative work. Its kinematic spine automatically responds to posture changes, providing ergonomic comfort without complex adjustment mechanisms.
 
-## Overview
-The Herman Miller Setu Side Chair is a lightweight, flexible office and meeting chair designed to provide continuous support during computer work and collaborative tasks. It automatically adapts to posture changes without requiring manual adjustments.
+- **Brand:** Herman Miller  
+- **Designer:** Studio 7.5  
+- **Category:** Chair Accessories / Side Chair  
+- **Product type:** Side/guest chair for work and collaborative spaces  
+- **Source:** <https://www.hermanmiller.com/products/seating/side-chairs/setu-side-chair/>
 
 ## Features
-- **Kinematic Spine:**
-  - Uses two types of polypropylene in the back structure.  
-  - Controls resistance as you recline, responding to your weight and movement.  
-  - Eliminates the need for complex adjustment mechanisms.
+- **Kinematic Spine technology**  
+  - Uses two types of polypropylene in the spine.  
+  - Controls recline resistance and supports the user’s weight.  
+  - Bends and flexes with every movement.
 
-- **Automatic Support and Recline:**
-  - Adapts to your posture changes as you sit, lean, or recline.  
-  - Provides consistent ergonomic support from chair to chair without user setup.
+- **Automatic ergonomic response**  
+  - Adjusts to posture changes without requiring manual controls or complex mechanisms.  
+  - Provides continuous support while sitting and reclining.
 
-- **Flexible Structure:**
-  - Back and seat bend and flex with natural body movements.  
-  - Supports frequent shifting of position, suited to dynamic work environments.
+- **Consistent sitting experience**  
+  - Designed to feel the same from chair to chair, providing a predictable level of support across multiple seats.
 
-- **Lightweight Design:**
-  - Easy to move and reconfigure in different spaces.  
-  - Well-suited for multipurpose rooms, collaborative zones, and informal work areas.
-
-- **Use Cases:**
-  - Side/guest seating in offices and meeting rooms.  
-  - Computer work and general task seating in less formal or shared spaces.  
-  - “Work anywhere” environments where people move between settings during the day.
-
-## Specifications
-Detailed dimensions, materials, and configuration options are not specified in the provided content. Refer to the manufacturer’s product page for full technical specifications.
+- **Adapted for modern work patterns**  
+  - Intended for use in a variety of less formal, collaborative spaces.  
+  - Lightweight and easy to move as people work in different locations throughout the day.
 
 ## Pricing
-Pricing information is not provided in the available content. Check the Herman Miller store or authorized dealers for current pricing.
-
-## Source
-[Manufacturer product page](https://www.hermanmiller.com/products/seating/side-chairs/setu-side-chair/)
+Pricing information is not specified in the provided content. For current pricing and available configurations, refer to the manufacturer or authorized retailers.

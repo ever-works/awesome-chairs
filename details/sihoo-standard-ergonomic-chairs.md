@@ -1,42 +1,34 @@
 # Sihoo Standard Ergonomic Chairs
 
 ## Overview
-- **Brand:** Sihoo  
-- **Category:** Chair accessories / Ergonomic office chairs (collection)  
-- **Type:** Range of standard ergonomic computer and office chairs for home and workplace use  
-- **URL:** https://sihoooffice.com/collections/standard-ergonomic-chairs
+Sihoo’s Standard Ergonomic Chairs collection consists of computer/office chairs designed for everyday desk and PC use in home offices and workplaces. The lineup focuses on ergonomic support, adjustability, and clean, modern styling.
 
-Collection of Sihoo’s core ergonomic desk chairs designed for everyday PC and office work, emphasizing adjustable support, spinal comfort, and simple modern styling.
+## Included Models
+- **Sihoo M102C Lightweight Ergonomic Office Chair with Basic Support**  
+  Lightweight chair offering fundamental ergonomic support for general office use.
 
-## Included Models (examples)
-- C300  
-- C300 Pro  
-- S300  
-- S100  
-- M18  
-- M57  
-- M59AS  
-- M56B  
-- M56C  
-- M102C  
-- D01  
-- D03
+- **Sihoo M18 Ergonomic Office Chair with Soft Cushion & Spine Support**  
+  Padded office chair featuring a soft seat cushion and support targeted at the spine.
+
+- **Sihoo M57 Ergonomic Office Chair with Breathable Mesh Cushion**  
+  Mesh office chair emphasizing breathability and cushioning for long sitting periods.
 
 ## Features
-- Ergonomic office chairs intended for regular desk and computer use in home offices and workplaces.
-- Back and spine support options across the range, including:
-  - Customizable lumbar support on selected models (e.g., Sihoo M102C with customizable lumbar support).
-  - Basic ergonomic support configurations (e.g., lightweight M102C with basic support).
-  - Designs described as providing triple spinal relief (e.g., Sihoo M18 classic office chair).
-  - Chair constructions focused on spine support (e.g., M18 with spine support features).
-- Comfort and material variations:
-  - Soft cushioned seat options for added sitting comfort (e.g., M18 with soft cushion & spine support).
-  - Full-mesh chair options for increased breathability, intended to suit sedentary or long-duration sitting (e.g., M57 full mesh breathable office chair).
-  - Lightweight ergonomic chair designs (e.g., M102C lightweight ergonomic office chair).
-- Visual and functional variety:
-  - Clean, modern styling suitable for both home and traditional office environments.
-  - Multiple style families (C-series, S-series, M-series, D-series) within the standard line to match different aesthetic and functional preferences.
+- **Ergonomic design** for computer and office work
+- **Adjustable support** (collection-level focus on ergonomic adjustability for posture and comfort)
+- **Clean, modern styling** suitable for home offices and workplaces
+- **Everyday desk and PC use** orientation (designed for regular, extended sitting at a desk)
+- **Lightweight construction** (M102C)
+- **Basic ergonomic support** (M102C)
+- **Soft seat cushion** (M18)
+- **Spine-focused support** (M18)
+- **Breathable mesh cushion** (M57)
 
 ## Pricing
-- The provided content does not list specific prices or plans.  
-- Pricing varies by individual chair model; see each product page within the collection for current pricing details.
+*(All prices as listed on the collection page; availability may vary and some items are marked as unavailable.)*
+
+| Model                                                          | Sale Price       | Regular Price | Notes                         |
+|----------------------------------------------------------------|------------------|---------------|-------------------------------|
+| Sihoo M102C Lightweight Ergonomic Office Chair with Basic Support | From **$159.99** | $229.99       | Listed as unavailable         |
+| Sihoo M18 Ergonomic Office Chair with Soft Cushion & Spine Support | **$169.99**      | $289.99       | Listed as unavailable         |
+| Sihoo M57 Ergonomic Office Chair with Breathable Mesh Cushion     | **$239.99**      | $319.99       | Listed as unavailable         |

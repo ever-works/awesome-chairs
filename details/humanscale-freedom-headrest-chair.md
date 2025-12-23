@@ -1,25 +1,22 @@
 ## Humanscale Freedom Headrest Chair
 
-**Brand:** Humanscale  
 **Category:** Chair Accessories  
-**Slug:** `humanscale-freedom-headrest-chair`
+**Brand:** Humanscale  
+**Source:** [Manufacturer product page](https://www.humanscale.com/products/seating/freedom-headrest)
 
-### Description
-An ergonomic desk chair designed for sustained computer work, optimized for users who prefer to recline while working. It combines automatic recline mechanics with an adjustable headrest and uses environmentally conscious materials.
+### Overview
+An ergonomic desk chair designed for extended computer use, with mechanisms that automatically adapt to the user rather than requiring manual adjustments.
 
 ### Features
-- Ergonomic design intended for all-day computer use
-- Weight-sensitive recline mechanism that automatically adjusts resistance based on the user’s weight
-- Dynamic headrest that moves with the user while reclining for continuous head and neck support
-- Supports a reclined working posture (suited for people who like to lean back while using a computer)
-- Constructed with eco-friendly / environmentally responsible materials
+- Ergonomic design for all‑day computer and desk work
+- Weight‑sensitive recline mechanism that automatically adjusts resistance
+- Dynamic headrest that moves with the user to support the head and neck while reclining
+- Uses eco‑conscious / environmentally friendly materials (per Humanscale’s sustainability focus)
 
 ### Pricing
-- Not specified on the provided content. Refer to the manufacturer or authorized retailers for current pricing.
+- Pricing is not specified in the provided content. Check the manufacturer or authorized retailers for current pricing and configuration options.
 
 ### Images
-- ![Humanscale Freedom Headrest Chair](https://media.wired.com/photos/681d68c9b5d0aa056d907788/4:3/w_640%2Cc_limit/DSC_3854.jpg)  
-- ![Humanscale Freedom Headrest Chair](https://media.wired.com/photos/62212d233699f7c7bb66476c/4:3/w_640%2Cc_limit/Gear-Humanscale-Freedom-Headrest-SOURCE-Humanscale.jpg)
+![](https://media.wired.com/photos/681d68c9b5d0aa056d907788/4:3/w_640%2Cc_limit/DSC_3854.jpg)
 
-### Source
-- [Manufacturer product page](https://www.humanscale.com/products/seating/freedom-headrest)
+![](https://media.wired.com/photos/62212d233699f7c7bb66476c/4:3/w_640%2Cc_limit/Gear-Humanscale-Freedom-Headrest-SOURCE-Humanscale.jpg)

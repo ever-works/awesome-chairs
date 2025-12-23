@@ -1,58 +1,68 @@
-## ProtoArc Flexer Pro
+# ProtoArc Flexer Pro
 
-**Category:** Chair & Accessories  
-**Type:** Ergonomic office chair  
-**Brand:** ProtoArc
+**Category:** Chair Accessories / Ergonomic Office Chair  
+**Brand:** ProtoArc  
+**Source:** [Product page](https://cna.st/affiliate-link/CMbRnGHVeVpM8D3YGhcQcQ6EJigTUZCcMzuf6SijebvsBoDKWx263bNfmA2cuBJxysas1h7zdmZaXPH3sdDV39vCppX6QtV8xW5s2yR2bNU9a6ojPJTsAwrzqar1uSbDL1Cecm38WvFSuh8h4rDyp7qSVCcW9XYmiTcWMTFsf4X2DZXa4AKJdsyrz15XMUsnSASZw1b7EgQGDykLAB8ZyrWJ2aTkHgQvC8ojXWyCoUUTQt5mXWKRKVj8KAspa9MHt6KETq4zcUVDGuzqiy6jiJvzUWZJKHxetwqZhF8oqYkH9VXai7SP6J)
 
-### Overview
-The ProtoArc Flexer Pro is an ergonomic office chair designed for extended computer use. It offers multiple adjustment points, a breathable mesh back, and firm seating support at a midrange price point.
+![ProtoArc Flexer Pro ergonomic chair](https://media.wired.com/photos/694055fb6f1488718f54b698/master/w_1600%2Cc_limit/ProtoArc%2520Flexer%2520Pro%2520Reviewer%2520Photo%2520SOURCE%2520Julian%2520Chokkattu.jpg)
 
-### Features
-- **Ergonomic adjustability**  
-  - Multiple adjustment points across seat, back, and tilt  
-  - Several recline angles for different working and relaxing postures  
-  - FlexSync tilt mechanism with adjustable recline tension (tilt resistance can be tuned)
+## Overview
 
-- **Seat adjustments**  
-  - Adjustable seat pan depth with approximately 2.8" of travel  
-  - Seat height adjustment range of about 3.9"  
-  - Ventilated seat cushion to improve airflow and reduce heat buildup  
-  - Firm seat foam for more structured support
+Ergonomic mesh office chair designed for long computer sessions, with extensive adjustability (seat depth, multi-lock recline, forward tilt, and 4D/5D armrests). It uses firm, high-resilience foam and a breathable, washable mesh for durable support at a midrange price. The clip-on lumbar support can detach relatively easily.
 
-- **Armrest adjustments**  
-  - Four‑way adjustable armrests (height, depth, width, and pivot/angle)
+## Features
 
-- **Backrest and lumbar support**  
-  - Mesh backrest using FlexWeave™ material  
-  - Approximately 200‑mesh micro holes in the backrest for enhanced airflow  
-  - Dual lumbar support elements for lower back alignment  
-  - Clip‑on lumbar component (removable; may detach relatively easily)
+### Ergonomic Adjustability
+- **Multi-lock recline up to 125°** for varied sitting postures.  
+- **Adjustable tilt tension** to match user body weight and task.  
+- **Approx. 7 cm seat-depth adjustment** to accommodate different leg lengths and improve thigh support.  
+- **Forward tilt (about 5°)** on the Flexer Pro model for a more active or task-focused posture.  
+- **Upgraded 4D/5D armrests (Flexer Pro)** for a more precise arm fit (multi-directional adjustments).  
+- **Multi-directional headrest** for head and neck positioning.  
+- **Multiple recline angles** beyond upright, allowing position changes through the day.
 
-- **User fit range**  
-  - Recommended height range: 5'1"–6'5" (approx. 155–196 cm)  
-  - Recommended weight range: 90–280 lb (approx. 41–127 kg)
+### Support & Comfort
+- **Dual-segment lumbar support** for targeted lower-back support.  
+- **Firm seat foam** for consistent, structured support over long sessions.  
+- **Ventilated cushion shell/base** with airflow channels to reduce heat and moisture buildup under the seat.  
+- **Neutral-spine-oriented design**, combining headrest, lumbar segments, and recline to help maintain alignment during extended sitting.
 
-- **Materials & build**  
-  - Breathable mesh backrest  
-  - Firm, cushioned seat with a removable/washable cover  
-  - Waterproof backrest surface for easier cleaning  
-  - Five‑star wheeled base  
-  - Silent casters designed to roll quietly on common floor surfaces  
-  - Overall solid build quality in a midrange price class
+### Materials & Breathability
+- **FlexWeave™ mesh back and seat** made from **100% nylon mesh**.  
+- **Breathable mesh structure** with optimized pore geometry to increase air circulation and help keep the user cooler.  
+- **Waterproof, hydrophobic mesh** that resists liquid absorption.  
+- **Rinse-clean surface**: everyday spills (e.g., coffee, milk) can be washed off directly.  
+- **Single-layer woven backrest structure** balancing strength and breathability.  
+- **55D high-resilience foam cushion** designed to maintain shape and resist sagging over time.
 
-- **Ease of cleaning & maintenance**  
-  - Waterproof backrest that can be wiped clean  
-  - Washable seat cover for easier maintenance
+### Durability & Hardware
+- **Durable mesh fabric** intended for daily use without rapid deformation.  
+- **High-density (55D) seat foam** for long-term structural integrity.  
+- **Class-4 gas lift**, commonly used for higher safety and durability standards in office chairs.  
+- **Smooth, hair-resistant casters** to reduce tangling and make rolling easier.
 
-### Specifications
-- Overall height (approx.): **38.58"–43.11"**  
-- Depth adjustment range (per manufacturer diagram): **~7"**  
-- Recommended user height: **5'1"–6'5"**  
-- Recommended user weight: **90–280 lb**
+### Model Distinctions (Flexer vs. Flexer Pro)
+- Both Flexer and Flexer Pro:  
+  - 125° multi-lock recline.  
+  - 7 cm seat-depth adjustment.  
+- Flexer Pro adds:  
+  - Forward tilt (about 5°).  
+  - Upgraded 4D/5D armrests.
 
-### Notes / Limitations
-- Clip‑on lumbar support piece can detach more easily than fixed lumbar systems.
+### Noted Limitations
+- **Clip-on lumbar support can detach easily**, which may affect stability of lower-back support if bumped or adjusted frequently.
 
-### Pricing
-- Exact price not specified in the provided content. Described as a **midrange‑priced** ergonomic office chair.  
-- For current pricing, see the product page: <https://cna.st/affiliate-link/CMbRnGHVeVpM8D3YGhcQcQ6EJigTUZCcMzuf6SijebvsBoDKWx263bNfmA2cuBJxysas1h7zdmZaXPH3sdDV39vCppX6QtV8xW5s2yR2bNU9a6ojPJTsAwrzqar1uSbDL1Cecm38WvFSuh8h4rDyp7qSVCcW9XYmiTcWMTFsf4X2DZXa4AKJdsyrz15XMUsnSASZw1b7EgQGDykLAB8ZyrWJ2aTkHgQvC8ojXWyCoUUTQt5mXWKRKVj8KAspa9MHt6KETq4zcUVDGuzqiy6jiJvzUWZJKHxetwqZhF8oqYkH9VXai7SP6J>
+## Specifications
+- **Recline range:** up to 125°, with multi-lock positions.  
+- **Seat depth adjustment:** approx. 7 cm.  
+- **Forward tilt (Flexer Pro):** approx. 5°.  
+- **Armrests:** upgraded 4D/5D adjustable armrests (Flexer Pro).  
+- **Backrest material:** FlexWeave™ 100% nylon mesh.  
+- **Seat cushion:** 55D high-resilience foam.  
+- **Structure:** single-layer woven mesh backrest.  
+- **Airflow design:** ventilated cushion base and micro-pore mesh for airflow.  
+- **Gas lift:** Class-4.  
+- **Casters:** smooth-rolling, hair-resistant.
+
+## Pricing
+Pricing details are not specified in the provided content, beyond being positioned as a midrange option.

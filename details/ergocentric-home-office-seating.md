@@ -1,22 +1,25 @@
-# ergoCentric Home Office Seating
+## ergoCentric Home Office Seating
 
-## Overview
+**Category:** Chair Accessories  
+**Type:** Ergonomic home office chairs & task seating (product range)  
+**Brand:** ergoCentric  
+**Source:** <https://www.ergocentric.com/product-category/office-seating/>
 
-**ergoCentric Home Office Seating** is a curated collection of ergonomic office and task chairs designed specifically for home office use. The chairs in this category emphasize adjustability, comfort, and support for proper posture during extended computer work, helping to reduce strain and support healthier, more productive home workspaces.
+### Overview
+A curated range of ergonomic office chairs and task seating from ergoCentric designed for home offices. The collection focuses on adjustability, comfort, and supporting healthy posture for people who spend long periods working at a computer, aiming to improve comfort and productivity in home workspaces.
 
-## Features
+### Features
+- Ergonomic seating specifically intended for home office and computer-based work.
+- Emphasis on adjustability to accommodate different body types and working styles (e.g., multiple chair models and configurations within the range).
+- Designed to promote proper sitting posture during extended periods of desk work.
+- Focus on overall comfort for long-term use in a dedicated or hybrid home workspace.
+- Range includes both task and executive-style office chairs suitable for different home office setups.
+- Available in multiple seating lines, allowing selection based on preferred style, feel, and level of support.
+- Built using a modular manufacturing approach that supports individualized chair fitting and configuration across the product line.
+- Options include mesh-back seating (e.g., iCentric Mesh) and other office chair designs, providing different levels of breathability and aesthetic styles.
 
-- Ergonomic office and task seating designed for home offices
-- Focus on adjustable configurations to suit different users and workstyles
-- Designed to promote proper posture during prolonged sitting
-- Emphasis on comfort for people who sit at a computer for long periods
-- Intended to help reduce discomfort and strain associated with desk work
-- Supports healthier, more productive home work environments
-
-### Representative chair lines in this category
-
-While specific availability may vary, the broader ergoCentric office seating range includes:
-
+### Included Seating Lines (Representative Examples)
+Home office seating may include models from the ergoCentric office seating family such as:
 - **tCentric Hybrid**
 - **airCentric 2**
 - **Centric Chair**
@@ -25,31 +28,12 @@ While specific availability may vary, the broader ergoCentric office seating ran
 - **eCentric Executive**
 - **iCentric Mesh**
 
-These lines illustrate the variety of ergonomic seating options that may be suitable for home office setups.
+(Specific availability for home office use may vary by region or retailer.)
 
-## Suitable For
+### Images
+- https://www.ergocentric.com/wp-content/uploads/work-environments-HomeOffice.webp
+- https://www.ergocentric.com/wp-content/uploads/Website-Office-env.webp
+- https://www.ergocentric.com/wp-content/uploads/Preview-ERG38-TSDC-Op2-View-1-1536x864-1.webp
 
-- Home office workers who sit at a computer for extended periods
-- Remote and hybrid workers needing a primary ergonomic task chair
-- Individuals looking to improve posture and comfort in a home workspace
-
-## Images
-
-![ergoCentric Home Office Seating](https://www.ergocentric.com/wp-content/uploads/work-environments-HomeOffice.webp)
-
-![ergoCentric Office Seating](https://www.ergocentric.com/wp-content/uploads/Website-Office-env.webp)
-
-![ergoCentric Chair Preview](https://www.ergocentric.com/wp-content/uploads/Preview-ERG38-TSDC-Op2-View-1-1536x864-1.webp)
-
-## Pricing
-
-Pricing is not specified in the provided content and varies by chair model and configuration. For current pricing, see the source page or contact an authorized retailer.
-
-## Brand
-
-- **Brand:** ergoCentric
-- **Category:** Chair Accessories / Ergonomic Office Chairs
-
-## Source
-
-- **More details:** https://www.ergocentric.com/product-category/office-seating/
+### Pricing
+Pricing information is not provided on the referenced page and typically varies by chair model, configuration, and region. For current pricing, consult ergoCentric’s Canadian or U.S. online stores or an authorized dealer.

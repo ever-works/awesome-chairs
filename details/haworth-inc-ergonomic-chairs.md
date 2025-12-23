@@ -1,32 +1,23 @@
 # Haworth Inc. Ergonomic Chairs
 
-**Category:** Chair Accessories  
-**Brand:** Haworth  
-**Website:** <https://www.haworth.com/na/en.html>
-
 ## Overview
-A family of ergonomic seating solutions from Haworth Inc. designed for modern workspaces and extended computer use. The range includes task, guest, and multi-purpose chairs aimed at supporting comfort and well-being for people who spend much of the day seated at a desk.
+Haworth Inc. offers a range of ergonomic office seating designed for people who spend long hours working at computers. The collection includes various chair types to support modern workspaces in offices and other professional environments.
 
 ## Features
-- Ergonomic seating designed for long hours of computer work
-- Range includes:
-  - Task chairs for individual workstations
-  - Guest chairs for visitor and meeting areas
-  - Multi-purpose chairs for flexible and shared spaces
-- Focus on adjustability to accommodate different users and postures
-- Emphasis on back support to help maintain healthier sitting positions
-- Design engineered to support physical comfort during extended use
-- Contemporary aesthetics suited to modern offices and other workplaces
-- Suitable for use across a variety of environments (e.g., workstations, meeting rooms, reception and guest areas)
-- Offered by a global furniture manufacturer specializing in workspace solutions
-- Some models available to browse and buy via Haworth’s online store (availability may vary by region)
+- **Ergonomic seating range**: Multiple chair models focused on ergonomic support for computer-based work.
+- **Chair types**:
+  - Task chairs
+  - Guest chairs
+  - Multi-purpose chairs
+- **Designed for extended use**: Engineered specifically for long periods of sitting and computer work.
+- **Adjustability**: Emphasis on adjustable elements (such as posture and positioning) to accommodate different users and workstyles.
+- **Back support**: Focus on supporting the back to help reduce strain during prolonged sitting.
+- **Comfort and well-being**: Chairs are designed to promote physical comfort and support user well-being in daily use.
+- **Workspace compatibility**: Intended for modern work environments, including offices and other professional settings.
+- **Broad application contexts**: Office seating is part of Haworth’s wider furniture solutions used in workplaces, higher education, healthcare, and government spaces.
 
-## Suitable For
-- People who sit at computers for most of the workday
-- Offices and corporate workspaces
-- Meeting rooms and collaboration spaces
-- Reception, lobby, and guest seating areas
-- Home offices seeking office-grade ergonomic seating
+## Category
+- Office seating / ergonomic chairs (listed under: **chair-accessories**)
 
 ## Pricing
-Pricing details are not provided in the available content. For current pricing and model-specific information, visit the Haworth website or online store.
+- **Not specified** in the provided content. Pricing and specific models are available via Haworth’s website and online store.

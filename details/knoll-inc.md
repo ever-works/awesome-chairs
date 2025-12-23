@@ -1,53 +1,47 @@
-### Knoll, Inc.
+# Knoll, Inc.
 
-**Website:** https://www.knoll.com  
-**Category:** Chair Accessories / Furniture Manufacturer
+**Category:** chair-accessories  
+**Website:** https://www.knoll.com
 
-#### Overview
-Knoll, Inc. is a Pennsylvania‑based furniture manufacturer focused on modern design for office and home environments. The company specializes in office systems and ergonomic seating—particularly work and task chairs suited for intensive computer use in corporate, home‑office, and academic settings—as well as furniture for living, dining, outdoor, and other workplace applications.
+## Overview
 
-#### Products & Services
-- **Ergonomic seating and task chairs**
-  - Generation by Knoll®
-  - Life® chair
-  - Cesca™ Chair
-  - Barcelona® Chair
-- **Workstations and office systems**
-  - Antenna Workspaces®
-- **Height‑adjustable tables and desks**
-  - k. stand™ height‑adjustable tables
-  - Lev by Knoll height‑adjustable tables
-  - Reff Profiles™ height‑adjustable desks
-- **Storage**
-  - Series 2 Storage
-- **Tables for office and home**
-  - Saarinen Dining Table – Oval
-- **Residential, home‑office, and outdoor furniture** (via online shop)
-  - Living, dining, outdoor, and home‑office furnishings
-- **Planning and specification resources for organizations**
-  - Workplace solutions for commercial, education, healthcare, and government sectors
+Knoll, Inc. is a Pennsylvania-based furniture manufacturer focused on modern design for office and home environments. The company offers furniture and workspace solutions for corporate offices, home offices, education, healthcare, and government organizations, with a particular emphasis on ergonomic seating and office systems suited for intensive computer use.
 
-#### Features
-- **Modern furniture design focus** for both office and home environments.
-- **Specialization in ergonomic seating**, including work and task chairs designed for intensive computer use.
-- **Comprehensive workplace solutions**, including seating, desks, tables, storage, and integrated workspace systems.
-- **Height‑adjustable work surfaces** (tables and desks) to support varied postures and ergonomic setups.
-- **Product mix spanning multiple settings**:
-  - Corporate offices and commercial workplaces
-  - Home offices
-  - Academic and educational environments
-  - Healthcare and government facilities
-  - Residential living, dining, and outdoor spaces
-- **Online shopping** for home, dining, outdoor, and home‑office furniture.
-- **Planning and design resources** for workplace projects via the “Plan for Workplace” section.
-- **Surface Finish Library** to review available material and finish options.
-- **Photo and Media Bank** for images and media assets.
-- **Price Lists & Application Charts** resource page for specification and budgeting.
-- **3D Furniture Symbols** for use in space planning and design software.
-- **How to Purchase** guidance for buyers and specifiers.
-- **Knoll showrooms** in various locations for in‑person product viewing.
-- **International availability** via a dedicated Knoll International site for customers outside North America.
+## Features
 
-#### Pricing
-- Specific pricing details are **not listed** in the provided content.  
-- A **“Price Lists & Application Charts”** page is available on the Knoll website, indicating that pricing and configuration information can be accessed there or via Knoll showrooms and standard purchasing channels.
+- **Modern office and home furniture**
+  - Products for living, dining, outdoor, and home office spaces.
+  - Workplace-focused solutions for commercial, education, healthcare, and government environments.
+
+- **Workplace seating and chairs** (examples from featured products)
+  - **Generation by Knoll®** – task/office seating designed for modern workspaces.
+  - **Life® Chair** – ergonomic task/office seating.
+  - **Cesca™ Chair** – side/arm chairs suitable for office, meeting, or home settings.
+  - **Barcelona® Chair** – lounge seating for reception, office, or residential use.
+
+- **Tables and desks**
+  - **Saarinen Dining Table – Oval** – dining/meeting table usable in home or office.
+  - **k. stand™ Height-Adjustable Tables** – sit-stand tables for ergonomic work.
+  - **Lev by Knoll Height-Adjustable Table** – electric/height-adjustable work surface.
+  - **Reff Profiles™ Height-Adjustable Desks** – integrated height-adjustable desks for workstation planning.
+
+- **Storage and systems**
+  - **Series 2 Storage** – office storage components for workspaces.
+  - **Antenna Workspaces®** – workstation and office system components for open-plan and private offices.
+
+- **Planning & specification resources**
+  - **Surface Finish Library** – reference for available materials and finishes.
+  - **Photo and Media Bank** – image resources for planning, presentations, and documentation.
+  - **Price Lists & Application Charts** – documentation to assist with budgeting and specifying products.
+  - **3D Furniture Symbols** – digital symbols/models for space planning and design software.
+  - **How to Purchase** – guidance on purchasing pathways (e.g., dealers, online, contracts).
+  - **Knoll Showrooms** – physical showrooms for viewing and evaluating products.
+
+- **Regional access**
+  - Dedicated **Knoll International** site for customers located outside North America.
+
+## Pricing
+
+- Specific product pricing and structured plans are **not listed** on the main overview page.
+- Knoll provides **price lists and application charts** through its online pricing resources.
+- Purchasing is typically done via the Knoll online shop (for home products) or through workplace channels/dealers and showrooms (for commercial projects), where project-specific quotes can be obtained.

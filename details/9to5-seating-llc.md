@@ -1,50 +1,38 @@
 ## 9to5 Seating LLC
 
 **Website:** https://www.9to5seating.com  
-**Category:** Chair Accessories / Ergonomic Seating  
-**Location:** 3211 Jack Northrop Ave., Hawthorne, CA 90250, USA
-
----
+**Category:** Chair Accessories  
+**Location:** 3211 Jack Northrop Ave., Hawthorne, CA 90250, USA  
+**Phone:** 888-925-7328  
+**Fax:** 310-220-2501
 
 ### Overview
-9to5 Seating LLC is a U.S. manufacturer specializing in ergonomic office and task chairs. Its products are designed for extended computer and desk use (8+ hours) in both corporate and home‑office environments.
-
----
+9to5 Seating LLC is a U.S.-based manufacturer specializing in ergonomic office and task seating. Their products are designed for extended computer and desk work (8+ hours) in both corporate offices and home-office environments.
 
 ### Features
-- **Ergonomic focus**
-  - Chairs specifically designed for long-duration (8+ hour) computer and desk work.
-  - Emphasis on ergonomic support for office and task seating.
+- U.S. manufacturer of seating products
+- Focus on ergonomic office and task chairs
+- Designed for extended (8+ hour) computer and desk use
+- Suitable for:
+  - Corporate office environments
+  - Home-office setups
+  - Education settings (classrooms and related spaces)
+  - Healthcare environments
+  - General commercial and industrial office use
+- Product range (as indicated by site imagery and labels) includes:
+  - Task and office chairs
+  - Lounge and guest seating
+  - Classroom seating (e.g., products such as Dash)
+  - Seating suited for work-from-home use
+- Multiple named product lines shown in site materials (examples include Koble, Vito, Tori, Jax, Dash, Mila, Lilly, Vox, Cavo, Neo Lite, Jax Lounge)
 
-- **Product scope**
-  - Office and task chairs for corporate environments.
-  - Seating options suitable for home offices and work‑from‑home setups.
-  - Product imagery and site sections highlight:
-    - General workplace/industry seating.
-    - Healthcare-related seating environments.
-    - Education and classroom seating (e.g., “Dash Classroom”).
-    - Lounge-style seating (e.g., Jax Lounge with wood legs).
-
-- **Design and collections (as referenced on the site)**
-  - Multiple named product lines featured in site imagery, including: Koble, Vito, Tori, Jax, Dash, Mila, Lilly, Vox, Cavo, Neo Lite.
-  - Visual emphasis on contemporary office, education, and collaborative environments.
-
-- **Manufacturing**
-  - U.S.-based manufacturer (domestic production indicated by company description and U.S. address).
-
-- **Service hours (operational info)**
-  - Customer Care: 6:00 am – 5:00 pm (PST).
-  - Shipping & Receiving: 8:00 am – 4:30 pm (PST).
-
----
+### Tools & Resources
+- Visual/product “chair designer” or configuration tool referenced via imagery (e.g., Chair Designer visuals for models like Cavo and Tori)
+- Project-spotlight content indicating use of products in real-world installations (offices, healthcare, education, etc.)
 
 ### Pricing
-Pricing details are not listed in the provided content. For current pricing, configurations, and purchasing options, contact 9to5 Seating or an authorized dealer.
+- Pricing information is not listed in the provided content. Contact 9to5 Seating directly for quotes and detailed pricing.
 
----
-
-### Contact
-- **Address:** 3211 Jack Northrop Ave., Hawthorne, CA 90250, USA  
-- **Phone:** 888.925.7328  
-- **Fax:** 310.220.2501  
-- **Website:** https://www.9to5seating.com
+### Business Hours (Customer & Logistics)
+- Customer Care: 6:00 am – 5:00 pm (PST)
+- Shipping & Receiving: 8:00 am – 4:30 pm (PST)

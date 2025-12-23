@@ -1,21 +1,16 @@
-# Herman Miller Inc
+## Herman Miller Inc
 
-## Description
-Herman Miller Inc is a long-established office furniture manufacturer and retailer, best known for ergonomic computer chairs such as the Aeron, Embody, and Mirra. Its products are designed to support extended periods of computer-based and creative work. The company sells directly via an online store and provides planning resources and programs for small businesses.
+**Category:** chair-accessories  
+**Website:** https://www.hermanmiller.com
 
-## Features
-- **Ergonomic seating focus**
-  - Office chairs designed for all-day computer and creative work
-  - Well-known models include Aeron, Embody, and Mirra
-- **Online store for home and office**
-  - Direct purchase of Herman Miller products online
-  - Mix of long-running classics and newer designs
-- **Small business program (Herman Miller Professional)**
-  - Aimed at small businesses
-  - Access to product advice for furnishing workspaces
-  - Exclusive discounts on qualifying purchases
-  - Complimentary 3D renderings to help plan office layouts
-- **Seating product categories**
+### Description
+Herman Miller Inc is a long-established office furniture manufacturer and retailer, known for ergonomic seating and workplace solutions. The company offers an online store and professional programs serving home users, small businesses, and larger workplaces.
+
+### Products & Services
+- **Online Store (Home Use)**
+  - E-commerce store for purchasing Herman Miller furniture and accessories for home and personal use.
+
+- **Seating**
   - Office chairs
   - Side chairs
   - Stacking chairs
@@ -25,17 +20,20 @@ Herman Miller Inc is a long-established office furniture manufacturer and retail
   - Lounge seating
   - Benches
   - Outdoor seating
-  - Consolidated “All Seating” catalog
-- **Gaming seating**
-  - Dedicated section for gaming-related seating products
-- **Desks and workspace solutions**
+  - All seating collections and lines
+
+- **Gaming**
+  - Gaming-focused seating and workspace products.
+
+- **Desks and Workspaces**
   - Workstations
-  - Private office solutions
+  - Private office furniture
   - Desks
   - Collaborative furniture
-  - Sit-to-stand desks and workstations
+  - Sit-to-stand workspaces
   - Benching systems
-  - Consolidated “All Desks and Workspaces” catalog
+  - All workspace solutions
+
 - **Tables**
   - Conference tables
   - Sit-to-stand tables
@@ -43,34 +41,29 @@ Herman Miller Inc is a long-established office furniture manufacturer and retail
   - Dining tables
   - Occasional tables
   - Outdoor tables
-  - Consolidated “All Tables” catalog
-- **Planning and learning resources**
-  - Resources to support workspace planning
-  - Sections for products, solutions, resources, knowledge, and stories
-- **Where-to-buy and contact options**
-  - "Where to Buy" directory for regional purchasing options
-  - Location selector for different countries
-  - Customer service and direct contact channels
+  - All table product lines
 
-## Products & Services
-- **Ergonomic office seating** (e.g., Aeron, Embody, Mirra and other office, lounge, and specialty chairs)
-- **Gaming seating and related products**
-- **Desks and workstations** (including sit-to-stand and benching systems)
-- **Tables** (conference, training, dining, occasional, outdoor)
-- **Workspace furniture solutions** (private office, collaborative furniture)
-- **Herman Miller Professional (small business program)**
-  - Product guidance
-  - Discounts
-  - 3D space renderings
+- **Small Business Program – Herman Miller Professional**
+  - Program for small businesses purchasing Herman Miller products.
 
-## Pricing
-- Specific pricing and any plan details are **not provided** in the referenced content.
-- Current prices and offers are available on individual product pages in the Herman Miller online store and via the Herman Miller Professional program (where applicable).
+### Features
+- Wide catalog of ergonomic office chairs and seating options.
+- Multiple seating formats (office, side, stacking, nesting, lounge, benches, stools, outdoor, ESD-safe seating).
+- Workspace solutions covering individual desks, shared benching, and private offices.
+- Height-adjustable (sit-to-stand) desks and tables.
+- Dedicated categories for conference, training, dining, occasional, and outdoor tables.
+- Gaming-specific product line for seating and workspaces.
+- Online store for direct purchasing.
+- Resources and planning content focused on workplace and home-office setups.
+- Over a century of operation providing furniture solutions.
+- Global location support with a selector for different regions (e.g., United States).
 
-## Official Links
-- Main website: https://www.hermanmiller.com
-- Online store (home): https://store.hermanmiller.com
-- Small Business / Herman Miller Professional: https://store.hermanmiller.com/pro
-- Where to Buy: https://www.hermanmiller.com/where-to-buy/
-- Customer Service: https://www.hermanmiller.com/customer-service/
-- Contact: https://www.hermanmiller.com/contact/
+### Programs & Business Services
+- **Herman Miller Professional (Small Business Program)**
+  - Aimed at small businesses.
+  - Provides product advice.
+  - Offers exclusive discounts on purchases.
+  - Includes complimentary 3D renderings for planning spaces.
+
+### Pricing
+- Pricing varies by product and configuration and is not detailed in the provided content. Current pricing is available through the Herman Miller online store or sales channels.

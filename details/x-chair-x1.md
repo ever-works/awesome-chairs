@@ -1,45 +1,35 @@
-### X-Chair X1
+# X-Chair X1
 
-**Category:** Chair accessories  
-**Brand:** X-Chair  
-**Product type:** Ergonomic mesh office chair  
-**Source:** [View product](https://cna.st/affiliate-link/6qoid9Au77JLK59xfPNtdZYLCbHzYGLBuuKyzVy5RmapAdxuGpgX6Jh3NALKTmQWVq8UqjVC9JmigMFgLXZw1cZZbWFbchsfyitDZBcSvhzRVKfd3AkK993YGz36QdvQETwhkJTsb9npzEwSvmpA2HT1HHcs8uJm9Uzqb4a6C5Yh5mYtXghET3yM8ZwWUfXs7sWWotSLFL7AkZqCw9E8GeVDGaJCLX2xpXTU5EjdD1RyiecqRnQ2geoDVWymF8jhi7NqY)
+Ergonomic mesh office chair with strong lumbar support and a wide range of adjustments, suitable for long hours of computer or gaming use.
 
----
+## Key Details
+- **Brand:** X-Chair  
+- **Model:** X1 (Flex Mesh office chair)  
+- **Category:** Office / task chair  
+- **Primary use:** Long-duration computer or desk work
 
-#### Overview
-The X-Chair X1 is an ergonomic office chair with a mesh (Flex Mesh) design, built around strong lumbar support and a broad range of ergonomic adjustments. It is intended for computer or gaming use over long sitting sessions and positioned as a general-purpose option for most users.
+## Features
+- **Flex Mesh fabric:** Soft, adaptive, breathable woven nylon for continuous comfort.
+- **Mesh seat:** Light "bounce" feel with maximum breathability; generally less firm than foam seats.
+- **4D armrests (standard):** Adjustable up/down, side-to-side, and front-to-back.
+- **Optional armrest upgrade:** FS 360 rotational armrests available.
+- **Variable recline:** Recline can be adjusted and locked into position.
+- **Recline tension control:** Single control to adjust recline resistance.
+- **Height-adjustable backrest:** Backrest can be raised or lowered independently.
+- **Lumbar fit adjustment:** Backrest height adjustment allows the DVL® lumbar support to align with the curve of your back.
+- **Adjustable seat depth:** Seat depth can be set to better match leg length.
+- **Adjustable seat height:** Seat height can be raised or lowered.
+- **Strong lumbar support:** Designed to support the lower back during extended sitting.
+- **Ergonomic design:** Wide range of adjustments aimed at comfort for long sitting sessions.
+- **Assembly:** Some assembly required.
 
----
+## Specifications
+The manufacturer specifies overall dimensions and capacity, but exact values are not provided in the source content:
+- Overall height, width, and depth
+- Seat height, width, and depth
+- Armrest height
+- Chair weight
+- Weight capacity
 
-#### Features
-- **Ergonomic design** with an emphasis on long-duration sitting comfort for computer or gaming use.
-- **Mesh construction (Flex Mesh)** for seat/back, providing a breathable sitting surface.
-- **Strong lumbar support** integrated into the backrest.
-- **Wide range of adjustments** (chair controls allow posture customization; exact mechanisms not specified in the provided content).
-- **Caster / wheel options** (see also Options section):
-  - Standard casters designed for smooth rolling on most floors.
-  - Optional FS wheels (non-locking or locking) designed for smoother and quieter movement, with a dual‑bearing design.
-- **Seat height impact of upgraded wheels:** FS wheels (both locking and non-locking) add approximately 1" to the seat height.
-
----
-
-#### Options
-- **Color options (Flex Mesh):**
-  - Grey Flex Mesh
-  - Black Flex Mesh
-
-- **Wheel / Caster options:**
-  - **Standard Caster** – everyday wheels for general use; designed to glide smoothly across most floor types.
-  - **FS Wheel Non-Locking** – high‑performance dual‑bearing wheels for quiet, fluid rolling on a variety of surfaces; does not lock; adds about 1" to seat height.
-  - **FS Wheel Locking** – similar rollerblade‑style wheels for smooth, quiet rolling; includes a locking feature for added stability; adds about 1" to seat height.
-
----
-
-#### Dimensions
-The product page references dimensional drawings, but specific measurements are not provided in the available content.
-
----
-
-#### Pricing
-Pricing information is not provided in the supplied content. Refer to the linked product page for current pricing and any available discounts or bulk options.
+## Pricing
+Pricing details are not provided in the source content. Refer to the retailer’s product page for current pricing and any bulk-purchase options.

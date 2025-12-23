@@ -1,27 +1,20 @@
 # Verus Plus Chairs
 
-**Category:** Chair Accessories / Task Chairs  
-**Brand:** Herman Miller
+**Brand:** Herman Miller  
+**Category:** Chair Accessories / Ergonomic Office Chairs  
+**Website:** <https://www.hermanmiller.com/products/seating/office-chairs/verus-chairs/>
 
-## Description
-Verus Plus Chairs are ergonomic office task chairs designed for intensive daily computer work. They provide adjustable support and responsive seating tailored to users who spend long hours at a desk.
+Herman Miller’s Verus Plus Chairs are ergonomic office task chairs designed for intensive daily computer work, with adjustability and support features intended to keep users comfortable during long hours at a desk.
+
+---
 
 ## Features
-- **Ergonomic task chair design** for intensive daily computer and desk work.
-- **Adjustable lumbar support** to help maintain spinal alignment and reduce lower-back strain.
-- **Responsive suspension seat/back** designed to distribute weight and support movement while seated.
-- **Multiple back options** (as shown in product imagery):
-  - Suspension back
-  - Triflex back
-  - Fully upholstered back
-- **Upholstered seat options** in various colors and finishes.
-- **Frame and finish variations** (e.g., dark and light frames, coordinated fabric/suspension colors) to suit different workspace aesthetics.
-- **Engineered for ergonomic alignment** to support proper posture over long periods.
-- **Designed for both short-term and long-term comfort** during extended sitting.
-- **Task-focused adjustability** (e.g., lumbar and suspension features) to fine-tune comfort for different users.
+- **Ergonomic design for intensive computer work** – Built specifically for task-focused, all-day desk use.
+- **Adjustable lumbar support** – Allows users to fine-tune lower back support for better posture and comfort.
+- **Responsive suspension** – Backrest and seat are designed to respond to movement, helping distribute pressure and support the body as users shift positions.
+- **Task-focused functionality** – Overall configuration and controls are optimized for productivity and long periods of seated work.
+
+---
 
 ## Pricing
-Pricing information is not specified in the provided content. Refer to the manufacturer’s site for current pricing and configuration options.
-
-## Link
-- Official product page: https://www.hermanmiller.com/products/seating/office-chairs/verus-chairs/
+Pricing information is not specified in the provided content. Refer to the manufacturer’s website or authorized dealers for current pricing and configuration options.

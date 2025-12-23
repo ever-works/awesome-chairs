@@ -1,37 +1,53 @@
 # Mavix M7
 
+**Category:** Chair / Gaming & Office Ergonomic Chair  
 **Brand:** Mavix  
-**Category:** Chair accessories / Gaming chair  
-**Type:** Ergonomic gaming & computer chair
+**Source:** https://mavix.com/products/m7
 
 ## Overview
-The Mavix M7 is an ergonomic gaming and computer chair designed for long, all‑day sessions at a desk or in front of a gaming setup. It combines a breathable mesh back, wide seat, and adjustable components with built‑in lumbar support and cooling seat materials.
+The Mavix M7 is an ergonomic mesh gaming and computer chair designed for long, all-day desk or gaming sessions. It features a wide seat, adjustable support elements, and dynamic lumbar support, with configuration options to better fit shorter users (alternate cylinder heights).
 
 ## Features
-- Ergonomic design intended for extended sitting during work and gaming
-- Mesh backrest for increased airflow and breathability
-- Wide seat to accommodate different sitting positions
-- Cooling seat surfaces using a combination of mesh and faux‑leather fabrics
-- Deep recline backrest for relaxed seating positions
-- Adjustable armrests (position and/or height adjustability; exact range not specified)
-- Adjustable seat angles for customized posture
-- Built‑in dynamic lumbar support to support the lower back
-- Locking caster wheels to help keep the chair in place when needed
-- Height‑adjustable gas cylinder, with alternate cylinder heights available for shorter users
-- Suitable for all‑day desk use and gaming sessions
+- **Ergonomic design for long sessions**: Built for extended computer and gaming use.
+- **Wide seat**: 21" seat for additional comfort and support.
+- **Mesh back and seat materials**:
+  - Mavix Mesh for continuous airflow with supportive, responsive tension.
+  - M-Breeze fabric in the lumbar area for added venting.
+- **Dynamic Variable Lumbar (DVL)®**:
+  - Lumbar support automatically adjusts to body position and movement.
+- **Adjustable recline mechanism**:
+  - Deep Recline Responsive Support Mechanism.
+  - Backrest reclines independently from the seat for consistent support while leaning back.
+- **Adjustable backrest height**:
+  - Backrest height can be raised/lowered for alignment from lumbar to neck.
+- **Adjustable headrest**:
+  - Independent headrest with adjustable height and angle.
+- **Four-way (4D) armrests**:
+  - Height, depth, width, and angle adjustments.
+- **Seat adjustments**:
+  - Adjustable seat angles (tilt) for ergonomic sitting positions.
+- **Wheel/caster system**:
+  - FS wheels for low-friction, quiet movement.
+  - Designed to roll on multiple surfaces (hardwood, vinyl, carpet, etc.).
+  - Locking wheels noted in product description.
+- **Built-in lumbar support** integrated into the backrest.
+- **Fit options for shorter users**:
+  - Alternate cylinder heights available.
+- **General construction**:
+  - Suitable for all-day desk work and gaming use.
+  - Some assembly required.
 
-## Options & Variants
-- **Color options:**
-  - Black / Red
-  - Black / White
-  - Black / Black
-- **Team purchases:** bulk purchasing and bulk pricing options are available for organizations/teams (details via the vendor).
-
-## Dimensions
-- Front and side dimension illustrations are provided on the product page.  
-- Specific numeric measurements were not included in the provided content.
+## Dimensions & Specifications
+*(Values are referenced in the source but not provided in the content. The chair includes the following measured attributes:)*
+- Height
+- Width
+- Depth
+- Seat Height
+- Seat Width (21" seat width is specified)
+- Seat Depth
+- Armrest Height
+- Weight
+- Weight Capacity
 
 ## Pricing
-- Listed as **on sale with $158 off** the regular price in the provided content.
-- Exact current price and any configuration‑specific pricing are not specified in the provided text and should be checked on the source page.
-- **Bulk pricing** is available for team purchases (details provided by the vendor).
+Pricing details are not provided in the supplied content. Refer to the product page for current pricing and any bulk purchase options.

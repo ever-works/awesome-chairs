@@ -1,34 +1,46 @@
-# Berco Designs Inc.
+## Berco Designs Inc.
 
-**Website:** https://www.bercodesigns.com  
-**Category:** Chair Accessories / Commercial Furniture
+Berco Designs Inc. is a contract furniture manufacturer specializing in commercial environments. Their products focus on tables and complementary seating for offices, training rooms, and collaborative spaces where people spend extended time at computers.
 
-## Description
-Berco Designs Inc. is a commercial furniture manufacturer specializing in tables, seating, office pods, and related accessories for offices, training rooms, and collaborative workspaces. Their products are designed for environments where people spend extended periods at computers and in group settings.
+**Website:** https://www.bercodesigns.com
 
-## Features
-- **Product Range**
-  - Tables for office, training, and collaborative spaces
-  - Seating, including task and guest chairs
-  - Office pods for focused or semi-enclosed work
-  - Ancillary furniture (e.g., storage elements, planters within collections)
-  - Accessories to complement tables, seating, and pods
-  - Coordinated furniture collections
+---
 
-- **Key Collections & Programs**
-  - **Century Collection**: Integrated line that includes seating, tables, storage, and planters for flexible, modern environments.
-  - **Liberty Booth**: Booth-style seating solution focused on comfort and design for shared or semi-private spaces.
-  - **Global Chair Sourcing Program**: Chair sourcing program aimed at supporting larger-scale projects and streamlined procurement.
-  - **Range, Liberty, Novus Original, Oasis Pod**: Named product lines/collections covering tables, seating, and pods.
+### Products & Solutions
+- Commercial tables
+- Complementary seating for computer- and desk-based work
+- Lounge seating
+- Stools
+- Office pods and privacy/meeting booths (e.g., Range Booth, Liberty Booth)
+- Space-division elements
+- Seating, tables, storage, and planters (e.g., Century Collection)
+- Global chair sourcing program for larger projects
 
-- **Manufacturing & Engineering**
-  - Products manufactured in St. Louis, USA.
-  - Over 50 years of engineering experience applied to product development and performance.
+---
 
-- **Customization & Design**
-  - Emphasis on customization and personalization of contract furniture solutions.
-  - Designed for commercial and contract environments such as corporate offices and training spaces.
+### Features
+- **Commercial focus**: Designed for offices, training rooms, collaborative spaces, and other guest-facing environments.
+- **Integrated collections**: Coordinated seating, tables, storage, and planters to build cohesive, flexible layouts.
+- **Privacy and focus options**: Office pods and booths to support semi-enclosed, focused work or small meetings.
+- **Comfort for extended use**: Seating and table solutions aimed at settings where people spend long periods at computers.
+- **Space division**: Products that help define and separate areas within open-plan spaces.
+- **Variety of seating formats**: Lounge seating, stools, and chairs to cover multiple postures and activities.
+- **Global chair sourcing**: Program to support larger or more complex seating projects with broader chair options.
+- **Manufactured in St. Louis**: In-house production with direct control over manufacturing quality.
+- **Engineering-driven development**: More than 50 years of engineering experience informing product performance and capabilities.
+- **Customization and personalization**: Emphasis on tailored contract furniture solutions for unique project requirements.
+- **Suitable for multiple settings**: Applicable to workplaces, training environments, collaborative zones, and guest/visitor areas.
 
-## Pricing
-- Pricing information is not publicly provided on the website.  
-- Contact Berco Designs or a dealer/representative for quotes and project-based pricing.
+---
+
+### Ideal Use Cases
+- Corporate and administrative offices
+- Training and education rooms
+- Collaborative workspaces and project rooms
+- Lounge and break areas
+- Guest and waiting areas
+
+---
+
+### Pricing
+Pricing information is not provided on the referenced content. Projects are likely priced on a custom/quote basis depending on product selection, configuration, and scale.

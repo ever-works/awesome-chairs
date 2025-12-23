@@ -1,39 +1,56 @@
-## [Coming Soon] Chloe, Comfy Rocking Lounge Chair, Off White
+# “Chloe” Comfy Rocking Lounge Chair (Off White)
 
-**Category:** Chair Accessories / Lounge Chair  
 **Brand:** Eureka Ergonomic  
-**Status:** Coming Soon
+**Category:** Chair Accessories / Rocking Lounge Chair  
+**Product Type:** Rocking Chair  
+**SKU:** ERK-LC25-OW
 
-**Source:** <https://eurekaergonomic.com/products/comfy-rocking-lounge-chair-arch-base>
+## Overview
+A cushioned rocking lounge chair upholstered in off‑white fabric with a navy/iron base and beech wood rockers. Designed for relaxed, extended sitting with plush, supportive cushions and an ergonomic semi‑circular frame suitable for casual PC or console use, reading, or lounging.
 
----
+## Features
+- **Skin‑friendly upholstery**  
+  Soft fabric that is wear‑resistant, scratch‑resistant, and wrinkle‑resistant for comfort and durability.
 
-### Overview
-The Chloe Comfy Rocking Lounge Chair is an off-white lounge chair designed for relaxed, extended sitting. It features a rocking base with a navy frame and wooden rockers, along with plush cushioning suitable for casual PC or console use.
+- **Robust frame and base**  
+  Upgraded iron frame with solid wood base designed for high stability, durability, and resistance to wear and corrosion.
 
----
+- **Ergonomic design**  
+  Semi‑circular ergonomic frame and generous cushioning support a relaxed posture for long sitting sessions, whether relaxing, reading, or working.
 
-### Features
-- Rocking lounge chair design for relaxed seating
-- Off-white upholstery
-- Navy-colored base/frame
-- Wooden rocker rails
-- Plush, padded cushions for added comfort
-- Intended for cozy, extended sitting sessions
-- Suitable for casual PC or console use
+- **Smooth rocking motion**  
+  Rocking design allows micro‑adjustments to sitting posture and provides smooth, gentle rocking for relaxation.
 
----
+- **High‑comfort cushioning**  
+  High‑density sponge body filling with cushions made from silk cotton and gray goose down for a plush, enveloping feel while maintaining support.
 
-### Images
-- ![Chloe Comfy Rocking Lounge Chair](https://eurekaergonomic.com/cdn/shop/files/ERK-LC25-OW-1_c225c081-c401-411e-b4d0-4f3641afe722.jpg?v=1721298812&width=300)
-- ![Chloe Comfy Rocking Lounge Chair – Lifestyle](https://eurekaergonomic.com/cdn/shop/files/Eureka_Ergonomic_Chloe_Comfort_Rocking_Lounge_Chair.jpg?v=1721965988&width=300)
+## Specifications
+- **Overall Dimensions:** 42.15" W × 40.19" D × 31.50" H  
+- **Item Weight:** 55.45 lb  
+- **Box Weight:** 68.23 lb  
+- **Box Dimensions:** 42.52" W × 40.55" D × 29.92" H  
+- **Maximum Weight Capacity:** 330 lb (approx. 200 kg)
 
----
+- **Color:** Off white (chair)  
+- **Frame Material:** Iron frame  
+- **Base:** Hardware iron frame + beech solid wood legs/rockers  
+- **Body Filling:** High‑density cutting sponge  
+- **Cushion Materials:** Silk cotton + gray goose down
 
-### Specifications
-Detailed specifications (dimensions, weight capacity, materials, etc.) are not provided in the available content.
+## Pricing
+- **Current Price:** $759.99  
+- **Original Price:** $799.99
 
----
+*(Pricing may change; check the source URL for latest information.)*
 
-### Pricing
-Pricing information is not provided in the available content. Refer to the source page for current pricing and availability.
+## Shipping
+- **Free standard shipping** within the lower 48 US states.  
+- **Standard transit time:** Approximately 2–7 business days (via FedEx/UPS) to the first ground‑level entryway (front door, porch, or garage).
+
+## Images
+- Thumbnail: https://eurekaergonomic.com/cdn/shop/files/ERK-LC25-OW-1_c225c081-c401-411e-b4d0-4f3641afe722.jpg?crop=center&height=100&v=1721298812&width=100  
+- Product image 1: https://eurekaergonomic.com/cdn/shop/files/ERK-LC25-OW-1_c225c081-c401-411e-b4d0-4f3641afe722.jpg?v=1721298812&width=300  
+- Product image 2: https://eurekaergonomic.com/cdn/shop/files/Eureka_Ergonomic_Chloe_Comfort_Rocking_Lounge_Chair.jpg?v=1721965988&width=300
+
+## Source
+- **Product Page:** https://eurekaergonomic.com/products/comfy-rocking-lounge-chair-arch-base

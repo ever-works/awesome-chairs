@@ -1,36 +1,46 @@
-## Knoll Newson
+## Knoll Newson Task™ Chair
 
-**Category:** Computer / task chair  
 **Brand:** Knoll  
-**Product page:** <https://cna.st/affiliate-link/VDkSwjASRpoWbh7jFFq7H1EGwVjShzD22fmppo1hRHX5MmtKR7XuHmt35Nnxq7CjMqE5zN48kxge8F3Spt3VqKhoQR452vmq4yufKs67jEtDue6b8zcmDXubUmWFNZFyS7aeMpP1d98gEe98pNusWf4fRxGeuK1xev4jzDrXRi8au6Hzn577CFpphYLNnD99huPVkdvfPicnm8BAhh51AbKe6GsuQj5h9Fuw4y3gVhwB7HGw6x7i1aUiCotscEEvyzWBndKVfqCvbUq2mzhTg>
+**Designer:** Marc Newson  
+**Category:** Ergonomic & Work Chair / Home Office Seating  
+**Slug:** `knoll-newson`
 
-### Overview
-A minimalist elastomer‑mesh task chair designed for all‑day desk and computer work. It emphasizes immediate comfort with straightforward adjustments rather than extensive fine‑tuning.
+### Description
+A minimalist elastomer‑mesh computer and task chair designed for all‑day desk use. It provides comfortable support right out of the box with straightforward adjustments and is built as a premium option for intensive computer work.
 
 ### Features
-- **Design & materials**
-  - Minimalist aesthetic.
-  - Elastomer mesh construction for the back (and likely seat) instead of traditional foam upholstery.
+- **Use case**
+  - Designed for all‑day desk and computer work
+  - Suitable for home office and workplace environments
 
-- **Intended use**
-  - Designed for all‑day desk and computer/task work.
+- **Design & materials**
+  - Minimalist, contemporary task‑chair design
+  - Elastomer mesh backrest
+  - Mesh construction emphasizes airflow and a lightweight look
 
 - **Comfort & ergonomics**
-  - Provides comfortable, supportive seating out of the box without complex setup.
-  - Feels particularly comfortable when reclining.
-  - Mesh backrest support can feel uneven depending on posture.
-  - Does not strongly support a very upright sitting position.
+  - Comfortable default support without extensive setup
+  - Especially comfortable when reclining
+  - Intended more for relaxed and reclined postures than very upright, forward‑leaning work
 
 - **Adjustability & controls**
-  - Basic adjustability (fewer fine‑tuned ergonomic adjustments than some high‑end task chairs).
-  - Recline tension adjustment controlled via a red knob.
+  - Basic ergonomic adjustability (not highly customizable compared with some advanced task chairs)
+  - Recline tension adjustment via a distinct red control knob
 
-- **Build quality & positioning**
-  - Well‑built, premium task chair.
-  - High price places it above many mainstream options and keeps it out of some “top‑value” lists, but it remains a higher‑end choice for computer work.
+- **Backrest characteristics**
+  - Mesh backrest can feel uneven depending on posture
+  - Does not strongly support a very upright sitting position
 
-### Warranty
-- Backed by a **12‑year warranty** (manufacturer).
+- **Build quality & durability**
+  - Premium construction suitable for long‑term, daily use
+  - Manufactured to a high standard consistent with Knoll task chairs
+
+- **Warranty**
+  - Manufacturer warranty of **12 years**
 
 ### Pricing
-- Specific pricing or plan details are **not provided** in the source content and may vary by configuration, retailer, and region.
+- **Price:** **$1,424.00 USD** (Newson Task™ Chair as listed)  
+- Positioned as a **high‑priced, premium** task chair relative to many alternatives
+
+### Source
+- Product information: [Knoll Newson Task Chair](https://cna.st/affiliate-link/VDkSwjASRpoWbh7jFFq7H1EGwVjShzD22fmppo1hRHX5MmtKR7XuHmt35Nnxq7CjMqE5zN48kxge8F3Spt3VqKhoQR452vmq4yufKs67jEtDue6b8zcmDXubUmWFNZFyS7aeMpP1d98gEe98pNusWf4fRxGeuK1xev4jzDrXRi8au6Hzn577CFpphYLNnD99huPVkdvfPicnm8BAhh51AbKe6GsuQj5h9Fuw4y3gVhwB7HGw6x7i1aUiCotscEEvyzWBndKVfqCvbUq2mzhTg)

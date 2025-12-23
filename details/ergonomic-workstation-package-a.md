@@ -1,26 +1,31 @@
-# Ergonomic Workstation Package A
+## Ergonomic Workstation Package A
 
-## Overview
-An all-in-one ergonomic home and office workstation bundle from BodyBilt, designed to support comfortable, healthy computer use for people who sit for long periods.
+**Type:** Ergonomic workstation bundle  
+**Brand:** BodyBilt  
+**Category:** Chair Accessories / Workstation Bundle
 
-- **Brand:** BodyBilt  
-- **Category:** Chair Accessories / Workstation Bundle  
-- **Slug:** `ergonomic-workstation-package-a`  
-- **Source:** <https://bodybilt.com/product/ergonomic-workstation-package-a/>
+### Overview
+Ergonomic Workstation Package A is an all-in-one home or office workstation bundle designed for users who spend long periods working at a computer. It combines an ergonomic chair, a height-adjustable desk, and a monitor setup into a coordinated workstation.
 
-## Included Components
-- **Ergonomic chair:** BodyBilt Sola LT ergonomic chair  
-- **Desk:** Height-adjustable desk (finish can be selected)  
-- **Monitor setup:** Choice of single or dual monitor configuration
+### Features
+- **Ergonomic chair**
+  - BodyBilt Sola LT ergonomic chair
+  - Designed to support comfortable, healthy posture during extended sitting
 
-## Features
-- All-in-one workstation bundle for home or office use
-- Ergonomic design focused on comfort during extended computer use
-- BodyBilt Sola LT chair for ergonomic seating support
-- Height-adjustable desk to support sitting and standing positions
-- Desk available in multiple finishes (selectable at purchase/configuration)
-- Option to configure as a single-monitor or dual-monitor workstation
-- Intended for users who sit for long periods and need a more supportive setup
+- **Height-adjustable desk**
+  - Desk height can be adjusted to suit the user
+  - Selectable desktop finish (specific finish options not listed in the provided content)
 
-## Pricing
-- Not provided on the referenced content; pricing may depend on configuration (desk finish, single vs. dual monitor, etc.). Refer to the product page or vendor for current pricing.
+- **Monitor configuration options**
+  - Choice of a **single monitor** setup, or
+  - **Dual monitor** setup
+
+- **Use case**
+  - Intended for home and office environments
+  - Aimed at improving comfort and ergonomics for people who sit and use a computer for long periods
+
+### Pricing
+Pricing information is not provided in the available content.
+
+### Source
+More details: https://bodybilt.com/product/ergonomic-workstation-package-a/

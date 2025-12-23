@@ -1,38 +1,25 @@
-# Davis Furniture Ergonomic Chairs
+## Davis Furniture Ergonomic Chairs
 
-## Overview
-Customizable ergonomic seating solutions from Davis Furniture (established 1944, headquartered in North Carolina, USA) designed for office and other work environments where users sit for extended periods, including computer‑intensive tasks.
+**Overview**  
+Customizable ergonomic seating solutions from Davis Furniture, offering office and task chairs designed for long-term comfort and support in computer‑intensive and other seated work environments.
 
-## Features
-- **Ergonomic seating for long‑term comfort**
-  - Designed to provide support during extended periods of sitting
-  - Suitable for computer‑intensive and other focused work environments
-
-- **Multiple chair types**
-  - Office and task chairs
+### Features
+- **Ergonomic design** for long-term comfort and support during extended sitting periods
+- **Customizable upholstery** with over **750 fabric options**
+- **Multiple finish choices** with **60+ available finishes**
+- **Chair types available:**
+  - Office/task chairs
   - Visitor chairs
   - Training chairs
   - Leather office chairs
+- **Use environments:** suitable for corporate, hospitality, healthcare, and educational settings
+- **Brand background:** Davis Furniture, established in 1944 and headquartered in North Carolina, USA
 
-- **High level of customization**
-  - Over **750 fabric upholstery options**
-  - **60+ finish options** for frames/components
-  - Ability to tailor chairs to different interior styles and branding needs
+### Suitable For
+- Computer‑intensive workstations and offices
+- Conference, training, and meeting rooms
+- Visitor and reception seating areas
+- Corporate, hospitality, healthcare, and educational facilities needing coordinated seating solutions
 
-## Use Cases
-- Workstations and offices requiring all‑day seating
-- Computer‑intensive roles (e.g., design, programming, call centers)
-- Meeting rooms and training rooms
-- Reception and visitor seating areas
-
-## Pricing
-Pricing details are not provided in the available content. For current pricing and configuration options, contact Davis Furniture or visit the website.
-
-## Brand / Manufacturer
-- **Brand:** Davis Furniture  
-- **Headquarters:** North Carolina, USA  
-- **Founded:** 1944
-
-## Source
-- Website: https://www.davisfurniture.com
-- Item slug: `davis-furniture-ergonomic-chairs`
+### Pricing
+Pricing is not specified on the provided content. For detailed pricing or quotes, refer to the manufacturer’s website: https://www.davisfurniture.com

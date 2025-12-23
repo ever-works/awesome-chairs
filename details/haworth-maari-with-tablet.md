@@ -1,18 +1,23 @@
-# Haworth Maari with Tablet
+## Haworth Maari with Tablet
 
-## Overview
-The Haworth Maari with Tablet is a multi-purpose chair that integrates a personal work surface, creating a compact setup for computer-based tasks in environments like education, training rooms, and flexible workspaces.
+**Category:** Chair Accessories  
+**Brand:** Haworth
 
-- **Brand:** Haworth  
-- **Category:** Chair Accessories
+### Overview
+Maari with Tablet is a multi-purpose chair that integrates a personal work surface, creating a compact setup for computer-based tasks such as laptop and tablet use. It is intended for education, training rooms, and flexible work environments, and is designed for medium-duration sitting.
 
-## Features
-- Integrated tablet arm providing a personal work surface
+### Features
+- Integrated tablet arm that functions as a personal work surface
 - Suitable for use with laptops and tablets
-- Designed for education, training rooms, and flexible or shared workspaces
-- Supportive shell for comfort during use
-- Compact footprint that combines seating and work surface
-- Intended for medium-duration sitting and computer-based tasks
+- Compact, space-efficient computer-work setup
+- Supportive shell for user comfort
+- Designed for medium-duration sitting
+- Appropriate for education environments
+- Suitable for training rooms
+- Well-suited to flexible and multipurpose workspaces
 
-## Pricing
-Pricing information is not provided in the available content.
+### Specifications
+- Detailed specifications (dimensions, materials, finishes, weight capacity) are not specified in the provided content.
+
+### Pricing
+- Pricing information is not specified in the provided content.
