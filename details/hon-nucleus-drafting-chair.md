@@ -1,24 +1,25 @@
-## Hon Nucleus Drafting Chair
+### Hon Nucleus Drafting Chair
 
 **Brand:** HON  
-**Category:** Chair accessories / Drafting chair  
-**Source:** [Wired – Best Office Chairs](https://www.wired.com/gallery/best-office-chairs/)  
-**Product type:** Mid-range drafting chair for high desks and standing-height workstations
+**Category:** Chair Accessories
 
-### Overview
-A drafting-height office chair intended for use at elevated work surfaces. It’s built for extended computer work with a medium-firm seat and multiple fit adjustments, though the tested configuration does not offer reclining and is not considered top-tier for its price segment.
+#### Description
+A mid-range drafting-height chair designed for use with high desks and standing-height workstations. It’s built for extended computer work at elevated surfaces, with a medium-firm seat and core ergonomic adjustments, though it’s not regarded as best-in-class for its price.
 
-### Features
+#### Features
 - **Drafting-height design** for high desks and standing-height workstations
-- **Medium-firm seat cushion** for prolonged sitting
-- **Adjustable lumbar support** to better match lower-back curvature
+- **Medium-firm seat cushion** for support during extended sitting
+- **Adjustable lumbar support** to fine-tune lower-back comfort
 - **Adjustable armrests**:
-  - Height adjustment (up/down)
-  - Lateral adjustment (in/out)
-- **Seat height adjustment** to align with elevated surfaces
-- **Seat depth adjustment** to improve thigh support and leg circulation
-- **Non-reclining model tested** (no tilt/recline function in the reviewed configuration)
-- **Intended use**: Extended computer work at elevated/standing-height workstations
+  - Height adjustable (up/down)
+  - Width/position adjustable (in/out)
+- **Seat height adjustment** to match different desk heights and user preferences
+- **Seat depth adjustment** to better fit different leg lengths
+- **Non-reclining model tested** (upright-only backrest; no tilt/recline function)
 
-### Pricing
-Pricing was not specified in the source. Check current listings or retailers for up-to-date pricing information.
+#### Pricing
+- Not specified in the provided source. Refer to the retailer or manufacturer for current pricing.
+
+#### Source
+- More details: <https://www.wired.com/gallery/best-office-chairs/>
+- Image: https://media.wired.com/photos/68af75ee52be2b76ffa4c01c/master/w_1600%2Cc_limit/Hon%2520Altern%2520SOURCE%2520Julian%2520Chokkattu.png

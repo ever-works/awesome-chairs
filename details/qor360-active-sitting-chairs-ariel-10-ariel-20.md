@@ -1,33 +1,28 @@
-# QOR360 Active Sitting Chairs (Ariel 1.0 & Ariel 2.0)
+## QOR360 Active Sitting Chairs (Ariel 1.0 & Ariel 2.0)
 
-**Brand:** QOR360  
-**Category:** Chair accessories / ergonomic office chairs  
-**Website:** <https://qor360.com>
+### Description
+QOR360’s Ariel 1.0 and Ariel 2.0 are ergonomic “active sitting” office chairs designed for people who spend long periods at a computer. Instead of promoting a fixed posture, they use a rocking base to encourage continuous small movements while sitting. This approach aims to improve posture, engage core muscles, and help reduce back discomfort associated with prolonged, static sitting. They can be used as an alternative to traditional office and gaming chairs.
 
-## Overview
-The QOR360 Ariel 1.0 and Ariel 2.0 are ergonomic “active sitting” office chairs designed for people who sit at a computer for long periods. Instead of supporting a fixed posture, they use a rocking base to promote continuous micro‑movements, aiming to reduce back pain and support healthier sitting compared with traditional office or gaming chairs.
+### Features
+- **Active sitting design** – encourages ongoing micro‑movements rather than static sitting.
+- **Rocking base** – seat rests on a rocking mechanism so the user can move subtly while seated.
+- **RedRocker® Technology** – patented mechanism that allows the chair to move smoothly in all directions.
+- **Full‑range motion** – supports multi‑directional movement (forward, backward, and side‑to‑side) while seated.
+- **Posture support** – promotes a more upright, dynamic sitting posture.
+- **Core engagement** – movement while sitting helps engage and strengthen core musculature over time.
+- **Back‑health focus** – specifically designed as an option for people experiencing back pain from prolonged sitting.
+- **For long‑duration computer use** – suitable for office, home office, and gaming setups where users sit for extended periods.
+- **Research‑informed design** – developed by a physician (Dr. Turner Osler) with a focus on healthier sitting mechanics.
 
-## Features
-- **Active sitting design** – Seat is intentionally unstable to encourage ongoing micro‑movements rather than static sitting.
-- **Rocking base mechanism** – Built-in rocking base provides a dynamic sitting surface instead of a fixed, padded seat.
-- **RedRocker® technology** – Uses QOR360’s patented RedRocker mechanism that allows movement in all directions.
-- **Full multi‑directional motion** – Chair can move effortlessly forward, backward, and side‑to‑side, keeping the body subtly in motion.
-- **Ergonomic posture support** – Promotes a more upright, aligned posture during desk work.
-- **Core muscle engagement** – The unstable seat engages and strengthens core muscles while sitting.
-- **Back‑pain oriented design** – Developed specifically to help relieve or prevent back pain associated with prolonged sitting.
-- **MD-designed** – Created by Dr. Turner Osler, a physician and researcher focused on healthier sitting.
-- **Research‑backed concept** – Overall chair concept is informed by medical and biomechanical research around posture and movement.
-- **Whole‑body health focus** – Intended not just for comfort, but to support overall physical health during long sitting sessions.
-- **Suitable for long-duration computer use** – Aimed at office workers and others who sit at a computer most of the day.
-- **Alternative to traditional office/gaming chairs** – Designed as a healthier replacement for standard static desk and gaming chairs.
-- **Product family** – Includes at least two variants: Ariel 1.0 and Ariel 2.0.
+### Pricing
+- Pricing is not specified in the provided content. Current pricing for the Ariel 1.0 and Ariel 2.0 is available on the QOR360 website.
 
-## Pricing
-Pricing details for the Ariel 1.0 and Ariel 2.0 are **not provided** in the supplied content.  
-For current prices and purchase options, visit the product pages on QOR360:
-- Ariel 2.0: `https://qor360.com/products/the-ariel-2`
-- Ariel 1.0: `https://qor360.com/products/the-ariel-active-chair-qor360`
+### Images
+- Ariel chairs in use: https://media.wired.com/photos/681d687e24cde0c4ff02703a/4:3/w_640%2Cc_limit/DSC_3865.jpg
+- Ariel 1.0 and Ariel 2.0 product image: https://media.wired.com/photos/68af78e41dec7f1cf8c9c806/4:3/w_640%2Cc_limit/The%2520Ariel%25202.0%2520and%2520The%2520Ariel%25201.0%2520source%2520QOR360.png
 
-## Images
-- ![](https://media.wired.com/photos/681d687e24cde0c4ff02703a/4:3/w_640%2Cc_limit/DSC_3865.jpg)
-- ![](https://media.wired.com/photos/68af78e41dec7f1cf8c9c806/4:3/w_640%2Cc_limit/The%2520Ariel%25202.0%2520and%2520The%2520Ariel%25201.0%2520source%2520QOR360.png)
+### Additional Information
+- **Brand:** QOR360
+- **Category:** chair-accessories
+- **Source URL:** https://qor360.com
+- **Slug:** `qor360-active-sitting-chairs-ariel-10-ariel-20`

@@ -1,30 +1,39 @@
 # Boulies EP200
 
-**Category:** Chair Accessories / Office Chair  
+**Type:** Mesh-back ergonomic office chair  
 **Brand:** Boulies  
-**Slug:** `boulies-ep200`
+**Category:** chair-accessories  
+**Featured:** Yes  
+**Product page:** https://boulies.com/products/ep200
 
-## Overview
-
-The Boulies EP200 is a budget-friendly ergonomic office/work chair designed for users who sit for long periods at a computer. It uses a mesh-based ergonomic design to provide breathability and adjustable support for daily work.
+## Description
+The Boulies EP200 is a budget-friendly mesh-back ergonomic work chair designed for users who sit for long periods and want comfort, breathability, and consistent support for daily computer and office work.
 
 ## Features
+- Ergonomic mesh-back design for improved airflow and breathability
+- Designed as an ergonomic office chair for extended work sessions
+- Multi-adjustable functions to fine-tune seating position
+- Adjustable seat height
+- Adjustable seat depth to better match different leg lengths
+- Contoured seat intended to support key pressure points
+- Sponge-cushion style seat (paired with mesh back) for comfort
+- Mesh construction aimed at reducing heat build-up during long sitting periods
+- Built with a focus on strength and durability for daily use
 
-- **Ergonomic mesh design** for improved breathability during long sitting sessions.
-- **Designed for extended computer use**, acting as a daily work chair for office or home office settings.
-- **Multi‑adjustable functions** that allow users to fine‑tune their seating position.
-- **Adjustable seat depth** to better match different leg lengths and sitting postures.
-- **Adjustable seat height** to align with various desk heights and promote healthier posture.
-- **Contoured seating support** intended to distribute pressure and support key contact areas.
-- **Focus on comfort and fatigue reduction** for people who work seated for long durations.
-- **Strong and durable construction** aimed at regular, everyday use.
-- **Positioned as a budget‑conscious option** for ergonomic seating (non‑premium price point).
+## Specifications
+- **Series:** EP200
+- **Chair type:** Mesh office / work chair
+- **Backrest:** Mesh
+- **Seat:** Cushioned (sponge cushion) seat
+- **Primary use case:** Daily office and computer work, long-duration sitting
+- **Adjustability:** Seat height and seat depth adjustment
+
+*(More detailed technical specifications such as dimensions, weight capacity, and materials are not provided in the available content.)*
 
 ## Pricing
-
-Pricing details are not specified in the provided content. Refer to the product page for current pricing and any promotions.
+Pricing and plan/variant details are not provided in the source content. Please refer to the product page for current pricing.
 
 ## Images
-
-- ![Boulies EP200 Chair](https://cdn.shopify.com/s/files/1/0055/5515/9126/files/EP200-black-Spongecushion_2_600x600.jpg?v=1700037430)
-- ![Boulies EP200 Series Mesh Office Chair](https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__effectual_x500.jpg?v=1683163340)
+- https://cdn.shopify.com/s/files/1/2127/6275/files/header-nav-bg__effectual_x500.jpg?v=1683163340
+- https://cdn.shopify.com/s/files/1/0055/5515/9126/files/EP200-black-Spongecushion_2_600x600.jpg?v=1700037430
+- https://cdn.shopify.com/s/files/1/2127/6275/files/EP200-detail__01_1600x.jpg?v=1668155773

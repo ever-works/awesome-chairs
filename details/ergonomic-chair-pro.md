@@ -1,42 +1,53 @@
-# Ergonomic Chair Pro
+## Ergonomic Chair Pro
 
-**Brand:** Branch  
-**Category:** Chair Accessories / Office Chair  
-**Product type:** Ergonomic task chair  
-**Source:** [Product page](/products/ergonomic-chair-pro)
+### Overview
+The Ergonomic Chair Pro by Branch is an adjustable task chair designed for people who sit for long periods, offering extensive ergonomic customization at a mid-range price point.
 
-## Overview
-The Ergonomic Chair Pro is a fully adjustable office chair designed for people who sit for extended periods. It focuses on adjustability, lumbar support, and comfort at a lower price point than many premium task chairs.
+### Key Details
+- **Brand:** Branch  
+- **Category:** Office Chair / Chair Accessories  
+- **Use Case:** Daily computer and office work, long-duration sitting
 
-## Features
-- **Adjustability & Ergonomics**
-  - 5D adjustable armrests: height, depth, width, angle, and removable
-  - Adjustable seat depth to accommodate different body heights
-  - Lockable recline to set preferred recline position
-  - Seat tilt function to support more active sitting positions
-  - Tunable lumbar support for lower-back comfort
-  - Optional tall cylinder to adjust overall seat height range
-  - Optional headrest for added neck and head support
-
-- **Seat & Backrest**
-  - High-density foam seat for long-duration sitting
+### Features
+- **Highly adjustable design** suitable for all-day use
+- **5D adjustable armrests**
+  - Height adjustment  
+  - Depth (forward/back) adjustment  
+  - Width (in/out) adjustment  
+  - Angle/pivot adjustment  
+  - Removable arms
+- **Adjustable seat depth** to fit different body heights
+- **Recline and tilt**
+  - Lockable recline positions  
+  - Seat tilt for more active sitting posture
+- **Lumbar support**
+  - Tunable/adjustable lumbar support for lower-back comfort
+- **Seat and back construction**
+  - High-density foam seat cushion  
   - Contoured mesh back for support and breathability
+- **Upholstery options**
+  - Flocked Italian double mesh  
+  - Vegan leather  
+  - Real leather
+- **Base and mobility**
+  - Powder-coated aluminum base  
+  - Smooth-rolling casters
+- **Capacity and ergonomics**
+  - Supports up to **275 lb** (approx. 125 kg)  
+  - Seat height range: **17" – 19.9"**
+- **Options & add-ons**
+  - Optional **tall cylinder** for increased seat height range  
+  - Optional **Ergonomic Pro Headrest** (compatible accessory) available in multiple finishes, including: Shore, Mineral, Boulder, Black, Spark, Everglade, Ivory Boucle, Black Boucle, Limestone Vegan Leather, Canyon Vegan Leather, Black Vegan Leather, Saddle Leather, and Black Leather.
 
-- **Materials & Upholstery Options**
-  - Available in flocked Italian double mesh upholstery
-  - Vegan leather upholstery option
-  - Real leather upholstery option
+### Specifications
+- **Seat height range:** 17" – 19.9"  
+- **Weight capacity:** 275 lb  
+- **Base material:** Powder-coated aluminum  
+- **Seat material:** High-density foam  
+- **Backrest:** Contoured mesh
 
-- **Base & Mobility**
-  - Powder-coated aluminum base for durability
-  - Smooth-rolling casters for easy movement
+### Warranty
+- **Warranty length:** 7 years (manufacturer warranty)
 
-- **Capacity & Dimensions**
-  - Weight capacity: up to 275 lb (approximately)
-  - Seat height range: 17"–19.9" (approximate)
-
-- **Warranty**
-  - 7-year warranty on the chair
-
-## Pricing
-Pricing is not specified in the provided content. Refer to the [official product page](https://www.branchfurniture.com/products/ergonomic-chair-pro) for current pricing and any available configurations or promotions.
+### Pricing
+- **Pricing:** Not specified in the provided content. Refer to the product page for current pricing and any available configurations.

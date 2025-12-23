@@ -1,76 +1,65 @@
 # The Ariel 2.0 Active Sitting Stool
 
-**Brand:** QOR360  
-**Category:** Active sitting stool / chair accessory
+## Overview
+The Ariel 2.0 by QOR360 is an active-sitting stool designed for people who spend long periods at a computer. Its rocking, omni-directional base keeps the pelvis and core engaged, encouraging continuous micro-movements instead of static sitting. Compared with the original Ariel 1.0, it offers a wider and softer seat, greater stability, and a higher weight capacity, making it suitable for most of the workday as an alternative or complement to traditional office or gaming chairs.
 
-The Ariel 2.0 is an active-sitting stool designed for people who sit at a computer for extended periods. Its rocking mechanism keeps the pelvis and core engaged, encouraging continuous micro-movements instead of static sitting. Compared with the Ariel 1.0, it offers a wider and softer seat, higher weight capacity, and greater stability for near full‑workday use.
-
----
+**Category:** Chair accessories / active-sitting stool  
+**Brand:** QOR360
 
 ## Features
+- **Active sitting mechanism**
+  - Uses QOR360’s patented REDROCKER® technology.
+  - Seat can move in all directions, promoting small postural adjustments.
+  - Slightly rocking base keeps pelvis and core engaged.
 
-- **Active-sitting design**
-  - Patented REDROCKER® mechanism allows the seat to move in all directions.
-  - Slightly rocking base encourages ongoing micro‑movements rather than fixed posture.
-  - Helps promote more upright posture and reduce strain associated with prolonged static sitting.
+- **Ergonomic benefits (as described by the manufacturer)**
+  - Designed to improve posture during seated work.
+  - Intended to help relieve or reduce back discomfort associated with prolonged sitting.
+  - Claimed to boost metabolism by up to 30% compared with static sitting.
 
-- **Upgraded from Ariel 1.0**
-  - Thicker foam padding for increased comfort.
-  - Approximately 15% wider seat for better support.
-  - Redesigned rocker to be more stable and slightly less “tippy.”
-  - Increased maximum weight capacity compared with the original Ariel.
+- **Upgraded stability and capacity (vs. Ariel 1.0)**
+  - Redesigned rocker for a more stable, less “tippy” feel.
+  - Updated mechanism to support heavier users.
+  - Maximum user weight capacity: **300 lb** (approx. 40 lb higher than the previous version).
 
-- **Seat and ergonomics**
+- **Seat design**
+  - Wider, softer seat than the Ariel 1.0.
+  - Thicker foam padding.
+  - Approximately 15% wider seat than the previous model.
   - Leather seat surface.
-  - Wider, cushier seat suitable for extended use (nearly a full workday).
-  - No armrests, allowing free upper‑body movement and closer access to desks.
+  - Designed to be comfortable for nearly a full workday.
 
-- **Base and build**
-  - Seat base made from powder‑coated steel (replacing earlier wood base) to support higher loads.
-  - Tougher rocking mechanism designed for regular, long‑term use.
-  - Designed to remain stable even when used with optional wheels.
+- **Handles and maneuverability**
+  - Bent metal handles at the front and sides to help reposition the stool.
+  - Larger handle at the back for easy grab-and-go movement.
 
-- **Handling and portability**
-  - Bent metal handles at the front and sides to move or reposition the stool more easily.
-  - Larger handle at the back for grab‑and‑go carrying.
+- **Base and construction**
+  - Seat base made from powder-coated steel instead of wood, to accommodate higher weight capacity.
+  - Toughened rocking mechanism for durability.
+  - Compatible with optional wheels (while maintaining improved stability, per manufacturer claims).
 
-- **Use cases**
-  - Intended as an alternative or complement to traditional office and gaming chairs.
-  - Suited for long computer or desk sessions where more movement is desired.
+- **Form factor & use**
+  - Backless stool design with **no armrests**.
+  - Intended as a primary or secondary seating option for long computer or gaming sessions.
 
 - **Warranty**
   - Comes with a lifetime warranty (per manufacturer description).
 
----
-
 ## Specifications
-
-- **Height options**  
-  - Tall: 22" – 29"  
-  - Short: 17" – 22"
-
-- **Seat dimensions**  
-  - Width: 15"  
-  - Depth: 10"
-
-- **Weight**  
-  - Stool weight: 18 lbs
-
-- **Weight capacity**  
-  - Maximum user weight: 300 lbs
-
-- **Design details**  
-  - Rocking, multidirectional base with REDROCKER® mechanism  
-  - Leather seat  
-  - No armrests
-
----
+- **Height options**
+  - Tall model: **22" – 29"** seat height
+  - Short model: **17" – 22"** seat height
+- **Seat dimensions**
+  - Width: **15"**
+  - Depth: **10"**
+- **Chair weight**
+  - Approx. **18 lb**
+- **Maximum user weight**
+  - **300 lb**
 
 ## Pricing
+- **Base price:** **$525.00 USD**  
+  (Single-stool, one-time purchase; no additional plans listed in the provided content.)
 
-- **Base price:** $525.00 (USD)
-- **Variants:**
-  - Tall height (22"–29")
-  - Short height (17"–22")
-
-*(No additional pricing tiers or plans are specified in the provided content.)*
+## Source
+- Product page: <https://cna.st/affiliate-link/fE2NNhSSqA4Vayc6cbXXsQTytBGf43mp6xCgqjF6ZQXbELXDRSvd8srEqYHhX8ijVHgf2pZfkvorFqxooiW4xFVaQ71FyEcbTpStGVjdw6txtzXWA9iBTcVYaekTCRn7onAP437mCMSfS2jVqcHQwMkVavQFhYV71NLMfU4rhSq3CQ7qrT9DLsZbf7oi5diaXmESKBYtjdXh2FKS1d2s9ydoaRZgLpXrRWTx6fwg9vdLxGB2CLBYMph5H15FStNtGN2EGUpdvz

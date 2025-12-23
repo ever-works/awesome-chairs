@@ -1,37 +1,27 @@
-# Zeph Stool
+## Zeph Stool
 
-**Brand:** Herman Miller  
-**Designer:** Studio 7.5  
-**Category:** Chair accessories  
-**Item type:** Height-adjustable ergonomic stool for sit-stand and drafting setups
+Height-adjustable ergonomic stool version of the Herman Miller Zeph chair, designed for sit-stand and drafting-height work where users alternate between sitting and perching.
 
-## Overview
-The Zeph Stool is a height-adjustable version of the Zeph chair designed for sit-stand and drafting-height workstations. It combines a classic shell-chair silhouette with a modern ergonomic mechanism that allows the stool to move naturally with the user while sitting or perching.
+### Key Details
+- **Brand:** Herman Miller  
+- **Designer:** Studio 7.5  
+- **Category:** Chair accessories / stool seating  
+- **Use cases:** Sit-stand desks, drafting-height computer setups, perching and seated work
 
-## Features
-- **Ergonomic kinematic monoshell**  
-  - One-piece (monoshell) seat-and-back design engineered to move with the user.  
-  - Recline motion is tuned so the body’s natural pivot points create the counterbalance, promoting a supported, ergonomic sitting experience.  
-  - Designed to keep the user feeling supported as they shift posture and move through the day.
+### Features
+- **Height-adjustable stool design** suitable for higher work surfaces and alternating between sitting and perching.
+- **Kinematic monoshell construction** engineered to move with the user, providing a natural-feeling recline and ergonomic support.
+- **Shell geometry** uses the body’s pivot points to create counterbalance for a more supported sitting experience.
+- **Optional 3D Knit insert** that:
+  - Slides directly into the shell without tools.
+  - Is removable and interchangeable for easy updates or cleaning.
+  - Is available in **20 textile color options** (when configured with 3D Knit).
+- **Material efficiency and sustainability:**
+  - 3D Knit is made from **50% post-consumer recycled content**.
+  - Knit is produced to the exact dimensions of the stool, resulting in **zero fabric waste**.
+- **Visual and functional design:**
+  - Classic, mid-century–inspired silhouette combined with modern ergonomic performance.
+  - Reduced number of components compared with typical task seating.
 
-- **Height-adjustable stool**  
-  - Drafting / stool-height base suitable for sit-stand desks and higher work surfaces.  
-  - Supports both seated and perching postures.
-
-- **Optional 3D Knit seat insert**  
-  - Removable and interchangeable 3D Knit cover that slides directly into the shell.  
-  - Tool-free installation and removal.  
-  - Can be swapped out to change color or refresh the stool over time.  
-  - Available in a range of textile color options (20 color choices indicated).  
-
-- **Material efficiency and sustainability (3D Knit)**  
-  - 3D Knit is made from 50% post-consumer recycled content.  
-  - Knitted to the exact dimensions of the shell to eliminate fabric cutting waste (zero fabric waste in the cover’s production).
-
-- **Design & aesthetics**  
-  - Classic shell-chair profile influenced by mid-century modern forms.  
-  - Contemporary ergonomic engineering integrated into a visually simple form.  
-  - Reduced number of components compared to more complex task chairs, for a cleaner look.
-
-## Pricing
-Pricing details are not specified in the provided content. For current pricing and configuration options, see the manufacturer’s product page: <https://www.hermanmiller.com/products/seating/stools/zeph-stool/>
+### Pricing
+Pricing is **not specified** in the provided content. Refer to Herman Miller or an authorized retailer for current pricing and configuration options.

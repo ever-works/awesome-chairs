@@ -1,31 +1,22 @@
-## Haworth Poppy with Tablet
+# Haworth Poppy with Tablet
 
-### Overview
-The Haworth Poppy with Tablet is a casual lounge/guest chair designed for use in collaborative and touchdown spaces. It combines a comfortable lounge-style seat with an integrated tablet arm to support relaxed yet productive computer or tablet use.
+## Overview
+The Haworth Poppy with Tablet is a casual lounge/guest chair designed to support relaxed but productive computer or tablet use. It combines softer, residential-style aesthetics with functional workspace elements for modern office and collaborative environments.
 
-### Features
-- **Integrated tablet arm** for convenient use of laptops or tablets.
-- **Casual lounge/guest chair design** suitable for informal meetings, waiting areas, and shared spaces.
-- **Intended for collaborative and touchdown spaces**, supporting short to moderate work sessions.
-- **Softer, residential-inspired styling** to create a more relaxed, approachable environment.
-- **Supportive seating** designed to provide enough comfort and posture support for light to moderate computer work.
-- **Integrated surface space** via the tablet arm for writing, reading, or device use without needing a separate table.
+- **Category:** Chair accessories / lounge seating
+- **Brand:** Haworth
+- **Use cases:** Collaborative areas, touchdown spaces, informal meeting zones, guest seating
 
-### Specifications
-- Dimensions: Not specified
-- Materials/finishes: Not specified
-- Color options: Not specified
-- Weight capacity: Not specified
-- Adjustability (seat/arm/back): Not specified
-- Tablet arm details (swivel, size, handedness): Not specified
+## Features
+- Lounge/guest chair design suitable for casual seating
+- Integrated tablet arm for laptops or tablets
+- Provides surface space for light to moderate computer or tablet work
+- Intended for relaxed yet productive work sessions
+- Suited to collaborative and touchdown spaces in office environments
+- Blends residential-inspired styling with task-oriented support
 
-### Pricing
-- Pricing information: Not specified
+## Brand
+Haworth Inc. is a privately held, family-owned office furniture manufacturer based in Holland, Michigan, United States. Founded in 1948, the company designs and manufactures office seating, tables, movable walls, panels, storage, and wood casegoods. Haworth operates worldwide through multiple regional divisions and a network of dealerships.
 
-### Brand
-**Manufacturer:** Haworth Inc.
-
-Haworth Inc. is a privately held office furniture manufacturer headquartered in Holland, Michigan, United States. Founded in 1948, the company designs and manufactures office furniture including seating, tables, movable walls, panels, storage, and wood casegoods, and serves customers worldwide.
-
-### More information
-- Source: [Haworth (Wikipedia)](https://en.wikipedia.org/wiki/Haworth_Inc.)
+## Pricing
+Pricing information for the Haworth Poppy with Tablet is not specified in the provided content. For current pricing, consult Haworth or an authorized Haworth dealer.

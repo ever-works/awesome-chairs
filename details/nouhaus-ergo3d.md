@@ -1,66 +1,61 @@
-# Nouhaus Ergo3D
+## Nouhaus Ergo3D
 
-## Overview
-The Nouhaus Ergo3D is an all-mesh ergonomic office chair designed for long hours at a desk. It combines an ElastoMesh seat, extensive adjustability, and a sturdy aluminum base to provide breathable comfort and tailored support for a wide range of body types and uses (office, computer, gaming, or study).
+### Overview
+The Nouhaus Ergo3D is an all‑mesh ergonomic office/computer chair designed for high adjustability, strong breathability, and full-body support during long hours of sitting. It includes interchangeable wheel sets to suit different flooring types.
 
-**Category:** Ergonomic office chair  
-**Brand:** Nouhaus  
-**Model:** NHO-0001  
-**Source:** <https://www.nouhaus.com/products/ergo3d>
-
-## Features
-- **All-mesh construction**
-  - Full-body mesh design (seat and back) for continuous airflow.
-  - Skin-friendly, breathable material to help dissipate heat and moisture.
-  - ElastoMesh seat designed to stay supportive and comfortable over long sessions.
-
+### Features
 - **Advanced ergonomic adjustability**
-  - **4D adjustable armrests** (height, depth, width, and angle) to accommodate different arm positions and desk setups.
-  - **3D lumbar support** that adjusts to fit the curve of the lower back and waist.
-  - **Reclining backrest** that can be freely adjusted up to 135° for working, reading, or reclining.
-  - Designed to adapt to various body shapes for a more personalized fit.
+  - 4D adjustable armrests (multi-directional adjustment)
+  - 3D lumbar support to fit the natural curve of the lower back
+  - Freely adjustable backrest with recline up to 135°
+  - Configurable to suit a range of body shapes and seating postures
+
+- **Full-body breathable mesh**
+  - All-mesh construction, including the seat and back
+  - Skin-friendly, breathable ElastoMesh-style material
+  - Promotes air circulation and dissipates heat
+  - Helps keep user cool and dry during extended sitting sessions
+
+- **Sturdy, certified construction**
+  - Passed BIFMA certification standards
+  - Tested for 1136 kg static pressure
+  - 5‑point aluminum alloy base for stability
+  - Dual casters for smooth rolling
+  - Supports up to 330 lb (approx.) user weight
 
 - **Multi-point body support**
-  - Support at four main contact areas: **head, back, hips, and hands**.
-  - Intended to reduce strain and discomfort during extended sitting periods.
+  - Targeted support at four key points: head, back, hips, and hands
+  - Designed to reduce discomfort and pain during long desk sessions
 
-- **Durable, stable construction**
-  - Aluminum alloy base with a 5-point design for stability.
-  - Dual casters for smooth movement.
-  - Certified to **BIFMA** standards.
-  - Tested to withstand **1136 kg static pressure**.
-  - Maximum recommended user weight: **up to 330 lb** (150 kg).
-
-- **Wheels for different floor types**
-  - Includes **two sets of wheels**:
-    - Standard casters.
-    - Rollerblade-style wheels.
-  - Allows users to choose based on flooring type (e.g., carpet, hard floors).
-
-- **Ease of assembly**
-  - Assembles in **eight steps** with clear instructions.
-  - Designed for straightforward home or office setup.
+- **Easy assembly**
+  - Assembly guided by clear instructions
+  - Installable in eight main steps
 
 - **Versatile usage**
-  - Suitable for use as an office chair, computer chair, gaming chair, or student desk chair.
+  - Suitable as an office chair, computer chair, gaming chair, or study/desk chair
+  - Appropriate for home, office, and student use
 
-- **Comfort over long sessions**
-  - Breathable mesh and ergonomic shaping aim to keep the body cool and supported during prolonged use.
+- **Flooring flexibility (from item description)**
+  - Includes two wheel/caster options (standard casters and rollerblade-style wheels)
+  - Can be configured for different flooring types
 
-## Specifications
+### Specifications
 - **Model:** NHO-0001  
-- **Frame/Base Material:** Aluminum  
-- **Overall Dimensions:** 27.95" W × 27.16" D × 44.09"–49.01" H  
-- **Net Weight:** 46.29 lb (approx. 21 kg)  
-- **Weight Capacity:** Up to 330 lb (per product description)  
-- **Base Design:** 5-point aluminum base with dual casters  
-- **Recline Range:** Up to 135°  
-- **Primary Seat/Back Material:** Breathable mesh (ElastoMesh seat)
+- **Material (frame/base):** Aluminum  
+- **Overall dimensions:** 27.95" W × 27.16" D × 44.09"–49.01" H  
+- **Net weight:** 46.29 lb  
+- **Delivery:** Free (per product listing)
 
-## Pricing
+### Pricing
 - **Sale price:** $299.99  
 - **Regular price:** $499.99  
-- **Delivery:** Free (according to product details)
+(Flat pricing for the chair; no additional plan tiers listed.)
 
-## Additional Information
-- **Warranty:** 3-year warranty with replacement parts supplied if a major defect is found (per manufacturer’s warranty terms).
+### Shipping & Returns
+- **Processing time:** Typically 24–48 hours before shipment (subject to stock availability)
+- **Estimated delivery time:** About 3–5 business days (may be longer for remote/hard-to-reach areas)
+- **Return policy:** 30-day return window from receipt; items must be in original condition and packaging. Refund is issued minus return shipping costs.
+
+### Warranty
+- **Warranty duration:** 3-year limited warranty from Nouhaus
+- **Coverage:** Replacement parts provided at no cost if a major defect is found (per warranty terms).

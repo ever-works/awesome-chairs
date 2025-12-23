@@ -1,34 +1,39 @@
-# Sihoo Standard Ergonomic Chairs
+## Sihoo Standard Ergonomic Chairs
 
-## Overview
-Sihoo’s Standard Ergonomic Chairs collection consists of computer/office chairs designed for everyday desk and PC use in home offices and workplaces. The lineup focuses on ergonomic support, adjustability, and clean, modern styling.
+Collection of Sihoo’s standard ergonomic office chairs designed for everyday desk and PC use in home offices and workplace settings.
 
-## Included Models
-- **Sihoo M102C Lightweight Ergonomic Office Chair with Basic Support**  
-  Lightweight chair offering fundamental ergonomic support for general office use.
-
-- **Sihoo M18 Ergonomic Office Chair with Soft Cushion & Spine Support**  
-  Padded office chair featuring a soft seat cushion and support targeted at the spine.
-
-- **Sihoo M57 Ergonomic Office Chair with Breathable Mesh Cushion**  
-  Mesh office chair emphasizing breathability and cushioning for long sitting periods.
+---
 
 ## Features
-- **Ergonomic design** for computer and office work
-- **Adjustable support** (collection-level focus on ergonomic adjustability for posture and comfort)
-- **Clean, modern styling** suitable for home offices and workplaces
-- **Everyday desk and PC use** orientation (designed for regular, extended sitting at a desk)
-- **Lightweight construction** (M102C)
-- **Basic ergonomic support** (M102C)
-- **Soft seat cushion** (M18)
-- **Spine-focused support** (M18)
-- **Breathable mesh cushion** (M57)
+
+- **Ergonomic design** for regular computer and desk work
+- **Adjustable support** (varies by model) to improve seated comfort
+- **Modern, clean styling** suitable for both home offices and professional environments
+- **Multiple seating options** within the standard range:
+  - Lightweight chair configuration with basic ergonomic support
+  - Soft cushioned seat with enhanced spine-oriented support
+  - Breathable mesh seating for improved airflow and cooler sitting
+
+These models are intended as general-purpose ergonomic task chairs rather than specialized or executive seating.
+
+---
+
+## Models in This Collection
+
+| Model | Description / Key Characteristics |
+|-------|-----------------------------------|
+| **Sihoo M102C Lightweight Ergonomic Office Chair with Basic Support** | Lightweight ergonomic office chair providing basic ergonomic support for everyday use. |
+| **Sihoo M18 Ergonomic Office Chair with Soft Cushion & Spine Support** | Ergonomic chair featuring a soft cushioned seat and focused spine support. |
+| **Sihoo M57 Ergonomic Office Chair with Breathable Mesh Cushion** | Ergonomic office chair with a breathable mesh cushion for better ventilation during long sitting periods. |
+
+---
 
 ## Pricing
-*(All prices as listed on the collection page; availability may vary and some items are marked as unavailable.)*
 
-| Model                                                          | Sale Price       | Regular Price | Notes                         |
-|----------------------------------------------------------------|------------------|---------------|-------------------------------|
-| Sihoo M102C Lightweight Ergonomic Office Chair with Basic Support | From **$159.99** | $229.99       | Listed as unavailable         |
-| Sihoo M18 Ergonomic Office Chair with Soft Cushion & Spine Support | **$169.99**      | $289.99       | Listed as unavailable         |
-| Sihoo M57 Ergonomic Office Chair with Breathable Mesh Cushion     | **$239.99**      | $319.99       | Listed as unavailable         |
+> All prices are as listed on the referenced page and may reflect promotions; actual pricing can change over time.
+
+| Model | Sale Price (USD) | Regular Price (USD) | Notes |
+|-------|------------------|---------------------|-------|
+| **Sihoo M102C Lightweight Ergonomic Office Chair with Basic Support** | From **$159.99** | **$229.99** | Listed as unavailable at time of capture. |
+| **Sihoo M18 Ergonomic Office Chair with Soft Cushion & Spine Support** | **$169.99** | **$289.99** | Listed as unavailable at time of capture. |
+| **Sihoo M57 Ergonomic Office Chair with Breathable Mesh Cushion** | **$239.99** | **$319.99** | Listed as unavailable at time of capture. |

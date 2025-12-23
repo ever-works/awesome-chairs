@@ -1,29 +1,32 @@
-## Description
-The Pipersong Meditation Chair is an ergonomic, non-traditional computer and desk chair designed for people who prefer or frequently shift into alternative sitting positions, such as cross-legged, kneeling, squatting, or sitting with one leg up. It supports active sitting and regular posture changes during long hours at a desk, and can also function as a standard chair when needed.
+# Pipersong Meditation Chair
+
+## Overview
+The Pipersong Meditation Chair is an ergonomic, non-traditional computer/desk chair designed for people who prefer or require alternative sitting positions over long periods. It includes a 360° swiveling footstool and can be used both for unconventional sitting (e.g., cross-legged) and as a standard office chair.
 
 ## Features
-- **Ergonomic design for alternative sitting**: Built specifically for users who sit cross-legged, kneeling, squatting, or in other unconventional positions.
-- **360° swiveling footstool**: Integrated rotating footstool enables multiple leg and foot positions and easy switching between them.
-- **Multiple sitting modes**:
+- **Non-traditional ergonomic design** tailored for users who sit for long hours in alternative positions.
+- **360° swiveling footstool** to support multiple leg and foot placements and easy repositioning.
+- **Supports multiple sitting styles**, including:
   - Cross-legged sitting
   - Squatting
   - Kneeling
-  - Standard sitting with feet on the floor
+  - One leg up
+  - Standard/feet-flat sitting
   - Other “creative” or mixed positions
-- **Active, flexible seating**: Encourages frequent posture changes and continuous micro-movements while seated.
-- **Adjustable armrests**: Armrests can be adjusted (height/position) to better support the arms in different sitting styles.
-- **Back cushion**: Padded back support for comfort while working at a desk.
-- **Convertible to a regular chair**: Footstool can be tucked behind the seat, allowing users to place their feet flat on the floor and sit in a conventional way.
-- **Designed for long-duration desk work**: Intended for people who spend many hours at a computer and find standard office or gaming chairs uncomfortable.
+- **Encourages frequent posture changes** while working at a desk, allowing users to shift positions throughout the day.
+- **Active, flexible seating** that facilitates continuous small movements rather than fixed, rigid postures.
+- **Adjustable armrests** (armchair configuration) for forearm support during typing or reading.
+- **Back cushion/backrest** for lumbar and back support.
+- **Convertible to a regular chair** by tucking the footstool behind and placing feet flat on the floor.
+- **Intended for all-day desk use**, particularly for users who find conventional office or gaming chairs uncomfortable when used for long sessions.
+
+## Accessories & Compatibility (sold separately)
+- Footstool slipcover (for the Meditation Armchair footstool)
+- Pro Backrest
+- Chair slipcover
 
 ## Pricing
-- **Pipersong Meditation Armchair**  
-  - Regular price: ~~$499.00 USD~~  
-  - Current listed price: **$449.00 USD** (one-time purchase)
+- **Listed price:** $449.00 USD (sale price)
+- **Listed original price:** $499.00 USD (before discount)
 
-> Pricing and availability may change; see the official product page for the latest details.
-
-## Additional Info
-- **Brand**: Pipersong  
-- **Category**: Active sitting chairs  
-- **Source**: https://pipersong.com/products/meditation-chair
+Pricing and discounts may change over time; refer to the product page for current rates.

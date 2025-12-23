@@ -1,37 +1,53 @@
-## ergoCentric Workplace Seating
+# ergoCentric Workplace Seating
 
-**Category:** Chair Accessories / Office Seating  
-**Brand:** ergoCentric  
-**Website:** <https://www.ergocentric.com/workplace-seating/>
+## Overview
 
-### Overview
+ergoCentric Workplace Seating is a line of ergonomic office chairs designed for business environments and all-day computer use. The range focuses on adjustability and support for employees who sit at a desk for extended periods.
 
-ergoCentric Workplace Seating is a line of ergonomic office chairs designed for business environments and all-day computer or desk work. The seating is intended to provide individually adjustable support so that employees who sit for extended periods can maintain comfort and an ergonomically appropriate posture.
+## Features
 
-### Features
+- **Ergonomic design for workplace use**  
+  - Chairs designed specifically for office and computer-based work environments.  
+  - Emphasis on supporting posture during extended seated tasks.
 
-- **Ergonomic design for office work**  
-  Developed specifically for workplace and business settings, with a focus on users who sit at a desk or computer throughout the day.
-
-- **Support for all-day sitting**  
-  Task chairs are optimized for prolonged use, aiming to reduce strain associated with extended seated work.
+- **High-performance task chairs**  
+  - Optimized for all-day, everyday use at a workstation.  
+  - Suitable for users who spend most of their workday seated at a desk.
 
 - **Individual adjustability**  
-  Chairs in this line are built to allow individualized fitting and adjustment so that different users can configure the seating to suit their body dimensions and work style.
+  - Configurable to support different body types and workstyles.  
+  - Designed so users can fine-tune the chair for personal comfort and ergonomic fit.
 
-- **Modular manufacturing approach**  
-  ergoCentric uses a modular manufacturing system for its office seating, enabling a wide range of configurations and helping accommodate varied user needs and workplace requirements.
+- **Modular manufacturing system**  
+  - Uses a modular approach to chair components and configurations.  
+  - Intended to accommodate a very wide range of users by combining different sizes and options.
 
-- **Range of task and executive seating options**  
-  The workplace seating collection includes multiple chair families intended for different preferences and roles, such as:
-  - tCentric Hybrid  
-  - airCentric 2  
-  - Centric Chair  
-  - myCentric  
-  - ergoForce  
-  - eCentric Executive  
-  - iCentric Mesh
+- **Support for comfort and productivity**  
+  - Seating configured to maintain comfort over long periods, helping reduce strain during continuous computer work.  
+  - Aims to support user focus by providing appropriate ergonomic support.
 
-### Pricing
+- **Range of office seating options**  
+  - Category includes multiple chair families, such as:
+    - tCentric Hybrid  
+    - airCentric 2  
+    - Centric Chair  
+    - myCentric  
+    - ergoForce  
+    - eCentric Executive  
+    - iCentric Mesh  
+  - Provides options from task seating to executive-style and mesh-back chairs (specific features vary by model).
 
-Pricing is not listed on the referenced page. For current prices and available configurations, see the Canadian or United States online stores or contact an authorized ergoCentric dealer.
+## Typical Use Cases
+
+- Office employees working at computer workstations for most of the day.  
+- Organizations standardizing ergonomic seating across departments.  
+- Workspaces needing adjustable seating to accommodate a diverse workforce.
+
+## Pricing
+
+Pricing is not listed in the provided content. Chairs in this line appear to be available through:
+
+- ergoCentric’s Canadian and U.S. online stores, and/or  
+- Authorized dealers listed in the “Where to Buy” resources on the ergoCentric website.
+
+For exact prices, configurations, and volume purchasing, consult the relevant online store or a local dealer.

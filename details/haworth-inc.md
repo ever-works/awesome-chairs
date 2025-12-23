@@ -1,37 +1,34 @@
 # Haworth Inc.
 
-**Category:** Chair Accessories / Office Chairs  
-**Website:** <https://shopping.haworth.com/collections/office-chairs>
-
 ## Overview
-Haworth Inc. is a global office furniture manufacturer specializing in ergonomic task chairs designed to support extended periods of computer and desk work in modern workspaces.
+Haworth Inc. is a global office furniture manufacturer specializing in ergonomic office seating designed for extended computer use in modern workspaces.
 
-## Product Range
-The collection on the referenced page includes multiple office and task chair models:
-
-- **Fern Digital Knit Office Chair**  
-- **Haworth Fern X Halo Gaming Chair**  
-- **Fern Ergonomic Office Chair**  
-- **Zody Ergonomic Office Chair**  
-- **Very Office Chair**  
-- **Soji Office Chair**  
-- **Nia Office Chair with Height Adjustable Arms**  
-- **Aloha Pro Ergonomic Office Chair**  
-- **Nia Office Chair**  
-- **Aloha Ergonomic Office Chair**
+## Products
+Representative task chair lines include:
+- **Fern Office Chair** – ergonomic desk chair with breathable mesh finish and lumbar support.
+- **Zody Office Chair** – ergonomic task chair (model referenced in description as a flagship line).
+- **Soji Office Chair** – office chair with ergonomic adjustments, lumbar support, and flexible mesh back.
+- **Breck Office Chair** – ergonomic desk chair with height-adjustable lumbar support, white trim, duo-tone hard casters, and 4D arms.
 
 ## Features
-- Ergonomic task chairs designed for long-duration computer and desk work.
-- Multiple chair families (Fern, Zody, Very, Soji, Nia, Aloha) to suit different workspace and user needs.
-- **Gaming-focused model:** Fern X Halo Gaming Chair tailored for gaming setups.
-- **Office-focused models:** Several ergonomic office chairs (Fern, Zody, Very, Soji, Nia, Aloha) for home and corporate offices.
-- **Adjustability options (as indicated by model names and variants):**
-  - Models available with and without lumbar support (e.g., Fern variants shown with “without lumbar support”).
-  - Nia Office Chair variant explicitly featuring height-adjustable arms.
-  - Mid-back configurations indicated for certain Nia models.
-- **Design and finish variations:**
-  - Multiple color and finish options (e.g., examples shown in greens, greys, blues, and other tones such as Emberglow, Bay, Paddle, Kale Green, Fog/Grey, Grey Mist, Juniper Green, Coral, Agave, Lagoon).
-  - Fabric/finish variations including a “Digital Knit” version for Fern.
+- **Ergonomic design for long hours of use**
+  - Engineered to support extended periods of computer and desk work.
+  - Focus on posture support for modern office environments.
+
+- **Lumbar support options**
+  - Integrated lumbar support on multiple chair models.
+  - Height-adjustable lumbar support on certain chairs (e.g., Breck).
+
+- **Adjustable seating and arm support**
+  - Ergonomic adjustment options on chairs like Soji.
+  - 4D adjustable armrests on specific models (e.g., Breck), allowing multi-directional arm positioning.
+
+- **Breathable mesh and flexible backs**
+  - Breathable mesh finishes for improved comfort and airflow (e.g., Fern).
+  - Flexible mesh back designs on models like Soji for adaptive back support.
+
+- **Caster and base details**
+  - Duo-tone hard casters on select chairs (e.g., Breck) for mobility on typical office floors.
 
 ## Pricing
-The provided content does not list specific prices or pricing plans. Pricing appears to vary by chair model and configuration and is not specified in the referenced page content.
+Pricing is not specified in the provided content and varies by chair model and configuration.

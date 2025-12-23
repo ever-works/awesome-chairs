@@ -1,47 +1,43 @@
-# Humanscale Path Chair
-
-**Category:** Chair Accessories  
-**Brand:** Humanscale  
-**Slug:** humanscale-path-chair
+## Humanscale Path Chair
 
 ![Humanscale Path Chair](https://media.wired.com/photos/62b369ee79907f238941ad55/4:3/w_640%2Cc_limit/Humanscale-Path-SOURCE-Humanscale-Gear.jpg)
 
-## Overview
-The Humanscale Path is a compact, ergonomic computer and office chair designed for tight workspaces and shared home offices. Its small footprint and minimalist profile make it suitable for small nooks and close desk setups while still supporting comfortable, all-day use.
+**Category:** Chair Accessories  
+**Brand:** Humanscale  
+**Slug:** `humanscale-path-chair`
 
-## Features
-- **Compact footprint**
-  - Approx. width: 20 in
-  - Approx. depth: 21 in
-  - Designed to fit in tight workspaces and shared home offices
-  - Easy to place in small nooks or close desk configurations
+### Overview
+The Humanscale Path is a compact ergonomic task chair designed for computer and office work in tight spaces, including shared or small home offices. Its minimal footprint and optional armless or small-arm configurations make it suitable for close desk setups and narrow nooks. The chair incorporates Humanscale’s ergonomic reclining mechanism and a supportive seat cylinder to support extended sitting, while using significant recycled content and sustainable upholstery options.
 
-- **Ergonomic design**
-  - Integrated ergonomic reclining mechanism for supported movement while seated
-  - Supportive seat cylinder to promote comfort during extended sitting
-  - Intended for all-day computer and office use
+### Features
+- **Compact footprint** for tight or shared workspaces  
+- **Minimalist profile** to fit into small nooks or close desk setups  
+- **Width and depth optimized** for space-saving use (approx. 20" wide x 21" deep)  
+- **Ergonomic reclining mechanism** from Humanscale for supported recline  
+- **Supportive seat cylinder** designed for comfort during long sitting sessions  
+- **Arm configuration options:**  
+  - Tiny arms for minimal added width  
+  - Fully armless configuration for maximum space savings and mobility  
+- **Sustainability-focused construction:**  
+  - Incorporates about 22 lb of recycled materials per chair  
+  - Includes recycled ocean plastics in its material mix  
+- **Eco-friendly upholstery option:**  
+  - FormSense Eco Knit textile available  
+  - 100% post-consumer recycled polyester  
+  - Designed to be cool against the skin  
+  - Comfortable, flexible knit surface  
+  - Easy to clean and maintain
 
-- **Configurable form factor**
-  - Minimalist, low-profile aesthetic
-  - Available with optional small (“tiny”) arms
-  - Available in a fully armless configuration for maximum space savings and ease of movement
+### Specifications
+- **Approximate dimensions:**  
+  - Width: ~20 in (51 cm)  
+  - Depth: ~21 in (53 cm)  
+- **Materials:**  
+  - ~22 lb of recycled content, including ocean plastics  
+  - Optional FormSense Eco Knit (100% post-consumer recycled polyester)
 
-- **Materials & sustainability**
-  - Each chair incorporates approximately 22 lb of recycled materials
-  - Includes recycled ocean plastics among its material inputs
-  - Optional upholstery in **FormSense Eco Knit**:
-    - 100% post-consumer recycled polyester
-    - Designed to be cool and comfortable against the skin
-    - Easy to clean and maintain
+### Pricing
+Pricing information is not specified in the provided source content.
 
-## Dimensions
-- Width: ~20 in
-- Depth: ~21 in
-
-*(Other dimensions such as height and seat range are not specified in the provided content.)*
-
-## Pricing
-Pricing information is not specified in the provided content. Refer to the manufacturer’s product page for current pricing and configuration options.
-
-## Source
-- Manufacturer page: https://www.humanscale.com/products/task-chairs/path.cfm
+### Source
+[Humanscale Path Chair — Product Page](https://www.humanscale.com/products/task-chairs/path.cfm)

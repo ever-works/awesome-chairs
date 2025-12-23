@@ -1,35 +1,55 @@
-# X-Chair X1
+## X-Chair X1
 
-Ergonomic mesh office chair with strong lumbar support and a wide range of adjustments, suitable for long hours of computer or gaming use.
+**Brand:** X-Chair  
+**Category:** Chair / Office & Gaming Seating
 
-## Key Details
-- **Brand:** X-Chair  
-- **Model:** X1 (Flex Mesh office chair)  
-- **Category:** Office / task chair  
-- **Primary use:** Long-duration computer or desk work
+### Overview
+The X-Chair X1 is an ergonomic mesh office chair designed for long hours of computer or gaming use. It emphasizes strong lumbar support and a wide range of adjustments, following the same core ergonomic design philosophy as the X2 K-Sport, in a more general-purpose configuration suitable for most users.
 
-## Features
-- **Flex Mesh fabric:** Soft, adaptive, breathable woven nylon for continuous comfort.
-- **Mesh seat:** Light "bounce" feel with maximum breathability; generally less firm than foam seats.
-- **4D armrests (standard):** Adjustable up/down, side-to-side, and front-to-back.
-- **Optional armrest upgrade:** FS 360 rotational armrests available.
-- **Variable recline:** Recline can be adjusted and locked into position.
-- **Recline tension control:** Single control to adjust recline resistance.
-- **Height-adjustable backrest:** Backrest can be raised or lowered independently.
-- **Lumbar fit adjustment:** Backrest height adjustment allows the DVL® lumbar support to align with the curve of your back.
-- **Adjustable seat depth:** Seat depth can be set to better match leg length.
-- **Adjustable seat height:** Seat height can be raised or lowered.
-- **Strong lumbar support:** Designed to support the lower back during extended sitting.
-- **Ergonomic design:** Wide range of adjustments aimed at comfort for long sitting sessions.
-- **Assembly:** Some assembly required.
+### Features
+- **Ergonomic mesh design** for long-duration sitting at a computer or gaming setup.
+- **Flex Mesh Fabric** back:
+  - Soft, adaptive, and breathable woven nylon.
+  - Provides continuous comfort through flexible support.
+- **Mesh fabric seat**:
+  - Light bounce/“give” in the seat.
+  - Maximized breathability compared with solid or foam seats.
+  - Generally less firm than traditional foam seats.
+- **Strong lumbar support** designed to support the curve of the lower back during extended use.
+- **Height-adjustable backrest**:
+  - Backrest height can be adjusted independently.
+  - Allows positioning of the DVL® (Dynamic Variable Lumbar) area to match the user’s lumbar curve.
+- **Adjustable seat height** for proper leg positioning and desk alignment.
+- **Adjustable seat depth** to better fit different leg lengths and improve thigh support.
+- **Extensive variable recline** mechanism:
+  - Chair can recline and be locked into position.
+  - Recline tension is adjustable using a single tension-control.
+- **4-dimensional armrests (standard)**:
+  - Height (up/down)
+  - Width (side-to-side)
+  - Depth (front-to-back)
+  - Angle/position adjustments for forearm support
+- **Optional FS 360 rotational armrests** upgrade (armrests that can rotate for additional positioning).
+- **General-purpose ergonomic office chair**:
+  - Intended as an upgrade from low-quality office chairs.
+  - Suitable for users who want essential ergonomic adjustments in a relatively minimalist, classic office-chair form factor.
+- **Some assembly required** upon delivery.
 
-## Specifications
-The manufacturer specifies overall dimensions and capacity, but exact values are not provided in the source content:
-- Overall height, width, and depth
-- Seat height, width, and depth
-- Armrest height
-- Chair weight
-- Weight capacity
+### Dimensions & Specifications
+The source references the following specification categories, but does not provide the actual numeric values:
 
-## Pricing
-Pricing details are not provided in the source content. Refer to the retailer’s product page for current pricing and any bulk-purchase options.
+- Overall height: *not specified*
+- Overall width: *not specified*
+- Overall depth: *not specified*
+- Seat height: *not specified*
+- Seat width: *not specified*
+- Seat depth: *not specified*
+- Armrest height: *not specified*
+- Chair weight: *not specified*
+- Weight capacity: *not specified*
+
+For exact measurements and capacity ratings, refer to the manufacturer’s product page.
+
+### Pricing
+Pricing information is not specified in the provided content.  
+For current pricing and any available configurations or discounts, see the product page: [X-Chair X1](/ "Manufacturer product page or retailer listing").

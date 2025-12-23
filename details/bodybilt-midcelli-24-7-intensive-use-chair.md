@@ -1,78 +1,77 @@
-## BodyBilt Midcelli 24/7 2800 Series – Intensive Use Chair
+## BodyBilt Midcelli 24-7 Intensive Use Chair
 
-### Description
-The BodyBilt Midcelli 24/7 2800 Series is an ergonomic mid‑back office and computer chair designed for intensive, around‑the‑clock use. It combines a contoured seat with a flexible mesh back, multiple adjustments, and SKYDEX pressure‑distributing foam to support long sitting sessions.
+### Overview
+The BodyBilt Midcelli 24/7 2800 Series is an ergonomic mid-back intensive-use office chair designed for continuous (24/7) operation. It combines a contoured, cushioned seat with a flexible elastomeric mesh back for support during long computer or control-room sessions, and offers extensive adjustment and configuration options.
 
 ### Features
-- **24/7 intensive‑use rating** for continuous, all‑day and overnight use
-- **Body‑fitting mid‑back and seat contours** to support the back, buttocks, and legs
-- **Slim profile** to fit a variety of workspaces
-- **Elastomeric mesh back** designed for:
-  - Increased airflow
-  - Support of lower and upper back regions
-  - Individualized lumbar support
-- **Plush seat with SKYDEX technology**:
-  - Engineered geometries to better distribute seated pressure
-  - Gradual compression that conforms to the user’s shape
-  - Enhanced comfort during extended sitting
-- **Multiple adjustment points**, including:
-  - Sliding seat (seat depth adjustment)
-  - Seat height adjustment
-  - Backrest height adjustment
-  - Backrest angle adjustment
-- **Air lumbar system** for adjustable lumbar support
-- **Intensive‑Use (I) mechanism** designed for heavy‑duty, continuous operation
-- **360° swivel** for full rotation
-- **Heavy‑duty components**:
-  - Heavy Duty cylinder (short height)
-  - Optima 24/7 arms with Heavy Duty S’port pads
-  - Marquis 27" diameter base
-  - 2" chrome casters
-- **300 lb weight capacity**
-- **Extensive customization options**, including seat shape, seat depth, fabric, and finishes
-- **Warranty coverage** with select components carrying lifetime coverage and other parts covered for multiple years (details vary by component)
+- **Ergonomic support**
+  - Mid-back design supporting both lower and upper back regions
+  - Contoured seat pad to support buttocks and legs during long sitting sessions
+  - Elastomeric mesh back promotes airflow and helps keep the user cooler
+  - Built-in lumbar support designed to provide targeted lower-back support
+  - SKYDEX® cushioning in the seat uses engineered geometries to better distribute seated pressure and provide gradual compression for all-day comfort
+
+- **Adjustability & mechanism**
+  - Dynamic tensioning mechanism for optimized support while reclining
+  - Intensive-use mechanism engineered for 24/7 applications
+  - Sliding/adjustable seat depth (2.5" adjustment range)
+  - Backrest height adjustment: 2.75"
+  - Backrest angle adjustment: up to 12°
+  - Seat height adjustment range of 3.5" (17.0"–20.5" seat height)
+  - 360° chair swivel
+  - Air lumbar system for adjustable lumbar support
+
+- **Arms & seating options**
+  - Optima 24/7 arms with heavy-duty S’port arm pads
+  - Multiple seat options:
+    - Standard seat with moderate contouring (#7 seat)
+    - Standard flat seat (#8 seat)
+  - Multiple seat depths available: 17.5", 19.0", and 19.5"
+
+- **Materials & construction**
+  - Slim-profile back with elastomeric mesh
+  - SKYDEX® foam in the seat cushion
+  - Heavy-duty short cylinder for intensive use
+  - Marquis 27"-diameter black base
+  - Chrome 2" casters (C7)
+
+- **24/7 & durability characteristics**
+  - Rated for intensive, 24/7 use (suitable for control rooms, dispatch, or other continuous-use environments)
+  - Designed for all-day, everyday computer and office work
+  - Weight capacity up to 300 lbs
+
+- **Customization & finishes**
+  - Extensive configuration options (seat shape, depth, fabrics, and other components)
+  - Quick-ship fabric options include:
+    - Grade 01 Staccato: Navy, Black, Sandy
+    - Grade 04 Brisa: Black Onyx, Night Navy
 
 ### Specifications
-- **Overall dimensions**: 31" W × 28" D × 47" H
-- **Weight**: N/A
-
-**Backrest**
-- Backrest height: **25.125"**
-- Backrest height adjustment: **2.75"**
-- Backrest angle adjustment: **12°**
-- Lumbar region height: **18.25"**
-- Shoulder region height: **18.3125"**
-
-**Seat & Adjustments**
-- Available seat depths: **17.50"**, **19.00"**, **19.50"**
-- Seat depth adjustment range: **2.50"**
-- Seat height adjustment range: **3.50"**
-- Seat height range: **17.00" to 20.50"**
-- Seat options:
-  - (1) Standard Seat – Moderate contouring (#7 Seat)
-  - (2) Standard Seat – Flat (#8 Seat)
-
-**Mechanism & Structure**
-- Mechanism: **Intensive‑Use (I) Mechanism**
-- Base: **Marquis Base – Black – 27" diameter (B2)**
-- Cylinder: **Heavy Duty Cylinder – Short Height (YHDS)**
-- Casters: **2" Chrome Casters (C7)**
-- Swivel: **360°**
-- Foam: **SKYDEX (SKYDEX)**
-- Weight capacity: **300 lbs**
-
-### Options & Customization
-- **Chair arms**: Optima 24/7 Arm with Heavy Duty S’port Pad (ASPTL/)
-- **Seat sizes**:
-  - Standard Moderate Contour (#7 Seat)
-  - Standard Flat (#8 Seat)
-- **Seat depths**: 17.50", 19.00", 19.50"
-- **Quick‑ship fabric options**:
-  - Grade 01 Staccato – Navy
-  - Grade 01 Staccato – Black
-  - Grade 01 Staccato – Sandy
-  - Grade 04 Brisa – Black Onyx
-  - Grade 04 Brisa – Night Navy
+| Attribute                     | Value                                |
+|------------------------------|--------------------------------------|
+| Product type                 | 24/7 intensive-use mid-back chair    |
+| Dimensions (L × W × H)       | 31" × 28" × 47"                     |
+| Backrest height              | 25.125"                              |
+| Backrest height adjustment   | 2.75"                                |
+| Backrest angle adjustment    | 12°                                  |
+| Backrest lumbar region       | 18.25"                               |
+| Backrest shoulder region     | 18.3125"                             |
+| Seat depth options           | 17.5", 19.0", 19.5"                 |
+| Seat depth adjustment        | 2.5"                                 |
+| Seat height adjustment range | 17.0"–20.5" (3.5" of adjustment)    |
+| Mechanism                    | Intensive-use (I) mechanism          |
+| Lumbar system                | Air lumbar                           |
+| Arms                         | Optima 24/7 arms w/ heavy-duty pads  |
+| Base                         | Marquis base, black, 27" diameter    |
+| Casters                      | Chrome casters, 2" (C7)              |
+| Foam/cushion                 | SKYDEX® technology                   |
+| Swivel                       | 360°                                 |
+| Weight capacity              | 300 lbs                              |
+| SKU                          | 2800-ISS                             |
 
 ### Pricing
-- **Price range**: **$1,549.00 – $1,649.00** (varies based on selected configuration and options)
+- **Price range:** $1,549.00 – $1,649.00 (final price depends on selected configuration/options).
+
+### Warranty
+- Select chair components carry a **lifetime warranty**.
+- Other components are covered by **multi-year warranties** (duration varies by part), reflecting the chair’s 24/7 intensive-use rating.

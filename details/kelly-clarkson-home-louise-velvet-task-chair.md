@@ -1,31 +1,65 @@
 # Kelly Clarkson Home Louise Velvet Task Chair
 
 ## Overview
-A compact, velvet-upholstered task chair from Kelly Clarkson Home, designed for light home office or vanity use where appearance is as important as function. It offers basic height adjustment and swivel functionality but minimal ergonomic adjustability.
+A compact velvet task chair hand-picked by Kelly Clarkson for Wayfair, designed primarily for style at a budget-friendly price. It offers a comfortable polyester velvet seat with simple height adjustment and swivel, but lacks advanced ergonomic features. Best suited for smaller or shorter users and for light or occasional computer use where appearance is as important as function.
+
+- **Brand:** Kelly Clarkson Home  
+- **Model name:** Louise 35.5" H Velvet Hand-Curated Task Chair with Button Tufted  
+- **Category:** Chair accessories / task chair  
+- **Source:** [Wayfair product page](/https://www.wayfair.com/furniture/pdp/kelly-clarkson-home-louise-355-h-velvet-hand-curated-task-chair-with-button-tufted-w003318245.html)
 
 ## Features
-- **Velvet polyester upholstery** with a soft, plush feel
-- **Button-tufted backrest** for a more traditional, tailored look
-- **Compact, narrow frame** that typically fits shorter or smaller users best
-- **May feel restrictive for broader shoulders** due to the narrow profile
-- **Simple seat height adjustment** (no additional ergonomic adjustments such as lumbar, arm, or tilt tension controls)
-- **Swivel seat** for basic mobility around a desk or workspace
-- **Gold-colored frame/base accents**, with some reports of finish chipping over time
-- **Best suited for light or occasional computer/desk use**, not intensive all-day work
-- **Entry-level build** targeted more toward style-focused residential use than heavy-duty commercial use
-- **Assembly required**, with tools included
+- **Velvet upholstery**
+  - Polyester velvet fabric
+  - Soft, plush texture
+  - Button-tufted back for a tailored look
+
+- **Seat & comfort**
+  - Cushioned seat with firm-but-comfortable feel
+  - Best suited for short to moderate sitting sessions rather than all-day intensive use
+
+- **Adjustability & function**
+  - 360° swivel task chair
+  - Pneumatic seat-height adjustment (basic up/down)
+  - No additional ergonomic adjustments (no lumbar adjustment, no armrests, no seat-depth adjustment, no multi-position recline/tilt controls)
+
+- **Size & fit**
+  - Compact, narrow frame
+  - Works best for shorter or smaller-bodied users
+  - Can feel restrictive for broader shoulders or larger body types
+
+- **Construction & finish**
+  - Solid-wood construction noted in product specs
+  - Gold-colored frame/accents
+  - Some users report occasional chipping or wear in the gold-colored finish over time
+
+- **Assembly**
+  - Assembly required
+  - Typical assembly time under 30 minutes
+  - Assembly tools included (e.g., Allen wrench)
+
+- **Intended use**
+  - Light computer work, vanity, or home office setups where appearance is a priority
+  - More style-focused than ergonomics-focused
+
+- **Quality program**
+  - Listed as **Wayfair Verified** (indicates Wayfair has applied its internal inspection/verification process)
+
+- **Warranty**
+  - Short 30-day warranty period
 
 ## Specifications
-- **Product type:** Task chair (armless)
-- **Overall height (approx.):** 35.5" H
-- **Seat height range (floor to seat):** 18.5" – 21.5"
-- **Upholstery material:** Velvet polyester
-- **Example upholstery color:** Ivory Velvet (other colors may be available from retailer)
-- **Base/materials:** Includes solid wood components (per source listing)
-- **Motion:** Swivel
-- **Brand:** Kelly Clarkson Home
-- **Warranty:** Approximately 30-day limited warranty (short coverage window)
+- **Chair type:** Task / desk chair  
+- **Overall height:** 35.5" (approx.)  
+- **Seat height range (floor to top of seat):**
+  - Minimum: 18.5"  
+  - Maximum: 21.5"  
+- **Upholstery material:** Polyester velvet  
+- **Frame material:** Solid wood (with gold-colored finish)  
+- **Swivel:** Yes  
+- **Assembly required:** Yes  
+- **Assembly tools included:** Yes
 
 ## Pricing
-- **Approximate chair price:** $164.99 (as listed at source; subject to change)
-- **Example bundle:** Chair + Elisa Desk Organizer for $186.97 (pricing and availability may vary by retailer and time).
+- **Approximate price:** $164.99 (Wayfair listing at time of capture)  
+  *Pricing may vary over time, by retailer, color, or promotions.*

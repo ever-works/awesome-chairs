@@ -1,18 +1,20 @@
 # Staples Dexley
 
-Roomy mesh office chair designed for computer users who sit for long periods and prefer breathable support in a wider frame.
-
-**Category:** Chair accessories  
-**Brand:** Staples  
-**Source:** [Product page](https://www.staples.com/union-scale-flexfit-dexley-ergonomic-mesh-swivel-task-chair-black-un56946/product_24398921)
+## Overview
+The Staples Dexley is a mesh office chair designed for computer users who sit for extended periods and want breathable support in a roomier frame. It offers a similar style and function to the Staples Hyken but features a slightly wider seat to better accommodate users who need more space.
 
 ## Features
-- Mesh office chair with breathable back and seat
-- Similar in style and function to the Staples Hyken chair
-- Slightly wider seat than the Hyken for added room
-- Roomier frame suited to users who need more space while seated
-- Intended for long-duration computer use and desk work
-- Mesh construction helps with airflow and temperature regulation during extended sitting
+- **Breathable mesh construction** for improved airflow and comfort during long sitting sessions.
+- **Ergonomic design** aimed at computer and desk work.
+- **Swivel task chair format** suitable for general office and home office use.
+- **Roomier frame** than the Staples Hyken, with a **slightly wider seat** for added comfort.
+- **Black color** for a neutral, office-friendly appearance.
 
 ## Pricing
-Pricing information is not provided in the available content. Refer to the product page for current price and any promotions.
+Pricing details are not provided in the available content. Refer to the retailer’s product page for current pricing and any promotions.
+
+## Additional Details
+- **Brand:** Staples (Union & Scale / FlexFit Dexley line)
+- **Category:** Chair accessories / office chair
+- **Product type:** Ergonomic mesh swivel task chair
+- **Source:** [Staples product page](/https://www.staples.com/union-scale-flexfit-dexley-ergonomic-mesh-swivel-task-chair-black-un56946/product_24398921)

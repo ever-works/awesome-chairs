@@ -1,31 +1,25 @@
-## BodyBilt Sola LT Ergonomic Chair
+# BodyBilt Sola LT Ergonomic Chair
 
-**Category:** chair-accessories  
-**Brand:** BodyBilt  
-**Product type:** Fully adjustable ergonomic task chair (computer chair)  
-**Source:** <https://www.bodybilt.com/>
+## Description
+A fully adjustable ergonomic task/computer chair designed for all‑day use in home or office setups. The Sola LT uses BodyBilt’s contoured seat and back design, developed to help reduce pressure, muscle fatigue, and back discomfort during prolonged sitting. It is commonly included in BodyBilt Work From Home packages as the primary task chair.
 
-### Description
-The BodyBilt Sola LT is a fully adjustable ergonomic computer/task chair designed for extended daily use in home or office workstations. It uses a NASA-inspired contoured seat and back intended to reduce pressure on the body, help decrease muscle fatigue, and alleviate back and leg discomfort during long periods of sitting.
+## Features
+- Fully adjustable ergonomic task/computer chair
+- Contoured, pressure‑reducing seat and back (NASA‑inspired BodyBilt design)
+- Designed to help reduce pressure on the spine and lower body
+- Aims to lessen muscle fatigue and back pain during extended sitting
+- Suitable for all‑day use in home offices and traditional office environments
+- Often used as the main task chair in Work From Home workstation packages
+- Built using durable, long‑lasting materials (per BodyBilt’s ergonomic seating line)
+- Part of BodyBilt’s modular ergonomic seating range, allowing configuration to user needs
 
-### Features
-- **Ergonomic design for all-day use**
-  - Designed specifically for all-day computer and task work in home or office environments.
-- **NASA-inspired contoured seat and back**
-  - Contoured seat and backrest inspired by NASA ergonomic research.
-  - Intended to reduce pressure points and distribute weight more evenly.
-- **Pressure and fatigue reduction**
-  - Aims to reduce back and leg pain associated with prolonged sitting.
-  - Helps lessen muscle fatigue by supporting the body against the effects of gravity.
-- **Full adjustability**
-  - Fully adjustable ergonomic chair (details not specified, but described as adjustable for computer/task use).
-- **Primary task chair in Work From Home setups**
-  - Commonly included as the main task chair in BodyBilt’s Work From Home packages for computer-based work.
+## Pricing
+- **Price range:** $525.00 – $575.00 USD
+- **Notes:** Product has multiple variants; final price depends on the specific configuration/options selected on the product page.
 
-### Typical Use Cases
-- Primary task chair for computer work in home offices.
-- Office workstation chair for extended daily use.
-- Users seeking an ergonomic solution to reduce pressure, muscle fatigue, and back discomfort while seated.
-
-### Pricing
-- Not specified in the provided content. Pricing details are not listed; check the manufacturer’s website or contact BodyBilt for current pricing and purchase options.
+## Additional Details
+- **Brand:** BodyBilt
+- **Product type:** Ergonomic task chair
+- **Category (site):** Chair accessories / ergonomic seating
+- **Use cases:** Home office workstations, corporate offices, work‑from‑home setups
+- **Source:** https://www.bodybilt.com/

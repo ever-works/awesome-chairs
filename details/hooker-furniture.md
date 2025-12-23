@@ -1,50 +1,40 @@
-# Hooker Furniture – Joker Game Chair (Casual Dining)
+# Hooker Furniture – Archives Game Chair
 
-## Overview
-The Joker Game Chair by Hooker Furniture is a traditional-style, leather-upholstered game and dining chair on casters. It features a shaped back and seat with nailhead trim, designed for comfortable seating and easy mobility around a table or workstation.
+## Description
+Leather-upholstered game chair from Hooker Furniture’s Archives collection, designed to pair with the Archives Game Table. It features a rounded barrel back, wood frame, and casters for easy mobility, finished in Classic Walnut.
 
 ## Features
-- **Camel-shaped back** for ergonomic, styled support
-- **Shaped seat apron** for a finished, traditional look
-- **Nailhead accents** around the base, sides, and back of the chair
-- **Casters** on the legs for easy mobility
-- **Luxurious leather upholstery** in Isadora Nut (aniline top-grain leather)
-- **Natchez Brown finish** on legs and stretcher
-- **Traditional style** suitable for game tables, casual dining, or home offices
-- **Kiln-dried, laminated, select wood frame** precision machined for consistent shape
-- **Pattern-cut urethane foam padding**, padded with felt polyester fibers for comfort and shape retention
-- **Dark wood finish** within the brown color family
+- Designed as a game chair (pairs with Archives Game Table)
+- Leather seat and back
+- Rounded barrel-style back
+- Casters for mobility (smooth-rolling)
+- Traditionally inspired silhouette
 
-## Specifications
-- **Width:** 25.5" (64.8 cm)
-- **Depth:** 28" (71.1 cm)
-- **Height:** 34" (86.4 cm)
-- **Weight:** 72 lb (32.4 kg)
-- **Volume:** 17.19 cu ft (0.5 m³)
-- **Arm Height:** 26" (66 cm)
-- **Seat Width:** 19" (48.3 cm)
-- **Seat Depth:** 20.5" (52.1 cm)
-- **Seat Height:** 19.5" (49.5 cm)
-- **Carton Dimensions:** 30" L x 27.5" W x 36" H (76 cm x 70 cm x 91 cm)
-- **Carton Weight:** 80 lb (36 kg)
+## Dimensions
+- Width: 24" (61 cm)
+- Depth: 25" (63.5 cm)
+- Height: 35" (88.9 cm)
+- Weight: 101 lb (45.4 kg)
+- Volume: 18.6 cu ft (0.5 m³)
+
+**Carton Dimensions & Weight**
+- Length: 29.25" (74 cm)
+- Width: 28" (71 cm)
+- Height: 39.25" (100 cm)
+- Carton weight: 123 lb (55.35 kg)
 
 ## Materials & Finish
-- **Primary Material:** Leather
-- **Leather Type:** Isadora Nut, aniline top-grain leather
-- **Frame Construction:** Kiln-dried, laminated, select woods
-- **Padding:** Pattern-cut urethane foam with felt polyester fiber padding
-- **Finish:** Dark wood, Natchez Brown
-- **Color Family:** Brown
+- Primary materials: Wood and leather
+- Upholstery: Leather seat and back
+- Wood finish: Dark wood
+- Finish details: Classic Walnut finish over figured quartered walnut veneers
 
-## Style & Collection
-- **Style:** Traditional
-- **Collection:** CC
-- **Intended Use:** Casual dining, game chair, or home office seating
+## Collection
+- Collection: Archives
 
 ## Availability
-- **Status:** In stock
-- **Location:** Martinsville, VA
-- **Quantity (at time of listing):** 76 units
+- Status: In Stock – Martinsville, VA
+- Quantity: 11 (at time of listing)
 
 ## Pricing
-- **Pricing information:** Not provided on the source page.
+- Pricing: Not specified on the provided page.

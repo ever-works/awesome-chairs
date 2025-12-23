@@ -1,69 +1,58 @@
-## Eureka Ergonomic Office Chairs
+# Eureka Ergonomic Office Chairs
 
 **Brand:** Eureka Ergonomic  
-**Type:** Collection of ergonomic office & gaming / executive chairs  
-**URL:** https://eurekaergonomic.com/collections/office-chairs  
-**Category:** Chair accessories / office & computer chairs  
+**Category:** Office & Gaming Chairs  
+**Collection slug:** `eureka-ergonomic-office-chairs`  
+**Website:** https://eurekaergonomic.com/collections/office-chairs  
 **Featured:** Yes
 
-Collection image:  
 ![Eureka Ergonomic Office Chairs](https://eurekaergonomic.com/cdn/shop/files/2-Office-Chairs.png?v=1724396155&width=375)
 
-### Description
-A curated range of ergonomic office and computer chairs designed for people who sit at a desk for long periods. The collection covers professional executive seating and chairs suitable for work and gaming setups, with an emphasis on long-session comfort and supportive design.
+## Overview
+A collection of ergonomic office and computer chairs from Eureka Ergonomic, designed for people who sit at a desk for extended periods. The range covers work and gaming setups, with an emphasis on long-session comfort and supportive seating in executive and ergonomic styles.
 
-### Features
-- Ergonomic office & computer chairs intended for extended daily use
-- Mix of executive-style and more contemporary/ergonomic designs
-- Upholstery options (vary by model):
-  - Genuine Napa leather
-  - Microfiber leather
-  - Silicone leather
-  - Combined silicone & leather finishes
-- Models built to **contract grade** durability standards
-- At least one model (**Mathias**) indicates **FSC® certified** materials
-- Multiple color options across the range, including (by model):
-  - Black
-  - Off‑White
-  - Beige White
-  - Brown
-  - Orange
-- Collection size: **35+ chairs** in the “Office Chairs & Gaming Chairs” category
+## Features
+- **Ergonomic focus:** Chairs intended for long desk sessions in both work and gaming environments.
+- **Office & gaming range:** Includes executive-style office chairs and ergonomic chairs suitable for computer and gaming use.
+- **Material options across the collection:**
+  - Napa leather upholstery on select executive models.
+  - Microfiber leather upholstery on select executive models.
+  - Silicone and leather combinations on certain ergonomic executive chairs.
+- **Build quality (selected models):**
+  - Contract-grade construction indicated on multiple executive chairs.
+  - FSC®-certified materials on at least one Napa leather executive office chair (Mathias model).
+- **Color variations (examples from current listings):**
+  - Black, Off-White (Mathias, Serene, Alto on selected variants).
+  - Beige White, Black, Brown (Royal).
+  - Brown, Orange (Serene selected variants).
+- **Use cases:**
+  - Executive office environments requiring premium materials and finishes.
+  - Home office setups needing ergonomic seating for extended daily use.
+  - Gaming or computer desks where long-session comfort is important.
 
-### Example Models in This Collection
-
-| Model | Type / Materials | Noted Attributes | Color Options* |
-|-------|------------------|------------------|----------------|
-| Mathias, Napa Leather Executive Office Chair | Executive office chair; genuine Napa leather | Contract grade; FSC® certified | Black, Off‑White |
-| Royal, Microfiber Leather Executive Office Chair | Executive office chair; microfiber leather | Contract grade | Beige White, Black, Brown |
-| Serene, Napa Leather Executive Office Chair | Executive office chair; Napa leather | Contract grade | Off‑White, Black, Brown, Orange |
-| Alto, Silicone Leather Executive Office Chair | Executive office chair; silicone leather | Contract grade | Off‑White |
-| Royal II, Silicone & Leather Executive Ergonomic Office Chair | Executive ergonomic office chair; silicone & leather | Contract grade | (Colors vary by listing; not fully shown in source) |
-
-*Color availability can vary by variant and current stock.
-
-### Pricing
-Pricing varies by chair model and any active discounts. Examples from the collection page:
+## Pricing
+*(Prices are taken from the referenced collection page at the time of capture and may change on the retailer’s site.)*
 
 - **Mathias, Napa Leather Executive Office Chair**  
-  - Current listed price: **$689.99**  
-  - Original price: ~$799.99~
+  - Current price: **$689.99**  
+  - Original price: **$799.99**  
+  - Available colors: Black, Off-White
 
 - **Royal, Microfiber Leather Executive Office Chair**  
-  - Current listed price: **$439.99**  
-  - Original price: ~$449.99~
+  - Current price: **$439.99**  
+  - Original price: **$449.99**  
+  - Available colors: Beige White, Black, Brown
 
 - **Serene, Napa Leather Executive Office Chair**  
-  - Current listed price: **$789.99**  
-  - Original price: ~$869.99~
+  - Current price: **$789.99**  
+  - Original price: **$869.99**  
+  - Available colors: Off-White, Black, Brown, Orange
 
 - **Alto, Silicone Leather Executive Office Chair**  
-  - Current listed price: **$399.99**  
-  - Original price: ~$449.99~
+  - Current price: **$399.99**  
+  - Original price: **$449.99**  
+  - Available colors: Off-White
 
 - **Royal II, Silicone & Leather Executive Ergonomic Office Chair**  
-  - Current listed price: **$489.99**  
-  - Original price: ~$569.99~
-
-**Typical price range (based on the provided listings):**  
-Approx. **$399.99–$789.99** at current listed prices, with original prices up to about **$869.99**, varying by model and any ongoing discounts.
+  - Current price: **$489.99**  
+  - Original price: **$569.99**

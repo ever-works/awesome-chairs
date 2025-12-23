@@ -1,26 +1,24 @@
 # Branch Ergonomic Chair
 
-**Category:** Chair Accessories  
-**Brand:** Branch  
-**Product type:** Ergonomic office chair  
-**Source:** [Product page](https://www.branchfurniture.com/products/ergonomic-chair)
+Ergonomic office chair with full adjustability for extended computer or gaming use, featuring mesh back support, adjustable lumbar, and a multi-year warranty.
 
 ![Branch Ergonomic Chair](https://media.wired.com/photos/67327cd5ecebc4e6a15de92f/4:3/w_640%2Cc_limit/Branch%2520Ergonomic%2520Chair%2520Shadow.png)
 
-## Overview
-The Branch Ergonomic Chair is a fully adjustable office chair designed for extended computer or gaming use. It combines a mesh back, cushioned seat, and multiple ergonomic adjustments to support all-day sitting.
+**Brand:** Branch  
+**Category:** Chair Accessories  
+**Product page:** <https://www.branchfurniture.com/products/ergonomic-chair>
 
 ## Features
 - Fully adjustable ergonomic office chair
-- Designed for long hours at a computer or gaming setup
+- Designed for long hours at a computer or for all-day gaming use
 - Double-woven nylon mesh back for breathability
-- High-density foam seat cushion
+- High-density foam seat
 - Adjustable lumbar support
-- Three-way adjustable armrests (multi-directional adjustment)
+- Three-way adjustable armrests
 - Seat depth adjustment
-- Recline function with lock
-- Seat height range: 17–21 inches
-- Weight capacity: 275 pounds
+- Recline lock mechanism
+- 275 lb (approx. 125 kg) weight capacity
+- Seat height adjustment within a 17–21 inch range
 - 7-year warranty
 
 ## Specifications
@@ -28,8 +26,8 @@ The Branch Ergonomic Chair is a fully adjustable office chair designed for exten
 - **Seat material:** High-density foam  
 - **Seat height range:** 17–21 in  
 - **Weight capacity:** 275 lb  
-- **Intended use:** All-day computer work or gaming  
+- **Intended use:** All-day computer work and gaming  
 - **Warranty:** 7 years
 
 ## Pricing
-Pricing information is not provided in the available content. Users should check the product page for current pricing and any options or configurations.
+Pricing information is not specified in the provided content. Refer to the product page for current pricing and any available options.

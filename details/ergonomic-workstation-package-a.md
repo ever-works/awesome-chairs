@@ -1,31 +1,23 @@
-## Ergonomic Workstation Package A
+# Ergonomic Workstation Package A
 
-**Type:** Ergonomic workstation bundle  
 **Brand:** BodyBilt  
-**Category:** Chair Accessories / Workstation Bundle
+**Category:** Chair Accessories  
+**Source:** [Product page](https://bodybilt.com/product/ergonomic-workstation-package-a/)
 
-### Overview
-Ergonomic Workstation Package A is an all-in-one home or office workstation bundle designed for users who spend long periods working at a computer. It combines an ergonomic chair, a height-adjustable desk, and a monitor setup into a coordinated workstation.
+## Description
+An integrated ergonomic workstation bundle for home or office use. It combines a BodyBilt Sola LT ergonomic chair, a height-adjustable desk with selectable finish options, and a configurable monitor setup to support more comfortable, health-conscious computer use for people who sit for extended periods.
 
-### Features
-- **Ergonomic chair**
-  - BodyBilt Sola LT ergonomic chair
-  - Designed to support comfortable, healthy posture during extended sitting
+## Features
+- All-in-one ergonomic workstation package
+- Suitable for home offices and traditional workplaces
+- Includes BodyBilt Sola LT ergonomic chair
+- Includes a height-adjustable desk
+  - Desk surface finish can be selected/customized
+- Monitor configuration options:
+  - Single-monitor setup
+  - Dual-monitor setup
+- Designed for users who sit for long periods
+- Aims to improve comfort and promote healthier posture during computer work
 
-- **Height-adjustable desk**
-  - Desk height can be adjusted to suit the user
-  - Selectable desktop finish (specific finish options not listed in the provided content)
-
-- **Monitor configuration options**
-  - Choice of a **single monitor** setup, or
-  - **Dual monitor** setup
-
-- **Use case**
-  - Intended for home and office environments
-  - Aimed at improving comfort and ergonomics for people who sit and use a computer for long periods
-
-### Pricing
-Pricing information is not provided in the available content.
-
-### Source
-More details: https://bodybilt.com/product/ergonomic-workstation-package-a/
+## Pricing
+- Pricing not specified in the provided content. Contact BodyBilt or see the product page for current pricing and configuration options.

@@ -1,47 +1,80 @@
 # Knoll, Inc.
 
-**Category:** chair-accessories  
-**Website:** https://www.knoll.com
-
 ## Overview
+Knoll, Inc. is a Pennsylvania‑based furniture manufacturer focused on modern design for offices and homes. The company produces ergonomic seating and comprehensive office systems suitable for intensive computer use across corporate, home‑office, academic, healthcare, government, and other commercial environments.
 
-Knoll, Inc. is a Pennsylvania-based furniture manufacturer focused on modern design for office and home environments. The company offers furniture and workspace solutions for corporate offices, home offices, education, healthcare, and government organizations, with a particular emphasis on ergonomic seating and office systems suited for intensive computer use.
+## Products & Solutions
+- **Ergonomic seating**
+  - Work and task chairs designed for extended computer use
+  - Iconic and contemporary side and lounge chairs (e.g., Barcelona Chair, Cesca Chair)
+  - Home‑office seating
+
+- **Tables & desks**
+  - Height‑adjustable tables (e.g., k. stand, Lev by Knoll)
+  - Height‑adjustable desks (e.g., Reff Profiles)
+  - Dining tables (e.g., Saarinen Dining Table – Oval)
+  - Home‑office desks and tables
+
+- **Office systems & storage**
+  - Workstation and benching systems (e.g., Antenna Workspaces)
+  - Storage solutions (e.g., Series 2 Storage)
+
+- **Home furniture**
+  - Living room, dining, outdoor, and home‑office furniture, available via the online shop
+
+- **Workplace solutions**
+  - Products and planning resources for commercial, education, healthcare, and government organizations
 
 ## Features
+- **Ergonomic chair design**
+  - Seating specifically described as suitable for intensive computer and desk work
+  - Work and task chairs intended for corporate, home‑office, and academic settings
 
-- **Modern office and home furniture**
-  - Products for living, dining, outdoor, and home office spaces.
-  - Workplace-focused solutions for commercial, education, healthcare, and government environments.
+- **Modern office systems**
+  - Integrated workstation and workspace systems to organize desks, seating, and storage
+  - Solutions that support both individual workstations and larger open‑plan environments
 
-- **Workplace seating and chairs** (examples from featured products)
-  - **Generation by Knoll®** – task/office seating designed for modern workspaces.
-  - **Life® Chair** – ergonomic task/office seating.
-  - **Cesca™ Chair** – side/arm chairs suitable for office, meeting, or home settings.
-  - **Barcelona® Chair** – lounge seating for reception, office, or residential use.
+- **Height‑adjustable work surfaces**
+  - Tables and desks with adjustable heights to accommodate different working postures
+  - Options oriented toward ergonomic and flexible workplace setups
 
-- **Tables and desks**
-  - **Saarinen Dining Table – Oval** – dining/meeting table usable in home or office.
-  - **k. stand™ Height-Adjustable Tables** – sit-stand tables for ergonomic work.
-  - **Lev by Knoll Height-Adjustable Table** – electric/height-adjustable work surface.
-  - **Reff Profiles™ Height-Adjustable Desks** – integrated height-adjustable desks for workstation planning.
+- **Broad application range**
+  - Products designed for:
+    - Corporate offices
+    - Home offices
+    - Educational institutions
+    - Healthcare environments
+    - Government organizations
 
-- **Storage and systems**
-  - **Series 2 Storage** – office storage components for workspaces.
-  - **Antenna Workspaces®** – workstation and office system components for open-plan and private offices.
+- **Home & contract furniture portfolio**
+  - Furniture lines for living, dining, and outdoor spaces
+  - Classic and contemporary designer pieces alongside task‑oriented office products
 
-- **Planning & specification resources**
-  - **Surface Finish Library** – reference for available materials and finishes.
-  - **Photo and Media Bank** – image resources for planning, presentations, and documentation.
-  - **Price Lists & Application Charts** – documentation to assist with budgeting and specifying products.
-  - **3D Furniture Symbols** – digital symbols/models for space planning and design software.
-  - **How to Purchase** – guidance on purchasing pathways (e.g., dealers, online, contracts).
-  - **Knoll Showrooms** – physical showrooms for viewing and evaluating products.
+- **Design & planning resources**
+  - Surface finish library for specifying material and color options
+  - Photo and media bank for imagery and documentation
+  - 3D furniture symbols to support space planning and design software workflows
+  - Price lists and application charts to assist with specification and budgeting
 
-- **Regional access**
-  - Dedicated **Knoll International** site for customers located outside North America.
+- **Multiple purchasing channels**
+  - Direct online shop for home furniture purchases in North America
+  - Showrooms and purchasing guidance for workplace and contract projects
+  - International site (knoll‑int.com) for customers outside North America
 
 ## Pricing
+- Knoll does not list fixed prices for all products on the main overview page.
+- **Reference materials:**
+  - Price Lists & Application Charts are available on the Knoll website to help with budgeting and product specification.
+- **How to buy:**
+  - Home furniture can be purchased directly via the Knoll online shop.
+  - Workplace and contract furniture is typically purchased through Knoll showrooms and authorized channels, following the “How to Purchase” guidance on the website.
 
-- Specific product pricing and structured plans are **not listed** on the main overview page.
-- Knoll provides **price lists and application charts** through its online pricing resources.
-- Purchasing is typically done via the Knoll online shop (for home products) or through workplace channels/dealers and showrooms (for commercial projects), where project-specific quotes can be obtained.
+## Additional Resources
+- Website: https://www.knoll.com
+- Surface Finish Library
+- Photo & Media Bank
+- Price Lists & Application Charts
+- 3D Furniture Symbols
+- How to Purchase guide
+- Knoll Showrooms locator
+- International site: https://www.knoll-int.com

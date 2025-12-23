@@ -1,78 +1,73 @@
-# Eureka Ergonomic Royal Chair
-
-**Name:** Eureka Ergonomic Royal Chair (Royal, Microfiber Leather Executive Office Chair)  
-**Brand:** Eureka Ergonomic  
-**Category:** Chair Accessories / Executive Office Chair  
-**Model / SKU:** ERK-OC-003  
-**Slug:** `eureka-ergonomic-royal-chair`
+# Eureka Ergonomic Royal Chair (Royal, Microfiber Leather Executive Office Chair)
 
 ## Description
-An executive-style, high-back computer/office chair upholstered in microfiber reinforced (faux) leather. It offers a plush, slightly bouncy seat and backrest with basic adjustability: a height-adjustable headrest, a multi-position recline, and fixed padded armrests. The compact seat frame can feel narrow for larger users, and lumbar support is limited, making it better suited to moderate rather than continuous all‑day use. The leather-like upholstery is easy to wipe clean but may feel warmer than mesh during extended sitting.
+The Eureka Ergonomic Royal Chair is an executive-style, high-back office chair with a plush, slightly bouncy feel and microfiber (faux) leather upholstery. It focuses on a premium appearance and soft cushioning, with basic ergonomic adjustments such as a height-adjustable headrest and multi-position recline. The compact, fixed-armrest design may feel narrow for larger users, and the non-breathable upholstery can retain heat during long sessions, making it better suited to moderate rather than all-day intensive use.
 
 ## Features
-- **Executive high-back design** suitable for home offices or professional workspaces.
-- **Microfiber reinforced leather upholstery**
-  - Leather-style look and feel with microfiber reinforcement.
-  - Easier to wipe clean than fabric.
-  - More breathable than some dense faux leathers, but generally warmer than mesh.
-- **Plush, high-density foam cushioning**
-  - High-density, elastic foam for a soft, slightly bouncy sitting experience.
-  - Thick seat padding (approx. 5.91" cushion thickness).
-- **Height-adjustable headrest**
-  - Vertical adjustment range: 0–2.36".
-  - Aims to reduce neck strain by allowing alignment with user height.
-- **Recline function with lock**
-  - Tilt/recline range: 98°–130°.
-  - Four lockable recline positions.
-  - Allows switching between upright work and more relaxed postures.
-- **Fixed padded armrests**
-  - Softly padded for forearm support.
-  - Fixed (non-adjustable) height and angle.
-- **Compact seat frame**
-  - Seat width: 17.5" framed by the armrests.
-  - May feel narrow for broader-bodied users.
-- **Basic lumbar support**
-  - Some contouring from the back cushion but no dedicated adjustable lumbar system.
-  - May not provide enough support for users with specific back needs or very long daily sitting periods.
-- **Sturdy construction**
-  - Uses alloy steel and nylon components with a Class 4 gas piston.
-  - Contract-grade rating for both commercial and residential use.
-- **Weight capacity and user size range**
-  - Supports up to 300 lbs.
-  - Recommended user height range: 5'3"–6'1".
-- **Easy assembly**
-  - Delivered with an assembly manual; designed for straightforward setup.
+- Executive high-back design with a plush, cushioned profile
+- Microfiber reinforced (faux) leather upholstery
+  - Soft, “buttery” feel
+  - Easy to wipe clean
+  - Less breathable, can trap heat during long sitting periods
+- Premium high-density foam filling
+  - High density and elasticity for a softer, slightly bouncy seat and back
+- Height-adjustable headrest
+  - Adjustable range: 0–2.36" (approx.)
+  - Aims to reduce neck strain and support different user heights
+- Reclinable backrest
+  - Four tilt/recline positions from 98° to 130°
+  - Lockable tilt mechanism
+  - Allows basic posture changes for working and relaxing
+- Padded, fixed armrests
+  - Integrated into the chair frame
+  - Soft padding for forearm comfort
+  - Fixed width; can feel narrow for larger users
+- Compact seat design
+  - Suits medium-size users; may feel tight for broader body types
+- Class 4 gas lift for seat height adjustment
+- Contract grade rating
+  - Suitable for commercial and residential use
+- Overall build
+  - Alloy steel and nylon structure
+  - Solid, mid-range construction intended for regular office use
 
 ## Specifications
-- **Upholstery Material:** Microfiber reinforced leather (faux leather)  
-- **Frame / Structural Materials:** Alloy steel, nylon  
-- **Color Options:** Beige White & Black  
-- **Overall Dimensions (D × W × H):** 30.9" × 29.7" × 47.64"–50.39"  
-- **Seat Height (from floor):** 19.3"–22.4"  
-- **Seat Depth:** 20"  
-- **Seat Width:** 17.5"  
-- **Cushion Thickness:** 5.91"  
-- **Headrest Adjustment Range:** 0–2.36" (height)  
-- **Armrest Type:** Fixed, padded armrests  
-- **Tilt / Recline Mechanism:** 98°–130° with 4-position locking  
-- **Gas Lift:** Class 4 hydraulic gas piston  
-- **Maximum Weight Capacity:** 300 lbs  
-- **Recommended User Height:** 5'3"–6'1"  
-- **Item Weight:** 64.3 lbs  
-- **Box Dimensions:** 30.31" × 21.65" × 25.98"  
-- **Box Weight:** 71.65 lbs  
+- **Model / SKU:** ERK-OC-003
+- **Brand:** Eureka Ergonomic
+- **Category:** Chair accessories / executive office chair
+- **Colors:** Beige White & Black
+- **Overall Dimensions:** 30.9" D × 29.7" W × 47.64"–50.39" H
+- **Seat Height:** 19.3"–22.4"
+- **Seat Depth:** 20"
+- **Seat Width:** 17.5"
+- **Cushion Thickness:** 5.91"
+- **Recommended User Height:** 5'3"–6'1"
+- **Maximum Weight Capacity:** 300 lbs
+- **Tilt Mechanism:** 98°–130° recline, 4-position locking
+- **Headrest Adjustment Range:** 0–2.36"
+- **Armrest Type:** Padded, fixed armrests
+- **Materials:**
+  - Microfiber reinforced leather (faux leather)
+  - Alloy steel
+  - Nylon
+- **Item Weight:** 64.3 lbs
+- **Box Dimensions:** 30.31" × 21.65" × 25.98"
+- **Box Weight:** 71.65 lbs
+- **Warranty:** 5-year limited
 - **Use Rating:** Contract grade (commercial & residential)
 
 ## Pricing
-- **Listed price:** $439.99 (at time of data capture)  
-- **Previous listed price:** $449.99 (indicated as a $10 reduction)  
-- **Volume discount:** Retailer advertises tiered discounts up to 10% off when purchasing any 2 or more eligible items (exact tiers not specified; may vary by promotion).
+- **Current price:** $439.99
+- **Regular price (listed):** $449.99
+- **Noted savings:** $10 off regular price
 
-## Warranty
-- **Warranty:** 5-year limited warranty (terms and coverage details provided by the manufacturer).
+(Additional tiered discounts or seasonal promotions may apply on the seller’s site.)
 
-## Considerations
-- Better suited for users who prioritize a plush, executive look and straightforward adjustments over highly configurable ergonomics.
-- Fixed armrests and a relatively narrow seat may not fit larger users comfortably.
-- Limited lumbar adjustability may be insufficient for people with back issues or for intensive all-day desk work.
-- Leather-style upholstery is easy to clean but typically less ventilated than mesh, which some users may find warm over long sessions.
+## Shipping
+- Free shipping to the Lower 48 United States (standard delivery)
+- Optional upgraded services mentioned:
+  - White glove delivery (details via seller)
+  - Fast delivery options (details via seller)
+
+## Documentation
+- **Assembly / Installation Manual:** [View PDF](https://cdn.shopify.com/s/files/1/0705/9849/2464/files/ERK-OC-003_Royal_Office_Chair_Assembly_Instructions_1.pdf?v=1753878774)

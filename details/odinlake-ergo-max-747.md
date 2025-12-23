@@ -1,18 +1,28 @@
 ## Odinlake Ergo Max 747
 
-### Overview
-The Odinlake Ergo Max 747 is an ergonomic office chair designed for extended computer or gaming use. It features a three‑piece backrest, breathable mesh construction, and convenient side paddles for on-the-fly adjustments.
+**Brand:** Odinlake  
+**Category:** Chair Accessories / Ergonomic Chair  
+**Source:** <https://www.odinlake.com/products/odinlake-o2-ergo-max-747>
 
-### Features
-- **Three‑piece backrest** for enhanced and targeted back support
-- **Breathable mesh seat and back** to improve airflow and comfort during long sitting sessions
-- **Side-mounted adjustment paddles** for quick and easy access to chair controls
-- **Recline range from 90° to 135°** for upright work, relaxed leaning, or partial recline
-- **Adjustable back height** to better match different body sizes and spine lengths
-- **Adjustable lumbar support** to support the lower back
+---
+
+## Overview
+The Odinlake Ergo Max 747 is an ergonomic office chair designed for long periods of sitting, featuring a three-section backrest, breathable mesh construction, and multiple adjustable elements for customized support.
+
+---
+
+## Features
+- **Three-piece backrest** for enhanced and targeted back support
+- **Ergonomic design** intended for extended computer or gaming sessions
+- **Breathable mesh seat and back** to improve airflow and reduce heat buildup
+- **Reclining function:** adjustable from **90° to 135°**
+- **Adjustable back height** to better match different torso lengths
+- **Adjustable lumbar support** for lower-back comfort
 - **Adjustable headrest** for neck and head support
-- **Rear bag holder** integrated at the back of the chair for hanging a bag or similar items
-- Designed for **extended sitting** for office work, computer use, or gaming
+- **Side-mounted adjustment paddles** for quick access to chair controls
+- **Rear bag holder** integrated on the back of the chair
 
-### Pricing
-Pricing information is not specified in the provided content. Refer to the product page for current pricing and any available options.
+---
+
+## Pricing
+Pricing information is not provided in the available content. Refer to the product page for current price and any promotions.
