@@ -1,0 +1,5 @@
+# AKRacing Core EX
+
+The AKRacing Core EX is a high-quality, ergonomic gaming and computer chair designed for people who sit for extended periods. It features a reclining backrest suitable for both gaming and relaxed viewing, highly adjustable armrests (height, depth, pivot, and lateral adjustment via bottom bolts), and a fabric upholstery on the baseline model that is durable and easy to clean, though warmer than PU/PVC leather. AKRacing also offers the Core EX with more breathable PU leather options and provides an online sizing chart to help users match the chair to their body type, making it well-suited for all-day computer and gaming use.
+
+[https://www.bestbuy.com/site/reviews/akracing-core-series-ex-gaming-chair-black-blue/6215594?page=5](https://www.bestbuy.com/site/reviews/akracing-core-series-ex-gaming-chair-black-blue/6215594?page=5)

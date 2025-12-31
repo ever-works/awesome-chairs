@@ -1,26 +1,60 @@
-## Steelcase Karman
+# Steelcase Karman
 
-![Steelcase Logo](https://www.steelcase.com/content/dam/steelcase/logos/steelcase-logo.png)
+**Brand:** Steelcase  
+**Category:** Office Chair / Ergonomic Task Chair  
+**Use case:** All-day computer work, office work, and gaming
 
-### Description
-The **Steelcase Karman** is expertly crafted to provide the ultimate in comfort and design for office environments. While it's not specifically a gaming chair, its ergonomic features and modern aesthetics offer a comfortable seating solution for prolonged periods of use, making it ideal for a variety of office tasks.
+A high-performance ergonomic task chair with a lightweight frame, hybrid suspension seat, and advanced back support designed for long sitting sessions.
 
-### Features
-- **Ergonomic Design:** Offers excellent support for long hours of office work.
-- **Lightweight Frame:** Easy to move and adjust within your workspace.
-- **Weight-Activated Mechanism:** Automatically adjusts to provide optimal support based on the user's weight.
+---
 
-### Images
-- ![Steelcase Karman Image 1](https://www.steelcase.com/content/dam/steelcase/products/office-chairs/karman/gallery/karman-1.jpg)
-- ![Steelcase Karman Image 2](https://www.steelcase.com/content/dam/steelcase/products/office-chairs/karman/gallery/karman-2.jpg)
+## Features
 
-### Category
-- Ergonomic Office Chairs
+### Ergonomics & Support
+- **LiveBack® technology**: Balances body weight and supports the back and spine, providing responsive, personalized comfort and fit.
+- **High-back option with neck support pillow**: Sculpted high back and adjustable neck pillow for enhanced upper body and neck support.
+- **Organic movement**: Weight-activated mechanism automatically responds to your body as you sit and shift, supporting posture changes in multiple directions.
+- **Optional lumbar support**: Adjustable lumbar feature to fine-tune support in the lower back region.
 
-### Tags
-- Lightweight
-- Weight-Activated
-- Support
+### Seat & Comfort
+- **Patented hybrid suspension seat**: Combination of suspension and integrated cushioning designed to stay comfortable during prolonged sitting.
+- **Comfort Edge**: Ultra-light frame flexes around the seat perimeter to eliminate hard edges and reduce pressure points on legs and body.
+- **Comfort Dial with 4 recline positions**: Lets you choose among four recline settings to adjust recline resistance to your preference.
 
-### More Information
-For further details, visit the [Steelcase Store](https://store.steelcase.com/gaming?srsltid=AfmBOopXHM4lLLdVX-09pmQ8Vl9U6rr0Q9ZLMp7lC8rTJiX4otuAEitt).
+### Adjustability
+- **4D adjustable arms**: Armrests can move up/down, in/out, forward/back, and pivot to support natural arm and shoulder positions.
+- **Adjustable neck support (high-back model)**: Neck pillow height/position can be tuned for different users.
+
+### Materials & Construction
+- **Intermix performance textile** (proprietary):
+  - Exclusive to Steelcase Karman.
+  - Engineered for performance, comfort, and aesthetics.
+  - Unique weave allows translucent, opaque, and color-shifting textile options.
+- **Ultra-light frame**: Chair structure is designed to flex for comfort and remove pressure points.
+- **Lightweight build**: Weighs approximately 29 lbs while maintaining strength and durability.
+
+### Design & Aesthetics
+- **21st-century responsive design**: Engineered to naturally respond to body movement rather than relying solely on manual adjustments.
+- **Unique color combinations**: Available beyond standard black/white/gray, with varied textile and frame color options enabled by the Intermix material.
+
+### Sustainability
+- **Responsible design approach**:
+  - Uses sustainable materials where possible.
+  - Minimizes number of components to reduce material use.
+  - Lightweight construction (29 lbs) helps lower resource consumption and environmental impact.
+  - Developed to support the company’s broader carbon and sustainability commitments.
+
+---
+
+## Pricing
+
+No specific pricing or plan information is provided in the source content. For current pricing, configurations, and purchase options, see the official Steelcase online store or authorized retailers.
+
+---
+
+## Additional Resources
+
+- Product page & online purchase: https://store.steelcase.com/steelcase-karman  
+- Product configuration: https://www.steelcase.com/configurator/TN6WW8CU8WG6EG7FS8TU  
+- Surface materials & Intermix details: https://www.steelcase.com/resources/surface-materials  
+- Intermix swatch card (download): https://www.steelcase.com/resources/documents/intermix-swatch-card/
