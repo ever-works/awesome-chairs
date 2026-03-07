@@ -1,38 +1,24 @@
-# Herman Miller x Logitech G Vantum
-
-![Herman Miller x Logitech G Vantum](https://www.tomshardware.com/images/herman-miller-x-logitech-g-vantum-1.jpg)
-
 ## Overview
-The Herman Miller x Logitech G Vantum is a premium gaming chair specifically designed for ergonomic support during extended PC gaming sessions. This chair is a result of a collaboration between Herman Miller, a renowned luxury office furniture maker, and Logitech's gaming division, combining comfort with style.
+
+The Herman Miller X Logitech G Vantum is a premium gaming chair featuring adaptive plates for lumbar support. This collaboration combines Herman Miller's ergonomic expertise with Logitech G's gaming knowledge, backed by an industry-leading 12-year warranty.
 
 ## Features
-- **Ergonomic Design**: Features an active, forward-leaning alignment to support gaming posture.
-- **Adjustable Lumbar Support**: Provides customizable support to enhance comfort during long gaming sessions.
-- **Suspension Backrest**: Ensures breathability and comfort, reducing heat build-up.
-- **Lightweight Construction**: Easy to move and adjust, enhancing user convenience.
-- **Almost Fully Assembled**: Simplifies the setup process, allowing users to start using it quickly.
-- **Multiple Color Options**: Available in various colors to match different preferences and gaming setups.
 
-## Pros & Cons
+- **Adaptive Lumbar Plates**: Innovative adjustable support system
+- **Gaming-Optimized Design**: Purpose-built for gaming sessions
+- **Premium Materials**: Herman Miller quality construction
+- **PostureFit Lite**: Tailored lumbar support
+- **Tilt Limiter**: Customizable recline range
+- **Adjustable Arms**: 4D armrest adjustment
 
-### Pros
-- Lightweight
-- Ships almost completely assembled
-- Provides exceptional comfort
+## Specifications
 
-### Cons
-- Expensive compared to other gaming chairs
-- The "active, forward-leaning alignment" may not suit everyone
-- Feels less premium than other Herman Miller chairs
-
-## Brand
-- **Brand Name**: Herman Miller
-- **Brand Logo**: ![Herman Miller Logo](https://www.hermanmiller.com/content/dam/hermanmiller/images/logos/herman-miller-logo.png)
-
-## Additional Information
-- **Category**: Chair Accessories
-- **Featured**: Yes
-- **Source URL**: [Tom's Hardware Review](https://www.tomshardware.com/reviews/herman-miller-x-logitech-g-vantum)
+- Weight Capacity: Up to 350 lbs
+- Recline Range: 90° to 120°
+- Warranty: 12-year Herman Miller warranty
+- Height Range: Suitable for users 5'0" to 6'8"
+- Certifications: BIFMA certified
 
 ## Pricing
-Currently, there is no specific pricing information available. Please refer to authorized retailers or the official Herman Miller website for the latest pricing details.
+
+Starting at $995
