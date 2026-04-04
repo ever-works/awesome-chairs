@@ -1,23 +1,23 @@
 ## Overview
 
-The Devoko Ergonomic Gaming Chair offers massage lumbar support and a retractable footrest at an ultra-affordable price point, making it perfect for casual gamers seeking comfort features without breaking the bank.
+The Devoko Ergonomic Gaming Chair is a budget gaming chair offering reclining and a retractable footrest at an accessible price, making it suitable for short-to-moderate gaming sessions and casual office use.
 
 ## Features
 
-- **Massage Lumbar Pillow**: USB-powered vibrating massage
-- **Retractable Footrest**: Hidden footrest for relaxation
-- **Ergonomic Design**: Racing-style gaming chair
-- **PU Leather**: Easy-to-clean upholstery
-- **Reclining Function**: Adjustable backrest
-- **Swivel Base**: 360° rotation
+- **Retractable Footrest**: Pull-out leg rest for relaxation
+- **Removable Cushions**: Lumbar support and neck pillow
+- **PU Leather Upholstery**: Durable and easy-to-clean surface
+- **Height-Adjustable Armrests**: Basic arm positioning
+- **Recline Function**: 90°–155° range with tilt lock
+- **Pneumatic Height Adjustment**: Standard gas lift
 
 ## Specifications
 
 - Weight Capacity: Up to 250 lbs
 - Recline Range: 90° to 155°
-- Power: USB-powered massage
+- Seat Height Range: 18" to 21"
 - Warranty: 1-year limited warranty
 
 ## Pricing
 
-Starting at $129.99
+Starting at approximately $129.99

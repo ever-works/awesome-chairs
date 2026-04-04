@@ -1,36 +1,18 @@
 # IKEA Markus Ergonomic Office Chair
 
-![IKEA Logo](https://www.ikea.com/logo.png)
-
-![IKEA Markus](https://www.ikea.com/images/markus-1.png)
-
 ## Overview
-The **IKEA Markus** is a well-regarded ergonomic office chair known for its durability and comfort. Ideal for home offices or professional settings, it offers a balance of quality and affordability.
+The **IKEA Markus** is a well-regarded ergonomic office chair known for its durability and value proposition. Ideal for home offices or student workspaces.
 
 ## Features
-- **Ergonomic Design**: Supports natural body posture, reducing strain during prolonged use.
-- **Adjustable Components**: Features adjustable seat height and tilt, ensuring optimal comfort.
-- **Breathable Mesh Back**: Provides ventilation, keeping the user cool even during long working hours.
-- **Strong Construction**: Designed for durability, capable of supporting various body types.
-- **Comfortable Padding**: Padded seat and backrest for added comfort.
-- **Sturdy Base**: Equipped with a robust base and smooth-rolling casters for easy mobility.
+- **Fixed lumbar support**: Mesh back panel with built-in lower-back contour
+- **Adjustable seat height**: Pneumatic lift for desk compatibility
+- **Tilt mechanism**: Basic tilt with lock function
+- **Breathable mesh back**: Provides ventilation for extended sessions
+- **10-year warranty**: Unusual at this price point for an office chair
+- **Sturdy construction**: Steel frame base with smooth-rolling casters
 
-## Visual Gallery
-![IKEA Markus](https://www.ikea.com/images/markus-2.png)
+## Specifications
+- Weight Capacity: 243 lbs
+- 10-Year Warranty
 
-## Brand
-- **Brand**: IKEA
-- **Category**: Ergonomic Office Chairs
-
-## Tags
-- Durable
-- Value-for-money
-- Comfortable
-
-## Learn More
-For more inspiration on how to integrate the IKEA Markus into your home office setup, visit the [Pinterest Ideas Page](https://www.pinterest.com/ideas/ikea-markus/902159456769/).
-
----
-
-### Note:
-This markdown summary is an informational overview based on provided data and does not include pricing details. For more accurate pricing and purchasing options, please visit the official IKEA website or consult their retail outlets.
+For more detail, visit the [IKEA Markus page](https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-s00103102/).

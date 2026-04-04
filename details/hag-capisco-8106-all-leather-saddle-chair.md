@@ -1,9 +1,9 @@
-## Product Summary: HÅG Capisco 8106 All-Leather Saddle Chair
+## Product Summary: HÃG Capisco 8106 All-Leather Saddle Chair
 
-![HÅG Capisco 8106 All-Leather Saddle Chair](https://cdn11.bigcommerce.com/s-lpku7oc/images/stencil/760x760/products/14202/84280/Capleather2__44741.1759521094.png?c=2)
+![HÃG Capisco 8106 All-Leather Saddle Chair](https://cdn11.bigcommerce.com/s-lpku7oc/images/stencil/760x760/products/14202/84280/Capleather2__44741.1759521094.png?c=2)
 
 ### Description
-The **HÅG Capisco 8106 All-Leather Saddle Chair** is designed to promote dynamic and ergonomic sitting. Inspired by the natural posture of a horseback rider, this chair encourages active sitting, helping to improve posture and engage the core. Its premium all-leather finish adds a touch of elegance, making it suitable for both professional office settings and home environments.
+The **HÃG Capisco 8106 All-Leather Saddle Chair** is designed to promote dynamic and ergonomic sitting. Inspired by the natural posture of a horseback rider, this chair encourages active sitting, helping to improve posture and engage the core. Its premium all-leather finish adds a touch of elegance, making it suitable for both professional office settings and home environments.
 
 ### Features
 - **Dynamic Seating**: Inspired by horseback riding to promote active sitting.
@@ -14,8 +14,8 @@ The **HÅG Capisco 8106 All-Leather Saddle Chair** is designed to promote dynami
 - **Award-Winning Design**: Winner of the "Classic Award for Design Excellence" by the Norwegian Design Council in 2001.
 
 ### Brand
-- **Brand**: HÅG
-- ![HÅG Logo](https://cdn11.bigcommerce.com/s-lpku7oc/images/stencil/original/logonobackgrndtrdmk_1534857510__63589.original.original.png)
+- **Brand**: HÃG
+- ![HÃG Logo](https://cdn11.bigcommerce.com/s-lpku7oc/images/stencil/original/logonobackgrndtrdmk_1534857510__63589.original.original.png)
 
 ### Availability
 - **Shipping**: Free shipping available.

@@ -1,6 +1,6 @@
 ## Overview
 
-The SmugDesk Ergonomic Office Chair is an affordable mesh office chair offering essential ergonomic features for home office users on a tight budget. This chair provides adjustable lumbar support and breathable design for comfortable daily use.
+The SmugDesk Ergonomic Office Chair is an affordable mesh office chair offering essential ergonomic features for home office users and first-time buyers on a tight budget. This chair provides adjustable lumbar support and breathable design for comfortable daily use.
 
 ## Features
 

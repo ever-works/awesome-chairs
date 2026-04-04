@@ -1,5 +1,17 @@
-#Sihoo Doro Series Ergonomic Chair
+## Sihoo Doro Series Ergonomic Chair
 
-The Sihoo Doro Series Ergonomic Chair is a state-of-the-art seating solution designed to enhance comfort and productivity for individuals who spend long hours sitting. Featuring dynamic lumbar support, anti-gravity recline mechanisms, 6D coordinated armrests, seat depth adjustment, and a breathable mesh backrest, this chair adapts to your movements and supports natural posture. Ideal for professionals, gamers, and students, the Doro Series combines sleek aesthetics with advanced biomechanics research to reduce spinal pressure and enhance overall comfort.
+### Overview
+The Sihoo Doro Series represents Sihoo's premium ergonomic chair lineup, combining advanced biomechanical research with sleek aesthetics.
 
-[https://www.sihoo.com/en/tr/products/x5pro/](https://www.sihoo.com/en/tr/products/x5pro/)
+### Key Features
+- **Self-adaptive lumbar support**: Automatically adjusts to body movement
+- **6D coordinated armrests**: Multi-directional positioning
+- **Anti-gravity recline**: Weight-sensing balanced reclining up to 130°
+- **Seat depth adjustment**: Forward/backward slider
+- **Full mesh construction**: Breathable and durable
+- **Waterfall seat edge**: Reduces thigh pressure
+
+### Pricing
+Starting at approximately $270–$550 depending on model and configuration.
+
+For more details, visit [Sihoo Doro Series](https://www.sihoo.com/products/doro-series).

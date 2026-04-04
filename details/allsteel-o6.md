@@ -1,4 +1,4 @@
-#Allsteel O6
+# Allsteel O6
 
 A high-end ergonomic office chair built for intensive computer work, noted for its refined build quality, smooth casters, and excellent adjustable lumbar support that remains comfortable for hours. The design is intuitive and supportive enough to ‘disappear’ while working, though the armrest adjustments can feel stiff.
 

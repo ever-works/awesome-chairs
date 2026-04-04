@@ -1,24 +1,28 @@
 ## Overview
 
-The Duramont Ergonomic Office Chair features 4D adjustable lumbar support that moves up, down, in, and out, providing personalized lower back support. It includes fully adjustable armrests, lumbar support, seat height, and recline, all at one of the lowest prices in its category.
+The Duramont Ergonomic Office Chair is a budget-friendly ergonomic chair that offers an impressive feature set for its price point, making it an accessible option for home office users seeking comfort and adjustability without breaking the bank.
 
-## Features
+## Key Features
 
-- **4D Adjustable Lumbar Support**: Comprehensive lower back customization
-- **Thick Memory Foam Seat**: High-density foam cushion that contours to your body
-- **Breathable Mesh Back**: Superior airflow for all-day comfort
-- **Rollerblade Wheels**: Floor-friendly casters for smooth movement
-- **Integrated Headrest**: Built-in head and neck support
-- **Adjustable Armrests**: Height-adjustable arm support
+- Memory foam seat cushioning
+- Breathable mesh backrest with adjustable lumbar pad
+- Integrated adjustable headrest
+- Adjustable seat height and tilt mechanism
+- Optional rollerblade wheels
+- Weight capacity: 330 lbs
 
-## Specifications
+## Comfort
 
-- Weight Capacity: Up to 300 lbs
-- Recline Range: 90° to 120°
-- Seat Height Range: 18.5" to 22.5"
-- Warranty: 5-year manufacturer warranty
-- Recommended Use: 4-6 hours daily
+- Good balance of mesh and foam that is firm but comfortable
+- Notable for its adjustable lumbar support with 0.5 inches of depth adjustment range
+- Suitable for users up to 6'6" tall; the headrest works well for this height range
+
+## Limitations
+
+- Lumbar adjustment range limited to 0.5 inches
+- Not ideal for very heavy users (max 330 lbs)
+- The chair is budget-friendly, so some materials may not be as premium as higher-end options
 
 ## Pricing
 
-Starting at $199.99
+- Price: $199.99

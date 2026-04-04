@@ -1,18 +1,18 @@
 # Pipersong Meditation Chair
 
 ## Overview
-The Pipersong Meditation Chair is an ergonomic, non-traditional computer/desk chair designed for people who prefer or require alternative sitting positions over long periods. It includes a 360° swiveling footstool and can be used both for unconventional sitting (e.g., cross-legged) and as a standard office chair.
+The Pipersong Meditation Chair is an ergonomic, non-traditional computer/desk chair designed for people who prefer or require alternative sitting positions over long periods. It includes a 360Â° swiveling footstool and can be used both for unconventional sitting (e.g., cross-legged) and as a standard office chair.
 
 ## Features
 - **Non-traditional ergonomic design** tailored for users who sit for long hours in alternative positions.
-- **360° swiveling footstool** to support multiple leg and foot placements and easy repositioning.
+- **360Â° swiveling footstool** to support multiple leg and foot placements and easy repositioning.
 - **Supports multiple sitting styles**, including:
   - Cross-legged sitting
   - Squatting
   - Kneeling
   - One leg up
   - Standard/feet-flat sitting
-  - Other “creative” or mixed positions
+  - Other âcreativeâ or mixed positions
 - **Encourages frequent posture changes** while working at a desk, allowing users to shift positions throughout the day.
 - **Active, flexible seating** that facilitates continuous small movements rather than fixed, rigid postures.
 - **Adjustable armrests** (armchair configuration) for forearm support during typing or reading.

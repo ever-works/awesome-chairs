@@ -1,23 +1,22 @@
 ## Overview
 
-The Hbada Office Task Chair is a very affordable budget office chair that can be yours for just over $100, offering essential ergonomic features and comfort for users seeking basic but reliable seating on a tight budget.
+The Hbada Office Task Chair is a budget-friendly ergonomic office chair that offers essential features at an accessible price point. It features a breathable mesh back and comfortable cushioned seat for all-day use.
 
 ## Features
 
-- **Ultra-Affordable Pricing**: One of the most budget-friendly options available
-- **Basic Ergonomic Support**: Essential lumbar and back support
-- **Mesh Back**: Breathable design for basic comfort
-- **Height Adjustment**: Pneumatic gas lift for seat height
-- **Simple Assembly**: Easy to put together
-- **Compact Design**: Space-saving footprint
+- Breathable mesh back
+- Built-in lumbar support
+- Adjustable seat height
+- 3D adjustable armrests
+- Tilt mechanism with tension control
+- 120° tilt back
 
 ## Specifications
 
 - Weight Capacity: Up to 250 lbs
-- Recline Range: Basic tilt mechanism
-- Seat Height Range: 17" to 21"
-- Warranty: 1-year manufacturer warranty
+- Seat Height Range: 17.5" to 21.5"
+- Recline Range: 90° to 120°
 
 ## Pricing
 
-Starting at $109.99
+Starting at approximately $154.99

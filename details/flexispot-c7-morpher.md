@@ -1,24 +1,15 @@
 ## Overview
 
-The FlexiChair C7 Morpher features cutting-edge technologies including Flexlean™, Flexlide™, and AirLumbar™ for all-day comfort and spinal alignment. This premium chair comes with a 10-year warranty, demonstrating FlexiSpot's confidence in its durability and performance.
+A premium ergonomic chair featuring Morphing Backrest technology that adapts to your spine curves.
 
 ## Features
 
-- **Flexlean™ Technology**: Advanced reclining mechanism for natural movement
-- **Flexlide™ System**: Seat depth adjustment for optimal leg support
-- **AirLumbar™**: Pneumatic lumbar support for precise adjustment
-- **4D Armrests**: Fully adjustable armrests in four directions
-- **Breathable Mesh**: Premium mesh for superior airflow
-- **Recline Range**: 90° to 128° with multiple locking positions
-
-## Specifications
-
-- Weight Capacity: Up to 300 lbs
-- Recline Range: 90° to 128°
-- 360° Swivel: Full rotation capability
-- Warranty: 10-year manufacturer warranty
-- Certifications: BIFMA certified
+- Morphing backrest with auto-adjustment
+- Pneumatic adjustable lumbar support
+- 5D armrests
+- Breathable mesh seat
+- BIFMA and SGS certified
 
 ## Pricing
 
-Starting at $449.99
+Starting at $629

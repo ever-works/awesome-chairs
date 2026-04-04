@@ -23,9 +23,9 @@ The **Secretlab Titan Evo Series** is a high-end gaming chair designed to provid
 - **Foam**: Patent-pending cold-cure foam mix for even weight distribution and pressure relief.
 
 ### Sizes
-- **Small**: Suitable for individuals ≤5’6” and <200lbs.
-- **Regular**: Suitable for individuals 5’7”-6’2” and <220lbs.
-- **XL**: Suitable for individuals 5’11”-6’9” and 175lbs-395lbs.
+- **Small**: Suitable for individuals ≤5'6" and <200lbs.
+- **Regular**: Suitable for individuals 5'7"-6'2" and <220lbs.
+- **XL**: Suitable for individuals 5'11"-6'9" and 175lbs-395lbs.
 
 ### Pricing
 For the latest pricing and offers, visit the [Secretlab Titan Evo Series page](https://secretlab.co/pages/titan-evo-2022-series).

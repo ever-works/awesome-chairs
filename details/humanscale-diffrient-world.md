@@ -1,24 +1,16 @@
 ## Overview
 
-The Humanscale Diffrient World is a minimalist ergonomic mesh office chair featuring a self-adjusting recline mechanism that automatically adapts to your body weight without manual controls, making ergonomic seating intuitive and effortless.
+The Diffrient World features the original Tri-Panel mesh backrest that flexes to provide targeted lumbar support automatically. It uses Humanscale's signature weight-activated auto-tilt mechanism.
 
 ## Features
 
-- **Self-Adjusting Recline**: Automatically adapts to user's weight
-- **No Manual Controls**: Intuitive ergonomics without complexity
-- **Tri-Panel Mesh Back**: Superior breathability and support
-- **Form-Sensing Design**: Conforms to individual body shapes
-- **Minimalist Aesthetic**: Clean, modern design
-- **Counterbalance Technology**: Natural reclining motion
-
-## Specifications
-
-- Weight Capacity: Up to 300 lbs
-- Recline: Self-adjusting based on body weight
-- Certifications: Multiple environmental certifications
-- Warranty: 15-year Humanscale warranty
-- Design: Minimalist with no visible adjustment mechanisms
+- Weight-activated auto-tilt mechanism — no manual adjustment needed
+- Tri-Panel mesh backrest with integrated lumbar support
+- Fixed height arms
+- Mesh seat cushion for breathability
+- Simple, elegant design
+- Pneumatic seat height adjustment
 
 ## Pricing
 
-Starting at $949
+Starting at approximately $1,700.

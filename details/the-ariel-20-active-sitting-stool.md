@@ -8,7 +8,7 @@ The Ariel 2.0 by QOR360 is an active-sitting stool designed for people who spend
 
 ## Features
 - **Active sitting mechanism**
-  - Uses QOR360’s patented REDROCKER® technology.
+  - Uses QOR360âs patented REDROCKERÂ® technology.
   - Seat can move in all directions, promoting small postural adjustments.
   - Slightly rocking base keeps pelvis and core engaged.
 
@@ -18,7 +18,7 @@ The Ariel 2.0 by QOR360 is an active-sitting stool designed for people who spend
   - Claimed to boost metabolism by up to 30% compared with static sitting.
 
 - **Upgraded stability and capacity (vs. Ariel 1.0)**
-  - Redesigned rocker for a more stable, less “tippy” feel.
+  - Redesigned rocker for a more stable, less âtippyâ feel.
   - Updated mechanism to support heavier users.
   - Maximum user weight capacity: **300 lb** (approx. 40 lb higher than the previous version).
 
@@ -47,8 +47,8 @@ The Ariel 2.0 by QOR360 is an active-sitting stool designed for people who spend
 
 ## Specifications
 - **Height options**
-  - Tall model: **22" – 29"** seat height
-  - Short model: **17" – 22"** seat height
+  - Tall model: **22" â 29"** seat height
+  - Short model: **17" â 22"** seat height
 - **Seat dimensions**
   - Width: **15"**
   - Depth: **10"**

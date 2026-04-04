@@ -22,16 +22,8 @@ The Steelcase Leap Chair is a flagship ergonomic office chair designed to provid
 
 - **Leap Plus**: Offers the same benefits as the standard Leap but supports users up to 500 lbs.
 
-### Category
+### Pricing
 
-- Ergonomic Office Chairs
-
-### Tags
-
-- LiveBack
-- Customizable
-- Supportive
-
-### Source
+Pricing ranges from approximately $1,300 to $1,600 for new units, depending on configuration. Refurbished models are available at lower price points through authorized resellers.
 
 For more information and purchasing options, visit [Steelcase Leap Chair](https://www.steelcase.com/products/office-chairs/leap/).

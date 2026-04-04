@@ -1,4 +1,4 @@
-#Corsair TC100 Relaxed
+# Corsair TC100 Relaxed
 
 The Corsair TC100 Relaxed is an affordable gaming chair that offers comfort similar to more expensive models. While it may lack advanced features like 4D armrests or adjustable lumbar support, it provides a comfortable seating experience for long hours of gaming or work.
 

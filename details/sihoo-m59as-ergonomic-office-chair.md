@@ -1,4 +1,4 @@
-#Sihoo M59AS Ergonomic Office Chair
+# Sihoo M59AS Ergonomic Office Chair
 
 The Sihoo M59AS is a space-saving ergonomic office chair that features flip-up arms, making it ideal for compact workspaces. It offers excellent lumbar support and a breathable mesh back for enhanced comfort during extended use.
 

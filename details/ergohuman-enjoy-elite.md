@@ -1,24 +1,16 @@
 ## Overview
 
-The next generation Enjoy Elite mesh office chair is certified to deliver comfortable seating for up to 24 hours a day. The Enjoy Elite G2 office chair boasts a classic design with clean lines and discreet lumbar support while offering excellent value for money.
+The Ergohuman Enjoy Elite is a 24-hour rated chair designed for demanding environments such as offices and call centers. It features a dual-pivot synchro mechanism that maintains a 2:1 backrest-to-seat tilt ratio and an automatic lumbar support system.
 
 ## Features
 
-- **24-Hour Certification**: BS 5459 certified for continuous use
-- **Dual Pivot Synchro Mechanism**: 2:1 ratio backrest to seat tilt
-- **Automatic Lumbar Support**: Self-adjusting lower back support
-- **Autoflex Zones**: Flexible zones for effective back support
-- **5D Armrests**: Comprehensive armrest adjustability
-- **Optional Additions**: Legrest and headrest available
-
-## Specifications
-
-- Weight Capacity: Up to 330 lbs (150 kg)
-- Certifications: BS 5459, GREENGUARD Indoor Air Quality
-- Warranty: 10-year manufacturer warranty
-- Frame Options: Light grey or black
-- Mesh Colors: Six color options available
+- Dual-pivot synchro-tilt mechanism with 2:1 backrest-to-seat ratio
+- Automatic lumbar support that moves with recline
+- Mesh fabric back with flexible frame
+- Adjustable seat height and tilt tension
+- Optional headrest and leg rest
+- Backed by a 10-year warranty
 
 ## Pricing
 
-Starting at £580.50 / $749.99
+Approximately $750 with optional configurations.

@@ -1,4 +1,4 @@
-#Boulies Master Series Adjustable Computer Chair
+# Boulies Master Series Adjustable Computer Chair
 
 An adjustable computer and gaming chair from Boulies’ Master Series, designed for all-day sitting with a high-back, gaming-style profile suitable for both work and play.
 

@@ -1,7 +1,5 @@
 # La-Z-Boy Delano Executive Chair
 
-![La-Z-Boy Logo](/path/to/lazboy/logo.png)
-
 **Category:** Ergonomic Office Chairs  
 **Brand:** La-Z-Boy  
 

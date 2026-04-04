@@ -1,29 +1,16 @@
-# Haworth Fern
+## Haworth Fern
 
-![Haworth Fern](https://www.haworth.com/content/dam/haworth/na/en/images/products/seating/task/fern/fern-hero.jpg)
-
-## Overview
-The **Haworth Fern** is a high-end ergonomic chair designed to deliver ultimate comfort and support. Introduced in 2019, it combines innovative technology with premium materials to cater to long hours of sitting, making it an ideal choice for both work and gaming setups.
+The **Haworth Fern** is a premium ergonomic chair introduced in 2019 that combines a zero-waste digital knit backrest with comprehensive adjustability.
 
 ## Features
-- **Digital Knit Backrest:** Offers a soft yet supportive experience, ensuring comfort during prolonged use.
-- **Wave Suspension System:** Provides dynamic support by flexing with every shift and stretch, maintaining ergonomic alignment.
-- **Four-Way Adjustable Arms:** Enhance mobility and adaptability, allowing users to customize the chair to their preferred position.
-- **Stem-Based Design:** Promotes freedom of movement while maintaining stability.
-- **Edgeless Back Design:** Supports natural movement without restriction.
+- **Digital Knit Backrest**: Soft yet supportive; flexes naturally with spine movement
+- **Wave Suspension System**: Dynamic support across every shift and stretch
+- **Edgeless Back Design**: Supports natural movement without restriction
+- **Stem-Based Design**: Promotes freedom of movement with stability
+- **Full adjustability**: Seat depth, lumbar, 4D arms, tilt tension
 
-## Brand
-- **Brand:** Haworth
-- **Brand Logo:** ![Haworth Logo](https://www.haworth.com/content/dam/haworth/na/en/images/logos/haworth-logo.png)
-
-## Additional Details
-- **Category:** Others
-- **Slug:** haworth-fern
+## Specifications
+- Weight Capacity: 350 lbs
 
 ## Pricing
-Pricing details are not provided in the content. Please visit the [Haworth website](https://haworth.pxf.io/4eQJYL) for the most up-to-date pricing information.
-
-## Images
-- ![Fern Back](https://www.haworth.com/content/dam/haworth/na/en/images/products/seating/task/fern/fern-back.jpg)
-
-For more information, visit the [Haworth Website](https://haworth.pxf.io/4eQJYL).
+Pricing varies by configuration. Visit the [Haworth Fern page](https://store.haworth.com/products/fern-chair) for current pricing.

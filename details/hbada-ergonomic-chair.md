@@ -1,4 +1,4 @@
-#HBADA Ergonomic Chair
+# HBADA Ergonomic Chair
 
 The HBADA Ergonomic Chair is designed for individuals who spend long hours sitting, offering comfort and support with its ergonomic design. Ideal for both home office and gaming setups, it features adjustable settings to cater to various body types and preferences.
 

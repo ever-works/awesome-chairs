@@ -1,12 +1,9 @@
 # Steelcase Karman
 
 **Brand:** Steelcase  
-**Category:** Office Chair / Ergonomic Task Chair  
-**Use case:** All-day computer work, office work, and gaming
+**Category:** Ergonomic Office Chairs  
 
 A high-performance ergonomic task chair with a lightweight frame, hybrid suspension seat, and advanced back support designed for long sitting sessions.
-
----
 
 ## Features
 
@@ -26,35 +23,16 @@ A high-performance ergonomic task chair with a lightweight frame, hybrid suspens
 - **Adjustable neck support (high-back model)**: Neck pillow height/position can be tuned for different users.
 
 ### Materials & Construction
-- **Intermix performance textile** (proprietary):
-  - Exclusive to Steelcase Karman.
-  - Engineered for performance, comfort, and aesthetics.
-  - Unique weave allows translucent, opaque, and color-shifting textile options.
+- **Intermix performance textile**: Exclusive to Steelcase Karman; engineered for performance, comfort, and aesthetics.
 - **Ultra-light frame**: Chair structure is designed to flex for comfort and remove pressure points.
 - **Lightweight build**: Weighs approximately 29 lbs while maintaining strength and durability.
-
-### Design & Aesthetics
-- **21st-century responsive design**: Engineered to naturally respond to body movement rather than relying solely on manual adjustments.
-- **Unique color combinations**: Available beyond standard black/white/gray, with varied textile and frame color options enabled by the Intermix material.
 
 ### Sustainability
 - **Responsible design approach**:
   - Uses sustainable materials where possible.
   - Minimizes number of components to reduce material use.
-  - Lightweight construction (29 lbs) helps lower resource consumption and environmental impact.
-  - Developed to support the company’s broader carbon and sustainability commitments.
-
----
+  - Lightweight construction helps lower resource consumption and environmental impact.
 
 ## Pricing
 
-No specific pricing or plan information is provided in the source content. For current pricing, configurations, and purchase options, see the official Steelcase online store or authorized retailers.
-
----
-
-## Additional Resources
-
-- Product page & online purchase: https://store.steelcase.com/steelcase-karman  
-- Product configuration: https://www.steelcase.com/configurator/TN6WW8CU8WG6EG7FS8TU  
-- Surface materials & Intermix details: https://www.steelcase.com/resources/surface-materials  
-- Intermix swatch card (download): https://www.steelcase.com/resources/documents/intermix-swatch-card/
+Pricing ranges from approximately $1,500 to $2,000 depending on configuration. Visit the [Steelcase Karman product page](https://www.steelcase.com/products/office-chairs/steelcase-karman/) for current pricing.

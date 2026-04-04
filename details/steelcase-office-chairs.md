@@ -1,23 +1,17 @@
 # Steelcase Office Chairs
 
-Ergonomic office and computer chairs designed by Steelcase Inc., a global workplace solutions company. These chairs are built to support people who spend extended periods seated at a computer.
+A collection of ergonomic office and task chairs from Steelcase, a global workplace solutions company.
 
-## Features
-- Ergonomic design intended for all-day computer use
-- Advanced posture-sensing mechanisms that respond to user movement
-- Automated adjustment systems to support different body positions
-- Evidence-based ergonomic engineering informed by workplace research
-- Suitable for office, home office, and other computer-based work settings
+## Product Range
+- **Steelcase Leap**: Flagship with LiveBack technology, 4D arms (entry ~$1,300)
+- **Steelcase Gesture**: 3D LiveBack with 360° arms, Wirecutter's top pick (entry ~$1,300)
+- **Steelcase Karman**: Lightweight hybrid suspension, 29 lbs build (entry ~$1,500)
+- **Steelcase Think**: Flexible backrest, optimized for shorter sessions (~$1,100)
+- **Steelcase Series 1/2**: Mid-range ergonomic basics (~$500–$800)
 
-## Ideal For
-- People who sit at a computer for long periods
-- Office workers and remote workers needing ergonomic seating
-- Workstations where posture support and adjustability are important
+## Key Technologies
+- **LiveBack / 3D LiveBack**: Spine-tracking backrest
+- **4D/360° Arms**: Industry-leading armrest adjustability
+- **Weight capacities**: 275–500 lbs depending on model
 
-## Pricing
-Pricing details are not specified in the provided content. Models and pricing can vary; see the Steelcase website for current options.
-
-## Brand & Source
-- **Brand:** Steelcase
-- **Category:** chair-accessories
-- **Website:** https://www.steelcase.com
+For more information, visit [Steelcase Seating](https://www.steelcase.com/products/seating/).

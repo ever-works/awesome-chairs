@@ -5,7 +5,7 @@ The Score Jumper Balance features a unique balance mechanism that ensures you co
 ## Features
 
 - **Balance Mechanism**: Adjustable micro-movement system
-- **Saddle Design**: Creates 135° hip angle for reduced lower back strain
+- **Saddle Design**: Creates 135Â° hip angle for reduced lower back strain
 - **Active Sitting**: Promotes constant position changes
 - **Height Adjustable**: Pneumatic height adjustment
 - **Premium Quality**: Professional-grade construction

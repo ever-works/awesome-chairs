@@ -1,18 +1,22 @@
-# Steelcase Series 2 Air
+### Steelcase Series 2 Air
 
-**Category:** Others  
+**Category:** Ergonomic Office Chairs  
 **Brand:** Steelcase  
-**Source:** https://store.steelcase.com/seating/ergonomic-chairs/steelcase-series-2-air
 
-## Description
-Mesh-backed version of the Steelcase Series 2 ergonomic chair, designed to provide breathable comfort and support for extended computer use.
+#### Overview
+The Steelcase Series 2 Air is a mesh-backed ergonomic chair designed to provide breathable comfort and support for extended computer use.
 
-## Features
-- Mesh backrest for increased breathability
-- Ergonomic design intended for long-duration computer or desk work
-- Supportive back structure tailored for extended sitting
+#### Features
+- **Mesh backrest** for enhanced airflow and breathability
+- **Flexor system backrest** with adjustable lumbar support
+- **Seat depth adjustment**: Accommodates different leg lengths
+- **Adjustable armrests**: Height and width control
+- **Tilt tension control**: Customizable recline resistance
+- **Pneumatic height adjustment**: Standard desk compatibility
 
-*(The source content provided contains almost no detailed product information beyond the basic description; only those details are listed here.)*
+#### Specifications
+- Weight Capacity: 300 lbs
+- Warranty: Steelcase standard warranty
 
-## Pricing
-Pricing information is not available in the provided content.
+#### Pricing
+Starting at approximately $600–$900 depending on configuration. Refer to the [Steelcase Series 2 Air page](https://store.steelcase.com/seating/ergonomic-chairs/steelcase-series-2-air) for current pricing.

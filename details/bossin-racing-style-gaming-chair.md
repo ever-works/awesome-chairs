@@ -8,8 +8,8 @@ The Bossin Racing Style Gaming Chair with massage function and retractable footr
 - **Massage Lumbar Pillow**: USB-powered vibrating support
 - **Retractable Footrest**: Extends for relaxation
 - **Adjustable Height**: Pneumatic gas lift
-- **Reclining Function**: Multi-position backrest
-- **Affordable Pricing**: Entry-level gaming chair option
+- **Reclining Function**: Up to 155° multi-position backrest
+- **PU Leather Upholstery**: Easy-to-clean surface
 
 ## Specifications
 

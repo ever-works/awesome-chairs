@@ -1,4 +1,4 @@
-#Corsair T3 Rush
+# Corsair T3 Rush
 
 The Corsair T3 Rush is a gaming chair that combines comfort with a racing-inspired design. It features breathable soft fabric, adjustable neck and lumbar pillows, and a reclining backrest, making it suitable for long gaming or work sessions.
 

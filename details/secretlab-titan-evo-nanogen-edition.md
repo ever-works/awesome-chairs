@@ -1,8 +1,8 @@
 ## Secretlab Titan Evo NanoGen Edition
 
-![Secretlab Logo](/path/to/secretlab-logo.png)
+![Secretlab Logo](https://secretlab.co/logo.png)
 
-![Secretlab Titan Evo NanoGen Edition Image](https://example.com/secretlab-titan-evo-nanogen-image1.jpg)
+![Secretlab Titan Evo NanoGen Edition](https://assets-prd.ignimgs.com/2024/11/28/nanogen-purewhite-turntable-v006-0000-1-1732767488005.png)
 
 **Category:** Gaming Chairs
 
@@ -39,5 +39,5 @@ The Secretlab Titan Evo NanoGen Edition is designed to offer extreme comfort, fe
 - Value
 
 ### Images
-- ![Image 1](https://example.com/secretlab-titan-evo-nanogen-image1.jpg)
-- ![Image 2](https://example.com/secretlab-titan-evo-nanogen-image2.jpg)
+- ![Image 1](https://assets-prd.ignimgs.com/2024/11/28/nanogen-purewhite-turntable-v006-0000-1-1732767488005.png)
+- ![Image 2](https://assets-prd.ignimgs.com/2025/03/30/slsm-1743366907221.jpg)

@@ -1,4 +1,4 @@
-#Sihoo M18 Ergonomic Office Chair
+# Sihoo M18 Ergonomic Office Chair
 
 The Sihoo M18 is an ergonomic office chair featuring a soft cushion and spine support, tailored for individuals who require comfort and support during extended sitting sessions. Its design promotes healthy posture and reduces strain on the back.
 

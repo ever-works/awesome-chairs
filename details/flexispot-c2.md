@@ -1,22 +1,21 @@
 ## Overview
 
-The FlexiSpot C2 costs only $99.99 and offers affordable comfort with breathability, making it one of the most budget-friendly options from a reputable ergonomic furniture manufacturer.
+The FlexiSpot C2 is the budget-friendly version of the C2 family, offering basic ergonomic features at an accessible price. It features a breathable mesh backrest for ventilation and comfort during long hours of sitting.
 
 ## Features
 
-- **Ultra-Affordable**: Premium brand quality at budget price
-- **Breathable Mesh**: Basic mesh for airflow
-- **Height Adjustment**: Standard pneumatic lift
-- **Tilt Function**: Simple recline mechanism
-- **Compact Design**: Space-efficient footprint
-- **Easy Maintenance**: Simple to clean and maintain
+- **Mesh Backrest:** Breathable mesh for airflow
+- **Comfortable Seat Cushion:** Foam padding
+- **Lightweight Design:** ~20 lbs
+- **Adjustable Height:** Standard pneumatic lift
+- **Tilt Mechanism:** Basic recline up to 120°
 
 ## Specifications
 
 - Weight Capacity: Up to 250 lbs
-- Recline Range: Basic tilt
-- Seat Height Range: 17.5" to 21"
-- Warranty: 2-year manufacturer warranty
+- Recline Range: Up to 120°
+- Seat Height Range: 17.3" – 21.3"
+- Armrests: Fixed or height-adjustable options available
 
 ## Pricing
 

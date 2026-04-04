@@ -1,24 +1,18 @@
 ## Overview
 
-The Global Furniture Duet is an ergonomic mesh office chair from a leading commercial furniture manufacturer, offering professional-grade quality and adjustability for demanding work environments at competitive pricing.
+The Global Furniture Duet is a commercial-grade mesh office chair designed for collaborative office spaces with comprehensive ergonomic adjustability and a professional look suitable for corporate environments.
 
 ## Features
 
-- **Commercial-Grade Quality**: Built for professional use
-- **Mesh Back Design**: Breathable and supportive
-- **Adjustable Lumbar**: Customizable lower back support
-- **Multi-Function Mechanism**: Comprehensive adjustability
-- **Durable Construction**: Long-lasting components
-- **Professional Aesthetics**: Suitable for corporate environments
+- Adjustable lumbar support
+- Breathable mesh back
+- Multi-function mechanism
+- Professional aesthetics
+- Height adjustable arms
+- Pneumatic seat height adjustment
 
 ## Specifications
 
-- Weight Capacity: Up to 300 lbs
-- Recline Range: Multi-position tilt
-- Warranty: Extended commercial warranty
-- Certifications: BIFMA certified
-- Available Options: Multiple upholstery choices
-
-## Pricing
-
-Starting at $449
+- Weight Capacity: BIFMA rated
+- Back: Breathable mesh
+- Warranty: Commercial-grade warranty

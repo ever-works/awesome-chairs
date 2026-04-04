@@ -1,26 +1,17 @@
-# Homall Gaming Chair
+## Overview
 
-The **Homall Gaming Chair** is designed with both gamers and professionals in mind, offering a blend of ergonomic support and stylish design. Whether you're gaming or working, this chair promises comfort and functionality.
-
-## Description
-- **High-Density Foam Cushioning:** Experience superior comfort with plush foam that conforms to your body.
-- **Reclining Feature:** Adjustable reclining capability for relaxation during extended sessions.
-- **Racing-Style Design:** Offers an aesthetic appeal with functional ergonomic support.
+The **Homall Gaming Chair** is designed with both gamers and budget-conscious users in mind, combining racing-style aesthetics with essential ergonomic features at an affordable price point whether gaming or working from a secondary desk setup.
 
 ## Features
-- **Ergonomic Design:** Provides support for the spine and neck, reducing strain during long sitting hours.
-- **Adjustable Seat Height:** Customize the height to suit your desk or gaming setup.
-- **Swivel Functionality:** Facilitates easy movement and access to various areas of your workspace.
-- **PU Leather Upholstery:** Durable and easy to clean, maintaining a sleek appearance.
-- **Headrest and Lumbar Support:** Additional cushions that enhance comfort and support.
 
-## Tags
-- Racing-Style
-- Reclining
-- High-Density Foam
+- **Racing-Style Design**: Classic gaming aesthetic
+- **High-Density Foam Cushioning**: Firm support for extended sitting
+- **Removable Lumbar & Neck Pillows**: Adjustable cushion support
+- **Adjustable Seat Height**: Pneumatic gas lift customization
+- **Armrests**: Height-adjustable padded arms
+- **160° Recline**: Expansive backrest recline
+- **PU Leather Upholstery**: Durable, easy-to-clean surface
 
-## Category
-- Gaming Chairs
+## Pricing
 
-## Source
-For more information, visit the [Homall website](https://homall.com/collections/gaming-chair?srsltid=AfmBOopbnxSBZzY1rbZGibfJDDh_jB4vRzeeHiz4NZkndT9oMtVGOJ6W).
+Starting at approximately $139.99

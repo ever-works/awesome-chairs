@@ -1,4 +1,4 @@
-#Cozy Series Clover Premium
+# Cozy Series Clover Premium
 
 Designed for royalty, this flagship model offers a wider seat, taller backrest, and 20% thicker padding for ultimate comfort.
 
