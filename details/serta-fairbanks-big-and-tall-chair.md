@@ -7,7 +7,7 @@ The Serta Fairbanks seamlessly blends office aesthetics with gaming comfort, mak
 | Feature | Details |
 |---------|--------|
 | Weight Capacity | 350 lbs |
-| Height Recommendation | 5'6" — 6'6" |
+| Height Recommendation | 5'6\" — 6'6\" |
 | Seat Width | 22 inches |
 | Recline Range | 90° — 130° |
 | Material | Bonded Leather |

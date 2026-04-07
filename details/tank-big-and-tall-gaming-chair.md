@@ -17,12 +17,6 @@ The **TANK Big and Tall Gaming Chair** by **DXRacer** is crafted for larger user
 
 **DXRacer** is a renowned brand known for pioneering the gaming chair market, offering a diverse range of high-quality gaming chairs designed to enhance user experience.
 
-## Category
-- **Chair Accessories**
-
-## Tags
-- Currently, there are no tags associated with this item.
-
----
+## Pricing
 
 Note: Pricing details are not available for this product. Please check the [DXRacer website](https://www.dxracer.com/collections/tank) for the most up-to-date information.

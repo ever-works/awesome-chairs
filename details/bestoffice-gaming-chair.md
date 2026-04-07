@@ -15,7 +15,7 @@ The BestOffice Gaming Chair is an ultra-affordable gaming chair offering basic r
 
 - Weight Capacity: Up to 250 lbs
 - Recline Range: Basic tilt function
-- Seat Height Range: 17.5" to 21.5"
+- Seat Height Range: 17.5\" to 21.5\" 
 - Warranty: 30-day limited warranty
 
 ## Pricing
