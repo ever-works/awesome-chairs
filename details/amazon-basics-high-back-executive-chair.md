@@ -15,7 +15,7 @@ The Amazon Basics High-Back Executive Chair offers executive-style design with h
 
 - Weight Capacity: Up to 275 lbs
 - Recline Range: Basic tilt function
-- Seat Height Range: 18.9" to 22.8"
+- Seat Height Range: 18.9\" to 22.8\"
 - Warranty: 1-year limited warranty
 - Available Colors: Black and brown
 

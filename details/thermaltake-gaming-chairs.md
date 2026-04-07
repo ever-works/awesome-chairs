@@ -24,7 +24,7 @@ Thermaltake’s TT Gaming line includes a range of ergonomic gaming chairs, real
 - Height adjustment via gas lift
 - Tilt and tilt-lock mechanisms on selected models
 - Sturdy 5‑star aluminum bases
-- Large caster / PU wheels (e.g., 3" casters on some models)
+- Large caster / PU wheels (e.g., 3\" casters on some models)
 
 ### Specific Product Lines Highlighted
 

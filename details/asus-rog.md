@@ -1,8 +1,8 @@
 ## Asus ROG Destrier Ergo Gaming Chair
 
-![Asus ROG Logo](https://asus.com/logo.png)
+![Asus ROG Logo](https://rog.asus.com/media/logo.png)
 
-![Asus ROG Chair](https://asus.com/images/rog-chair-1.png) ![Asus ROG Chair](https://asus.com/images/rog-chair-2.png)
+![Asus ROG Chair](https://rog.asus.com/media/global/products/rog-destrier-ergo/01.png) ![Asus ROG Chair](https://rog.asus.com/media/global/products/rog-destrier-ergo/02.png)
 
 ### Overview
 The Asus ROG Destrier Ergo Gaming Chair is designed with a futuristic cyborg aesthetic and boasts a range of versatile seat adjustments. While it offers a unique style and adjustability, it may not be the best choice for those whose primary concern is comfort.

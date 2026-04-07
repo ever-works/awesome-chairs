@@ -2,7 +2,7 @@
 
 ![Asus Logo](/path/to/asus-logo.png)
 
-![Asus ROG Destrier Core](https://example.com/images/asus-rog-destrier-core-1.jpg)
+![Asus ROG Destrier Core](https://rog.asus.com/media/global/products/rog-destrier-core/01.png)
 
 ### Description
 The **Asus ROG Destrier Core** is a gaming chair designed for comfort and ergonomics, featuring a mesh suspension system. While it offers adjustable features, it has been noted to have some stability issues, particularly with its armrests.
@@ -13,8 +13,8 @@ The **Asus ROG Destrier Core** is a gaming chair designed for comfort and ergono
 - **Adjustable Features**: Customizable options for height, tilt, and armrest positioning.
 
 ### Images
-- ![Image 1](https://example.com/images/asus-rog-destrier-core-1.jpg)
-- ![Image 2](https://example.com/images/asus-rog-destrier-core-2.jpg)
+- ![Image 1](https://rog.asus.com/media/global/products/rog-destrier-core/01.png)
+- ![Image 2](https://rog.asus.com/media/global/products/rog-destrier-core/02.png)
 
 ### Category
 - **Gaming Chairs**

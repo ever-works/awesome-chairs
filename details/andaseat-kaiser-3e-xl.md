@@ -1,6 +1,6 @@
 ## Overview
 
-The AndaSeat Kaiser 3E XL was recently reviewed as one of the best gaming chairs in 2026. This extra-large variant accommodates a wider height and weight range, best for users 4'11" to 6'2" and under 260 lbs, making it ideal for a broad range of body types.
+The AndaSeat Kaiser 3E XL was recently reviewed as one of the best gaming chairs in 2026. This extra-large variant accommodates a wider height and weight range, best for users 4'11\" to 6'2\" and under 260 lbs, making it ideal for a broad range of body types.
 
 ## Features
 
@@ -14,7 +14,7 @@ The AndaSeat Kaiser 3E XL was recently reviewed as one of the best gaming chairs
 ## Specifications
 
 - Weight Capacity: Up to 260 lbs
-- Height Range: 4'11" to 6'2"
+- Height Range: 4'11\" to 6'2\"
 - Recline Range: 90° to 160°
 - Warranty: 2-year manufacturer warranty
 

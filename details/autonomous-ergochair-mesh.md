@@ -15,7 +15,7 @@ The Autonomous ErgoChair Mesh is the new and improved sibling to the ErgoChair P
 
 - Weight Capacity: Up to 300 lbs
 - Recline Range: Up to 18° tilt
-- Seat Depth: Adjustable from 19" to 21.5"
+- Seat Depth: Adjustable from 19\" to 21.5\"
 - Warranty: 2-year warranty with 30-day returns
 
 ## Pricing

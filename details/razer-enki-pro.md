@@ -30,7 +30,7 @@ Premium gaming and computer chair designed for extended daily use, featuring Alc
   - Backrest uses two different cushion densities to provide targeted support and comfort.  
 - **110° extended shoulder arches**  
   - Shoulder area geometry designed to promote optimal weight distribution and upper-body support.  
-- **21" ultrawide seat base**  
+- **21\" ultrawide seat base**  
   - Wide seating surface to accommodate a broad range of body types and sitting positions.  
 - **Optimized cushion density** (from item description)  
   - Cushion firmness tuned to balance softness and support for long periods of use.

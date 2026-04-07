@@ -10,8 +10,8 @@ The **X-Tech Executive Office Chair** is a premier choice for professionals seek
 - **Dynamic Variable Lumbar (DVL)® Support**: Adapts to your body for personalized support.
 - **Customizable Wheels**:
   - **Standard Caster**: Smooth movement across most floors.
-  - **FS Wheel Non-Locking**: High-performance wheels for any surface, adds 1" to seat height.
-  - **FS Wheel Locking**: Rollerblade-inspired wheels for smooth, quiet movement with lockable stability, adds 1" to seat height.
+  - **FS Wheel Non-Locking**: High-performance wheels for any surface, adds 1\" to seat height.
+  - **FS Wheel Locking**: Rollerblade-inspired wheels for smooth, quiet movement with lockable stability, adds 1\" to seat height.
 
 ### Images
 - ![Grey Flex Mesh](https://cld.accentuate.io/66995585306/1678743177943/XC_Flex_Mesh_Gray.jpg?v=1678743177943&options=w_24)

@@ -15,7 +15,7 @@ The Ace Series ACE-PRO AMZ-H is an affordable gaming chair designed for comfort 
 
 - Weight Capacity: Up to 280 lbs
 - Recline Range: 90° to 155°
-- Seat Height Range: 18" to 22"
+- Seat Height Range: 18\" to 22\"
 - Warranty: 1-year limited warranty
 
 ## Pricing

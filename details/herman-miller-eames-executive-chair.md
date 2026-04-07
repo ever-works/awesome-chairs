@@ -15,8 +15,8 @@ The Eames Executive Chair is an iconic mid-century modern chair designed by Char
 
 - Weight Capacity: 300 lbs
 - Tilt Range: 20°
-- Overall Dimensions: 26.75"W × 32.75"D × 40"H
-- Seat Height: 16.5"–19.5"
+- Overall Dimensions: 26.75\"W × 32.75\"D × 40\"H
+- Seat Height: 16.5\"–19.5\"
 - Warranty: 12-year Herman Miller warranty
 
 ## Pricing

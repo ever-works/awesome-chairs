@@ -15,9 +15,6 @@ The **Alto Silicone Leather Executive Office Chair** is a premium seating soluti
 - **Brand Name**: Alto
 - **Brand Logo**: ![Alto Logo](/images/brands/alto-logo.png)
 
-### Category
-- **Category**: Chair Accessories
-
 ### Additional Resources
 - [Product Page](https://shop.app/products/9922046820656/alto-silicone-leather-executive-office-chair)
 

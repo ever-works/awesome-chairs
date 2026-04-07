@@ -15,7 +15,7 @@ The Autonomous ErgoChair Pro (previously called ErgoChair 2) is an ergonomic off
 - **Curved mesh headrest** — breathable and springy, suitable for headset wearers
 - **Thick fabric-covered foam seat cushion**
 - **Weight capacity:** Up to 350 pounds
-- **Height accommodation:** Suitable for users up to 6'5" tall
+- **Height accommodation:** Suitable for users up to 6'5\" tall
 - **Color options:** Multiple colors available beyond basic black
 - **Wheels:** Caster wheels that roll and pivot smoothly
 

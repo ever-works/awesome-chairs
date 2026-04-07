@@ -13,23 +13,8 @@ The **Ace Pro X Gaming Chair** by [GTRacing](https://www.gtracing.com/products/a
 - **Lumbar Support:** Helps maintain proper posture, reducing back fatigue.
 - **RGB Lighting:** Adds a vibrant and dynamic aesthetic to your gaming setup.
 
-### Brand
-- **Brand Name:** GTRacing
-- **Brand Logo:** ![GTRacing Logo](https://www.gtracing.com/logo.png)
-
-### Category
-- **Type:** Gaming Chairs
-
-### Tags
-- Ergonomic
-- RGB Lighting
-- Lumbar Support
-
-### Additional Images
-- ![Ace Pro X Gaming Chair - Image 2](https://www.gtracing.com/images/ace-pro-x-2.png)
-
 ### Pricing
-- No specific pricing information is provided in the content. Please visit the [product page](https://www.gtracing.com/products/ace-pro-x) for more details.
+No specific pricing information is provided in the content. Please visit the [product page](https://www.gtracing.com/products/ace-pro-x) for more details.
 
 ---
 
