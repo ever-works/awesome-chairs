@@ -1,5 +1,15 @@
-# Corsair TC500 Luxe
+## Overview
 
-The Corsair TC500 Luxe is praised for its wide seat base, excellent materials, and stylish design. Its main drawback is the armrests, which are positioned too far from the seat.
+Corsair TC500 Luxe gaming chair with wide seat, premium materials, and stylish design ideal for long gaming sessions.
 
-[https://hawk.ly/m/Corsair-TC500-Luxe/i/PCGOSJ11](https://hawk.ly/m/Corsair-TC500-Luxe/i/PCGOSJ11)
+## Features
+
+- Wide seat base for comfort
+- Premium PU leather or fabric
+- Adjustable 4D armrests
+- 165° recline
+- Magnetic head pillow option
+
+## Pricing
+
+Approximately $500+.

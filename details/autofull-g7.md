@@ -1,15 +1,26 @@
 ## Overview
 
-The AutoFull G7 is a gaming chair that stands out for its exceptional range of adjustability and unique approach to lumbar support. Designed with an elasticated mesh backrest, it provides breathable comfort while maintaining proper posture during extended sessions.
+AutoFull G7 excels in deep recline up to 160°+ for complete relax mode, ideal for gamers needing breaks or quick desk naps.
 
 ## Features
 
-- Highly adjustable design with wide range of motion settings
-- Unique lumbar support system that adapts to body position
-- Elasticated mesh backrest for enhanced breathability
-- Ergonomic frame designed to guide body into healthier sitting positions
-- Multiple adjustment points for personalized fit
+- Recline: 160°+ with lock
+- Footrest: Integrated/deployable
+- Massage: Lumbar vibration
+- Adaptive lumbar support
+- Elasticated mesh backrest for breathability
+- Wide adjustability
+
+## Use Cases
+
+- Long gaming sessions with relax periods
+- Napping at desk without standing up
+
+## Comparisons
+
+- Vs standard office: Deeper recline (vs 120° max)
+- Vs Secretlab Titan: Comparable premium quality, mesh vs leather
 
 ## Pricing
 
-Pricing varies by region and retailer. The G7 is positioned competitively among feature-rich gaming chairs, offering advanced lumbar support at a price point below premium flagship models.
+Mid-premium range, varies by retailer.

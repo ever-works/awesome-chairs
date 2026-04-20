@@ -1,26 +1,22 @@
-## Saddle Chair  
+## Overview
 
-![Saddle Chair](https://www.branchfurniture.com/cdn/shop/files/saddle-chair_96ce219c-be3d-4de9-8e0c-1f35aac7c827.webp?v=1762303052)
+Ergonomic saddle promotes active, movement-based sitting.
 
-### Overview
-The **Saddle Chair** by **Branch Furniture** is designed to support active seating, encouraging movement and promoting a more energized workday. Its unique ergonomic structure makes it an ideal choice for individuals seeking a dynamic seating experience.
+## Features
 
-### Features
-- **Ergonomic Design**: Crafted to support active seating, the Saddle Chair promotes movement and helps maintain a balanced posture.
-- **Dynamic Seating Experience**: Ideal for those who prefer a seating solution that adapts to and encourages movement.
+- Saddle design for open hip angle and balance
+- Height adjustable
 
-### Brand
-- **Brand Name**: Branch Furniture
-- ![Branch Furniture Logo](https://www.branchfurniture.com/cdn/shop/files/branch-logo.png)
+## Use Cases
 
-### Category
-- **Category**: Chair Accessories
+- Fidgeters/ADHD for constant motion
+- Programmers needing posture variety
+- Active users vs. static seating
 
-### Additional Information
-- **Source URL**: [Saddle Chair Product Page](https://www.branchfurniture.com/products/saddle-chair)
-- **Slug**: saddle-chair
+## Health Benefits
 
-### Pricing
-- **Note**: Pricing information is not provided in the available content.
+Improves posture, engages core, enhances circulation.
 
-For more information or to purchase, visit the [Saddle Chair Product Page](https://www.branchfurniture.com/products/saddle-chair).
+## Pricing
+
+Check Branch Furniture site.

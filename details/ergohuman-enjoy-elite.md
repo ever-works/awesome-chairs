@@ -1,16 +1,27 @@
 ## Overview
 
-The Ergohuman Enjoy Elite is a 24-hour rated chair designed for demanding environments such as offices and call centers. It features a dual-pivot synchro mechanism that maintains a 2:1 backrest-to-seat tilt ratio and an automatic lumbar support system.
+Ergohuman Enjoy Elite endurance chair supports extended programming with advanced adjustability and airflow.
 
 ## Features
 
-- Dual-pivot synchro-tilt mechanism with 2:1 backrest-to-seat ratio
-- Automatic lumbar support that moves with recline
-- Mesh fabric back with flexible frame
-- Adjustable seat height and tilt tension
-- Optional headrest and leg rest
-- Backed by a 10-year warranty
+- Dynamic auto-adjusting lumbar follows recline and posture
+- Breathable mesh backrest for cooling airflow
+- Dual-pivot synchro-tilt (2:1 ratio), auto-tilt tension
+- Multi-adjustable arms reduce keyboard strain
+- Optional headrest, seat height/depth
+- 10-year warranty
+
+## Use Cases
+
+- Software development marathons
+- Remote work 12+ hours
+- Continuous high-focus tasks
+
+## Comparisons
+
+- Vs. Aeron: Cheaper, warmer fabrics
+- Vs. Titan Evo: Professional aesthetic
 
 ## Pricing
 
-Approximately $750 with optional configurations.
+~$750.

@@ -1,31 +1,25 @@
-# Razer Enki
-
-![Razer Enki](https://assets.razerzone.com/enki-image1.png)
-
 ## Overview
 
-The **Razer Enki** is a gaming chair designed to provide all-day comfort through optimized weight distribution, minimizing pressure and sitting fatigue. Ideal for long hours of gaming or work, the Enki ensures a comfortable seating experience.
-
-**Brand:** [Razer](https://www.razer.com)
-
-![Razer Logo](https://assets.razerzone.com/razer-logo.png)
+Razer Enki offers 152-160° recline for relax mode, perfect for gaming breaks and napping at the desk.
 
 ## Features
 
-- **All-Day Comfort:** Engineered for prolonged use, the Enki offers a seating solution that caters to both gaming and work needs.
-- **Optimized Weight Distribution:** The chair is designed to distribute weight evenly, reducing pressure on key areas and ensuring comfort during long sessions.
-- **Durability:** Built with high-quality materials to withstand extensive use.
-- **Ergonomic Design:** Supports natural posture, reducing strain on the back and neck.
+- Recline: Up to 160°
+- Footrest: Included
+- Massage: Optional lumbar
+- Optimized weight distribution
+- High-quality leather
 
-## Category
+## Use Cases
 
-- **Chair Accessories**
+- Extended gaming or work with breaks
+- Desk-side relaxation
 
-## Image Gallery
+## Comparisons
 
-![Razer Enki Image 1](https://assets.razerzone.com/enki-image1.png)
-![Razer Enki Image 2](https://assets.razerzone.com/enki-image2.png)
+- Vs standard office: Far deeper recline
+- Vs Secretlab Titan: Similar premium leather, Razer ergonomics
 
-## Learn More
+## Pricing
 
-For more information, visit the [Razer Enki product page](https://www.razer.com/gaming-chairs/razer-enki).
+Competitive premium pricing.

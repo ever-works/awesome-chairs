@@ -1,32 +1,30 @@
 ## Overview
 
-The Concept Seating 3156HR is Concept Seating's largest and strongest option, a 24/7 heavy-duty bariatric chair with a massive 1,000 lb. weight capacity. Like the 3152HR, it is manufactured in Wisconsin and features the exclusive seven-leg base design.
+Bariatric endurance chair for max long-hours comfort in dev work.
 
 ## Key Specifications
 
-- **Weight Capacity:** 1,000 lbs.
-- **Seat Width:** 26" wide
-- **Seat Type:** Dymetrol suspension
-- **Starting Price:** ~$3,496.88
+- 1000 lbs capacity
+- 26" seat width
+- ~$3,497
 
 ## Features
 
-- 1,000 lbs weight capacity with bariatric grade build
-- 26" wide seat for maximum comfort
-- Bariatric tilt mechanism with adjustable seat angle and back angle
-- Seat depth and height adjustment with four-position depth
-- Fully articulating headrest usable as headrest, neck roll, or rotated away
-- Height adjustable T-arms with swing-away option
-- Five-year all components warranty
-- Made in Wisconsin
+- Bariatric tilt, 4-position seat depth
+- Suspension lumbar/airflow
+- Articulating headrest
+- Adjustable arms
 
-## Best For
+## Use Cases
 
-Bariatric users and large individuals needing maximum weight capacity in an ergonomic chair. Ideal for 24/7 environments with heavy-duty requirements.
+- Heavy-duty 12+ hr programming
+- Bariatric remote setups
+
+## Comparisons
+
+- Vs. Aeron: Vastly higher capacity
+- Vs. Titan Evo: Industrial subtlety
 
 ## Considerations
 
-- Pricey at $3,498+ (shipping cost is substantial at ~$250)
-- Very heavy and large chair that may not fit standard office spaces
-- Utilitarian appearance rather than stylish
-- Dymetrol suspension seat may feel firm
+Large size, high cost.
