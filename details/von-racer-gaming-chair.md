@@ -13,9 +13,9 @@ The Von Racer Gaming Chair is one of the most affordable pink gaming chairs avai
 
 ## Dimensions
 
-- Seat depth: 18.9"
-- Seat width: 18.1"
-- Height: 48.8" - 52"
+- Seat depth: 18.9\"
+- Seat width: 18.1\"
+- Height: 48.8\" - 52\"
 - Max weight capacity: 250 lbs
 
 ## Pricing

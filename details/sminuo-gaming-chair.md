@@ -6,7 +6,7 @@ The Sminuo Gaming Chair is a large, robustly-built gaming chair priced close to 
 
 - **Material**: Faux suede upholstery with aluminium frame
 - **Lumbar Support**: Cushion-style lumbar pillow (comfortable and good fit for chair shape)
-- **Armrests**: 2D adjustable armrests — 2" height adjustment and 30° rotation
+- **Armrests**: 2D adjustable armrests — 2\" height adjustment and 30° rotation
 - **Recline**: 90°–150° tilt with Class 3 gas lift
 - **Footrest**: Slide-out retractable footrest
 - **Build**: Extremely solid and robust construction

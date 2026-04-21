@@ -7,7 +7,7 @@ The chizzysit GC-5003-RB is a gaming chair built for kids, offering a smaller fr
 | Feature | Detail |
 |---------|--------|
 | Weight Capacity | Up to 350 lbs |
-| Chair Dimensions | 17" Depth, 20" Width, 44" Height |
+| Chair Dimensions | 17\" Depth, 20\" Width, 44\" Height |
 | Materials | PU Leather, High-Density Sponge |
 | Frame & Base | Metal Frame, 5-Star Nylon Base |
 | Backrest Reclinability | 90° to 150° |

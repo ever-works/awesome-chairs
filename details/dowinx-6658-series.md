@@ -7,7 +7,7 @@ The Dowinx 6658 Series is a gaming chair specifically designed for smaller or un
 | Feature | Detail |
 |---------|--------|
 | Weight Capacity | Up to 290 lbs |
-| Chair Dimensions | 25.2" Depth, 21.3" Width, 51.2" Height |
+| Chair Dimensions | 25.2\" Depth, 21.3\" Width, 51.2\" Height |
 | Materials | Breathable Cloth Fabric, Pocket Springs, Shaped Foam |
 | Frame & Base | Sturdy Metal Frame, Heavy-Duty Metal Base |
 | Backrest Reclinability | 90° to 135° |

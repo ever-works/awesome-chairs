@@ -15,7 +15,7 @@ The Ficmax Massage Gaming Chair is a budget gaming chair that combines a massage
 
 - Weight Capacity: Up to 300 lbs
 - Recline Range: 90° to 135°
-- Seat Height Range: 18" to 22"
+- Seat Height Range: 18\" to 22\"
 - Warranty: 1-year limited warranty
 
 ## Pricing
