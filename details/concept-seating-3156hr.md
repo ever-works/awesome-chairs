@@ -5,7 +5,7 @@ Bariatric endurance chair for max long-hours comfort in dev work.
 ## Key Specifications
 
 - 1000 lbs capacity
-- 26" seat width
+- 26\" seat width
 - ~$3,497
 
 ## Features
