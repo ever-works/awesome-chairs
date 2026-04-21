@@ -14,7 +14,7 @@ The Secretlab Titan features a unique magnetic memory foam pillow headrest rathe
 ## Expert Ratings
 
 - Consensus: **B-Tier**
-- Called \"the best part of this chair\" by reviewers
+- Called "the best part of this chair" by reviewers
 - Without the pillow, the chair's backrest tilt pushes the head uncomfortably forward
 
 ## Drawbacks
