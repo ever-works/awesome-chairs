@@ -6,12 +6,12 @@
 - Custom designs inspired by esports teams
 - Multiple sizes available
 
-## Comparisons
-
-Team-themed like Noblechairs esports editions, with superior cold-cure foam over standard Secretlab lines.
-
 ## Use Cases
 
 - Competitive esports tournaments
 - Extended gaming sessions
 - Professional training
+
+## Pricing
+
+Varies by edition; premium range.

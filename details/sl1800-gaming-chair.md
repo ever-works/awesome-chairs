@@ -1,29 +1,21 @@
 ## Overview
 
-The SL1800 Gaming Chair by Vertagear is crafted for gamers looking for a budget-friendly solution without compromising comfort and ergonomic support. It promises optimal comfort per dollar, making it a popular choice among gaming enthusiasts.
+2026 AI ContourMax and VertaAir cooling for superior long-hour vs 2025 basics.
 
 ## Features
 
-- **ContourMax™ Lumbar Support**: 
-  - Integrated with 4 TPEE adaptive modules and 64 responsive branches.
-  - Provides targeted support for the mid and lower back.
-  - Promotes natural alignment and tension relief.
-  - Adjusts to body movements for all-day comfort and healthy posture.
+- AI adaptive lumbar (64 branches)
+- VertaAir cooling seat
+- Ergonomic design, waterfall edge
 
-- **VertaAir™ Seat Technology**:
-  - Eight aerodynamic air pillars redistribute weight to alleviate pressure on sit bones.
-  - Features a 4-way airflow system for cooling and breathability.
-  - Ergonomic waterfall edge and widened seat for prolonged comfort.
+## Comparisons vs Prior Years
 
-- **Design and Build**:
-  - Ergonomically designed to mirror the natural spine curve.
-  - Promotes alignment and reduces tension during extended sitting periods.
-  - Available in multiple color variants to match personal style.
+Dynamic AI/cooling over static; budget premium.
 
 ## Pricing
 
-Not specified; check product page.
+Check site.
 
 ## Use Cases
 
-Budget gaming with premium ergonomics.
+Budget gaming endurance.

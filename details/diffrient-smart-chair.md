@@ -1,26 +1,22 @@
-## Diffrient Smart Chair
+## Overview
 
-![Diffrient Smart Chair](https://www.humanscale.com/images/diffrient-smart-chair-1.jpg)
+The Diffrient Smart Chair uses smart tech like weight-activated mechanisms and auto-balancing recline for seamless adaptation to user posture.
 
-### Overview
-The **Diffrient Smart Chair** is an ergonomic office chair designed to enhance user comfort by automatically adjusting to individual weight and posture. Its sleek and minimalist design complements modern workspaces while providing excellent functionality.
+## Smart Features
 
-### Features
-- **Automatic Adjustment**: The chair automatically adapts to the user's weight and posture to ensure optimal comfort and support.
-- **Minimalist Design**: A clean and contemporary aesthetic that fits seamlessly into any office environment.
-- **Ergonomic Support**: Engineered to promote healthy sitting posture and reduce strain during long hours of work.
+- Automatic adjustment based on body weight and movement
+- Self-balancing tilt without manual levers
+- Dynamic support mimicking natural spine motion
 
-### Brand Information
-- **Brand**: Humanscale
-- ![Humanscale Logo](https://www.humanscale.com/images/humanscale-logo.png)
-- **Category**: Ergonomic Office Chairs
-- **Tags**: Automatic Adjustment, Minimalist, Support
+## Use Cases
 
-### Additional Resources
-- [Learn more about the Diffrient Smart Chair](https://www.humanscale.com/products/diffrient-smart-chair)
+- Hands-free posture correction for coders during 8+ hour sessions
+- Office environments requiring minimal user intervention
 
-### Images
-- ![Diffrient Smart Chair - View 1](https://www.humanscale.com/images/diffrient-smart-chair-2.jpg)
+## Vs Manual Chairs
 
-### Note
-Pricing information is not available in the provided content.
+Eliminates frequent knob tweaks; adapts instantly vs static manual positions.
+
+## Pricing
+
+Contact Humanscale for pricing.

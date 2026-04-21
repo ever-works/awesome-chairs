@@ -1,10 +1,14 @@
 ## Features
 
-- Adjustable lumbar support pillow with massage
-- Extra strong PU leather resistant to spills
-- High-density seat padding
-- Multifunctional adjustable armrests
+- Adjustable massage lumbar pillow with vibration
+- Spill-resistant PU leather
+- High-density seat cushioning
+- 2D adjustable armrests (height, angle)
+
+## Use Cases
+
+- Extended gaming or work sessions needing back relief
 
 ## Pricing
 
-Affordable for extended sessions.
+Budget-friendly for massage features.

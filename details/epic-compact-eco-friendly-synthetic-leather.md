@@ -7,6 +7,7 @@ The EPIC Compact Eco-Friendly Synthetic Leather chair offers comfort and versati
 - Synchronous mechanism for maximum comfort
 - Head and lumbar pillow set included
 - Superior ergonomics suitable for gaming and office use
+- Eco-friendly vegan leather for sustainability
 
 ## Pricing
 

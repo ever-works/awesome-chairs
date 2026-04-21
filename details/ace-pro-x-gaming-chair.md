@@ -10,13 +10,13 @@
 - Multi-directional (4D) armrests
 - 180°+ recline capability
 - Vibrant RGB lighting
-- PU leather upholstery, steel frame
+- PU leather upholstery, steel frame, aluminum accents
 
 ## Use Cases
 
 - All-day sitting: esports pros, streamers in 12+ hour events
 - Gaming marathons or hybrid desk work
-- Customizable for different body types
+- Customizable for different body types, executive setups
 
 ## Comparisons to Budget Options
 
@@ -24,7 +24,7 @@ Outshines $200-400 budget chairs:
 - High-density foam vs cheap foam that compresses quickly
 - Full adjustability vs limited
 - RGB and footrest add immersion
-- Better weight capacity and warranty
+- Better weight capacity, warranty, premium materials like aluminum
 
 | Feature       | Ace Pro X     | Budget ($300) |
 |---------------|---------------|---------------|
@@ -32,6 +32,7 @@ Outshines $200-400 budget chairs:
 | Armrests      | 4D            | 2D            |
 | Extras        | RGB, Footrest | None          |
 | Recline       | 180°          | 135°          |
+| Materials     | PU leather, Al| PU only       |
 
 ## Pricing
 

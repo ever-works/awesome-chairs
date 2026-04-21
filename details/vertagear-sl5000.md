@@ -15,9 +15,7 @@ The SL5000 features an independently adjustable backrest, allowing you to adjust
 
 - Weight Capacity: Up to 330 lbs
 - Recline Range: 90° to 140°
-- Seat Dimensions: Spacious for various body types
 - Warranty: 2-year manufacturer warranty
-- RGB Kit: Available as separate upgrade
 
 ## Pricing
 

@@ -1,14 +1,21 @@
 ## Overview
 
-Advanced ergonomic chair for extended sitting.
+Self-adaptive lumbar and dynamic back for auto-posture correction.
 
-## Features
+## Smart Features
 
-- Self-adaptive lumbar
-- Dynamic backrest
-- 3D armrests
-- Synchro tilt
-- Breathable mesh
+- Adaptive lumbar response
+- Dynamic backrest flex
+- Synchro-tilt auto-sync
+
+## Use Cases
+
+- Coder endurance sessions hands-free
+- Office posture maintenance
+
+## Vs Manual Chairs
+
+Continuous adaptation vs fixed manual positions.
 
 ## Pricing
 

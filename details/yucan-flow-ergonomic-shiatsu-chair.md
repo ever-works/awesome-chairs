@@ -1,13 +1,24 @@
+## Overview
+
+Yucan Flow provides shiatsu-style massage with heat for lower back relief in prolonged sitting scenarios like gaming marathons.
+
 ## Features
 
-- OGAWA one-touch Shiatsu massage with adaptive spinal track
-- Cordless magnetic rechargeable battery
-- Italian Donati wire control mechanism
-- 3D armrests (vertical, depth, angle)
-- Optional ergonomic mesh headrest
-- 3D honeycomb 5-layer breathable backrest
-- BIFMA certified, Greenguard certified, iF Design and Red Dot awards
+- OGAWA shiatsu massage with adaptive spinal track and 3 modes
+- Cordless rechargeable battery
+- 3D adjustable armrests
+- Breathable 3D honeycomb mesh backrest
+- Italian Donati mechanism
+
+## Use Cases
+
+- Long-hour gaming or programming needing therapeutic recovery
+- Endurance setups for larger users
+
+## Specifications
+
+- Weight capacity: 300 lbs
 
 ## Pricing
 
-Value-packed above $450 with therapeutic features.
+~$450+ for premium recovery features.

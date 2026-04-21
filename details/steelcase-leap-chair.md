@@ -5,17 +5,17 @@ The Steelcase Leap Chair is a flagship ergonomic office chair designed to provid
 ### Features
 
 - **LiveBack® Technology**: The chair is equipped with LiveBack technology, which adapts and contours to the natural movement of your spine, ensuring continuous support.
-  
+
 - **Manual Adjustments**: Offers total control over backrest resistance, allowing you to fine-tune the level of support to your personal preference.
-  
+
 - **Lumbar Support**: Comes with height-adjustable lumbar support and a lower back firmness dial for added comfort.
-  
+
 - **Fully Adjustable Arms**: The chair features 4-dimensional armrests that can be customized in height, width, depth, and pivot.
-  
+
 - **Seat Ergonomics**: Includes flexible seat edges that adapt to different sitting styles and relieve pressure.
-  
+
 - **Recline Adjustments**: Features a full recline range with four recline angle stop settings and an upright back lock.
-  
+
 - **Adjustment Labels**: Adjustments are clearly labeled in both English and Braille for easy use.
 
 ### Additional Options

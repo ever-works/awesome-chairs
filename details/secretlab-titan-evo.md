@@ -10,11 +10,11 @@ Flagship 2026 gaming chair optimized for endurance sitting with adaptive ergonom
 - Cold-Cure Foam Mix for lasting plushness
 - Multi-tilt Mechanism and 165° recline
 - Swappable skins for personalization
-- Aluminum base, sizes S/Regular/XL
+- Aluminum base, sizes S/Regular/XL, premium leatherette
 
 ## Use Cases
 
-- All-day hybrid use: 10-14 hour gaming, streaming, or remote work shifts
+- All-day hybrid use: 10-14 hour gaming, streaming, or remote work shifts in executive setups
 - Programmers and content creators needing posture support
 - Competitive esports with minimal breaks
 

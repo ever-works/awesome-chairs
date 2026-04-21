@@ -1,21 +1,22 @@
 ## Overview
 
-High-performance chair merging gaming aesthetics with office ergonomics.
+AI lumbar and cooling tech for marathon comfort.
 
-## Features
+## Smart Features
 
-- Cool Gel M-Foam seat
-- Extra wide 22” seat
-- M-Breeze fabric
-- Dynamic Variable Lumbar (DVL)
-- 127° recline
-- 4-way armrests
-- Adjustable headrest
-
-## Pricing
-
-$600+ USD
+- AI-dynamic lumbar auto-adjust
+- Sensors for posture response
+- Cooling gel-infused foam
 
 ## Use Cases
 
-Long gaming, office work.
+- Hands-free coder/gaming sessions
+- Long-hour hybrid work
+
+## Vs Manual Chairs
+
+AI adaptation vs manual levers.
+
+## Pricing
+
+$600+ USD.

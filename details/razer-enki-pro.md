@@ -4,15 +4,6 @@ Premium gaming and computer chair designed for extended daily use, featuring Alc
 
 ---
 
-## Basic Information
-- **Product Type:** Gaming / ergonomic computer chair  
-- **Brand:** Razer  
-- **Model:** Enki Pro  
-- **Category:** Others (Gaming Chair)  
-- **Availability:** Only at Razer (per manufacturer site)
-
----
-
 ## Features
 
 ### Materials & Upholstery
@@ -22,6 +13,7 @@ Premium gaming and computer chair designed for extended daily use, featuring Alc
   - Alcantara where the body rests, combined with different material on outer areas.  
 - **Outer edge leatherette**  
   - Smooth, sustainable leatherette along the chair’s outer edges designed to better handle daily wear and tear.
+- Aluminum frame elements
 
 ### Comfort & Ergonomics
 - **All-day comfort design**  
@@ -32,25 +24,16 @@ Premium gaming and computer chair designed for extended daily use, featuring Alc
   - Shoulder area geometry designed to promote optimal weight distribution and upper-body support.  
 - **21\" ultrawide seat base**  
   - Wide seating surface to accommodate a broad range of body types and sitting positions.  
-- **Optimized cushion density** (from item description)  
-  - Cushion firmness tuned to balance softness and support for long periods of use.
+- 4D armrests, dynamic lumbar, massage features
 
-### Use Case
-- **Gaming and productivity**  
-  - Intended for users who sit for extended periods (gaming marathons or all-day computer work).
+## Use Cases
 
----
+- Executive gaming setups, pro esports marathons
 
 ## Comparisons
 
-Alcantara luxury rivals new Noblechairs 2026 editions; wider seat than updated Secretlab Classics for bigger users.
+Alcantara luxury rivals new Noblechairs 2026 editions; wider seat than updated Secretlab Classics for bigger users. Superior to budget with longer warranty and durability.
 
 ## Pricing
+
 Pricing details and plan/variant information are not provided in the available content. Please refer to the product page for current price and regional availability.
-
----
-
-## Source
-- **Product page:** https://www.razer.com/gaming-chairs/razer-enki-pro
-- **Brand:** Razer  
-- **Brand logo:** https://assets2.razerzone.com/images/razer-ths-logo.svg

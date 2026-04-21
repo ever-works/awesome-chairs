@@ -14,7 +14,7 @@ Secretlab Titan Evo 2026 edition features advanced ergonomics for all-day comfor
 
 ## Use Cases
 
-- All-day sitting for gamers, streamers, and programmers during marathon sessions
+- All-day sitting for gamers, streamers, and programmers during marathon sessions in executive setups
 - Hybrid work/gaming: comfortable for coding, streaming, or office tasks
 - Esports tournaments requiring sustained focus without fatigue
 

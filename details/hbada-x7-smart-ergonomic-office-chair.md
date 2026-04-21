@@ -1,5 +1,22 @@
-# HBADA X7 Smart Ergonomic Office Chair
+## Overview
 
-The HBADA X7 Smart Ergonomic Office Chair is designed for individuals who spend extended periods sitting, offering advanced ergonomic features to enhance comfort and support. Its smart design includes adjustable components to cater to various body types and preferences, making it ideal for both office and gaming setups.
+Automated lumbar with sensors for dynamic support.
 
-[https://www.alibaba.com/product-detail/Hbada-X7-with-Fully-Automated-Lumbar_1601458754032.html](https://www.alibaba.com/product-detail/Hbada-X7-with-Fully-Automated-Lumbar_1601458754032.html)
+## Smart Features
+
+- Fully auto lumbar adjust
+- Sensor-based posture tracking
+- Adaptive recline
+
+## Use Cases
+
+- Hands-free for long coding
+- Gaming endurance
+
+## Vs Manual Chairs
+
+Auto vs manual setup.
+
+## Pricing
+
+Contact HBADA.

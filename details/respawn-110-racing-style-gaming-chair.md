@@ -16,7 +16,6 @@ The RESPAWN 110 Pro is an affordable racing-style gaming chair designed for prol
 - Weight Capacity: Up to 275 lbs
 - Seat Height Range: 18.5\" to 22.4\"
 - Warranty: Limited warranty
-- Color Options: Multiple colorways available
 
 ## Pricing
 

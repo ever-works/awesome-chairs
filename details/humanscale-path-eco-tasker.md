@@ -5,7 +5,7 @@
 - **Adjustable Duron arms**: Height and width adjustable
 - **Polished aluminum frame**: Sleek and durable
 - **Eco-friendly upholstery**: FormSense Eco Knit (100% post-consumer recycled polyester)
-- **Sustainable construction**: Recycled content throughout
+- **Sustainable construction**: High recycled content
 
 ### Pricing
 Approximately $1,500–$1,800 depending on upholstery and frame configuration.

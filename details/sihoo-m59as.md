@@ -15,7 +15,7 @@ The Sihoo M59AS is designed for households that value practicality, smart design
 
 - Weight Capacity: Up to 275 lbs
 - Recline Range: 90° to 120°
-- Seat Height Range: 18" to 21.5"
+- Seat Height Range: 18\" to 21.5\" 
 - Warranty: 2-year manufacturer warranty
 
 ## Pricing

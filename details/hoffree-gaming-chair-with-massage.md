@@ -1,24 +1,26 @@
 ## Overview
 
-The HOFFREE Gaming Chair with Massage is designed for ultimate comfort during long gaming sessions. It combines ergonomic support with built-in massage functionality, immersive audio, and customizable ambient lighting.
+HOFFREE chair integrates massage for back relief during long gaming, enhancing recovery over basic gaming seats.
 
 ## Features
 
-- **Built-in Lumbar Massage**: Integrated massage function targeting lower back and lumbar areas
-- **Extendable Footrest**: Padded footrest for relaxation
-- **Bluetooth Speakers**: Built-in wireless speakers for immersive audio
-- **RGB LED Lights**: Customizable ambient lighting effects
-- **Ergonomic Design**: High back with lumbar support and adjustable headrest
-- **Padded Armrests**: Comfortable support for extended sessions
-- **Adjustable Components**: Adjustable armrests, seat height, and recline angle
-- **Sturdy Build**: Premium PU leather and metal frame construction
-- **Weight Capacity**: Supports up to 300 lbs
+- Built-in lumbar vibration massage
+- Bluetooth shoulder speakers
+- RGB LED ambient lighting
+- Extendable footrest
+- Padded 4D armrests
+- 155° recline
 
-## User Compatibility
+## Use Cases
 
-- Supports users up to 6'4" in height
-- Recommended continuous use of 6-8 hours per day
+- Streamers and gamers in 6-8 hour sessions
+- Immersive setups with audio and lights
+
+## Specifications
+
+- Weight capacity: 300 lbs
+- Height compatibility: up to 6'4"
 
 ## Pricing
 
-Pricing information available on the official website.
+Check official site.
