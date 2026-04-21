@@ -1,27 +1,23 @@
 ## Overview
 
-Raynor Ergohuman Mesh with Headrest delivers premium adjustability for endurance seating in programming and remote work.
+Full mesh with headrest for breathable endurance seating.
 
 ## Features
 
-- Height-adjustable backrest up to 30.5"
+- Independent flex lumbar for posture
 - Pivoting padded mesh headrest
-- Independent flexing lumbar support
-- Seat slider for depth adjustment
-- Tilt lock and tension control
+- Seat slider, tilt lock/tension
 - Adjustable arms
-
-## Use Cases
-
-- Extended software development sessions
-- Remote work marathons over 12 hours
-- High-focus desk professions
-
-## Comparisons
-
-- Vs. Aeron: More affordable, added headrest
-- Vs. Titan Evo: Professional subtlety over gaming aesthetics
+- Height-adjustable backrest
 
 ## Pricing
 
-Starting at $865.
+~$865
+
+## Use Cases
+
+- 12+ hour remote programming
+
+## Comparisons
+
+- Professional vs flashy gaming; affordable with headrest vs Aeron

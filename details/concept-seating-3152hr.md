@@ -1,32 +1,25 @@
 ## Overview
 
-Concept Seating 3152HR provides extreme endurance for programmers with dynamic support and airflow.
-
-## Key Specifications
-
-- 550 lbs capacity
-- 23\" seat width
-- ~$2,159
+Concept Seating 3152HR is a 24-hour rated heavy-duty chair optimized for programmers and endurance use, emphasizing posture support, adjustability, and breathability for long hours.
 
 ## Features
 
-- Dynamic inflatable lumbar
-- 5-position tilt lock, seat slider
-- Dymetrol suspension for airflow
-- Fully articulating headrest
-- Height/width/depth adjustable arms
-- 7-leg base
+- Dynamic inflatable lumbar for posture correction and support
+- Breathable Dymetrol suspension seat for airflow
+- 5-position tilt lock, synchro-tilt mechanism, seat slider
+- Fully articulating headrest, height/width/depth adjustable arms
+- 550lb capacity, 7-leg aluminum base for stability
+
+## Pricing
+
+~$2,159
 
 ## Use Cases
 
-- Coding marathons, remote dev 12+ hrs
-- Shift work, control rooms
+- Programming marathons over 12 hours
+- Remote development and shift work
 
 ## Comparisons
 
-- Vs. Aeron: Higher capacity, cheaper per lb
-- Vs. Titan Evo: Subtler, heavier-duty
-
-## Considerations
-
-Firm seat.
+- Less flashy and more office-appropriate than gaming chairs like Titan Evo or DXRacer
+- Superior capacity and stability to Aeron for heavy users

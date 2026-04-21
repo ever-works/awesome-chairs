@@ -41,6 +41,10 @@ Premium gaming and computer chair designed for extended daily use, featuring Alc
 
 ---
 
+## Comparisons
+
+Alcantara luxury rivals new Noblechairs 2026 editions; wider seat than updated Secretlab Classics for bigger users.
+
 ## Pricing
 Pricing details and plan/variant information are not provided in the available content. Please refer to the product page for current price and regional availability.
 

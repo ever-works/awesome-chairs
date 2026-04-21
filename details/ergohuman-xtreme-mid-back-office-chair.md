@@ -1,25 +1,22 @@
 ## Overview
 
-Ergohuman Xtreme Mid-Back supports endurance coding with ergonomic adjustments.
+Xtreme Mid-Back for endurance coding with focus on posture, breathability, adjustability.
 
 ## Features
 
-- Adjustable lumbar
-- Tilt tension control, auto-recline
-- Breathable mesh
-- Integrated adjustments
+- Adjustable lumbar for posture
+- Breathable mesh back
+- Tilt tension, auto-recline
 - Multi-adjust arms
-
-## Use Cases
-
-- Programming 12+ hrs
-- Remote dev tasks
-
-## Comparisons
-
-- Vs. Aeron: Budget-friendly
-- Vs. Titan Evo: Professional look
 
 ## Pricing
 
-Mid-range.
+Mid-range
+
+## Use Cases
+
+- 12+ hr programming
+
+## Comparisons
+
+- Office-appropriate vs gaming; cheaper than Aeron

@@ -9,6 +9,10 @@ The AndaSeat Kaiser 3 is a high-quality, racing-style gaming chair crafted for g
 - **Well-Cushioned Seat**: The generously padded seat promotes comfort, even during extended use.
 - **Long Backrest**: Offers full back support, reducing fatigue during prolonged gaming sessions.
 
+## Comparisons
+
+Offers wider seat and magnetic pillows similar to new Secretlab Classics 2026 models; more affordable than Noblechairs HERO series with comparable 4D arms.
+
 ## Pricing
 
 Competitive premium pricing for high-end features.

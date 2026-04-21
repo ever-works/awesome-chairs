@@ -10,15 +10,14 @@ GTRacing Rush Series provides 160°+ recline with footrest and massage for ultim
 - Adjustable armrests
 - High backrest
 
+## Comparisons
+
+Deep recline matches new Secretlab 2026 updates; massage feature edges out Noblechairs standard lines for recovery.
+
 ## Use Cases
 
 - Gaming with recovery naps
 - Prolonged desk work
-
-## Comparisons
-
-- Vs standard office: Deeper, more versatile recline
-- Vs Secretlab Titan: Similar premium construction
 
 ## Pricing
 

@@ -11,15 +11,14 @@ Thermaltake gaming chairs offer 160°+ recline with footrest and massage for rel
 - Real leather options
 - Aluminum base
 
+## Comparisons
+
+Real leather rivals new Secretlab NEO Hybrid 2026; 4D arms competitive with Noblechairs HERO for esports.
+
 ## Use Cases
 
 - PC gaming recovery
 - All-day desk use
-
-## Comparisons
-
-- Vs standard office: Deeper recline
-- Vs Secretlab Titan: Similar premium leather
 
 ## Pricing
 

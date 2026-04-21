@@ -1,30 +1,25 @@
 ## Overview
 
-Bariatric endurance chair for max long-hours comfort in dev work.
-
-## Key Specifications
-
-- 1000 lbs capacity
-- 26\" seat width
-- ~$3,497
+Concept Seating 3156HR bariatric chair for extreme endurance, focusing on posture, adjustability, and breathability.
 
 ## Features
 
-- Bariatric tilt, 4-position seat depth
-- Suspension lumbar/airflow
-- Articulating headrest
-- Adjustable arms
+- Suspension lumbar for dynamic posture support
+- Breathable Dymetrol seat for airflow
+- Bariatric tilt, 4-position seat depth adjustment
+- Articulating headrest, adjustable arms
+- 1000lb capacity
+
+## Pricing
+
+~$3,497
 
 ## Use Cases
 
-- Heavy-duty 12+ hr programming
-- Bariatric remote setups
+- Heavy-duty programming sessions
+- Bariatric remote work setups
 
 ## Comparisons
 
-- Vs. Aeron: Vastly higher capacity
-- Vs. Titan Evo: Industrial subtlety
-
-## Considerations
-
-Large size, high cost.
+- More professional than flashy gaming chairs
+- Vastly higher capacity than standard ergonomics like Aeron
