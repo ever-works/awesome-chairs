@@ -1,15 +1,15 @@
 ## Features
 
-- Pellicle mesh for breathable support and airflow
-- PostureFit sacral support for proper alignment
-- Tilt limiter and adjustable recline
-- Fully adjustable arms and height
-- Available in sizes A (small), B (medium), C (large)
+- Pellicle mesh suspension for breathability and even support distribution
+- PostureFit SL for lumbar and sacral support
+- CAR (Centered Action Recline) tilt mechanism for natural posture
+- Adjustable arms, seat height, and tilt tension
+- Three sizes: A (95th percentile women/5th percentile men), B (most users), C (95th percentile men)
 
 ## Warranty
 
-12-year warranty
+12 years
 
 ## Pricing
 
-Premium pricing, starting around $1,400 depending on size and configuration.
+Starts at approximately $1,400 USD, varying by size and options.

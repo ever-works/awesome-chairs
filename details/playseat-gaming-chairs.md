@@ -1,5 +1,9 @@
-# Playseat Gaming Chairs
+## Overview
 
-Playseat specializes in racing and flight simulation seating as well as gaming chairs, offering ergonomic cockpits and chairs for users who spend long hours in front of computer and console setups.
+Playseat offers dedicated racing simulation cockpits and gaming seats optimized for sim racing enthusiasts.
 
-[https://www.playseatstore.com](https://www.playseatstore.com)
+## Features
+
+- Foldable designs
+- Wheel/pedal mounts
+- Authentic racing posture

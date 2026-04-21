@@ -1,6 +1,6 @@
 ## Overview
 
-The GTPlayer GT800A Footrest is a budget-friendly gaming chair featuring a unique pivoting seat mechanism that adjusts with the backrest. It provides satisfactory comfort for moderate gaming sessions and casual use.
+The GTPlayer GT800A is an entry-level gaming chair with PU leather, footrest, and basic adjustments for casual use.
 
 ## Features
 

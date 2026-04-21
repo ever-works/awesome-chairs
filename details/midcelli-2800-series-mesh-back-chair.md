@@ -39,17 +39,17 @@ The Midcelli 2800 is an ergonomic mesh-back office/task chair designed for exten
 
 - **SKU:** 2800  
 - **Overall Dimensions:** 31\" × 28\" × 47\"  
-- **Backrest Height:** 25.125\"  
-- **Backrest Height Adjustment:** 2.75\"  
+- **Backrest Height:** 25.125\"
+- **Backrest Height Adjustment:** 2.75\"
 - **Backrest Angle Adjustment:** 12°  
-- **Backrest Lumbar Region Width:** 18.25\"  
-- **Backrest Shoulder Region Width:** 18.3125\"  
-- **Lumbar Height Adjustment:** 0.00\"  
+- **Backrest Lumbar Region Width:** 18.25\"
+- **Backrest Shoulder Region Width:** 18.3125\"
+- **Lumbar Height Adjustment:** 0.00\"
 - **Seat Depth Options:** 17.50\", 19.00\", 19.50\"  
 - **Seat Depth Adjustment:** 2.50\"  
 - **Seat Height Adjustment (travel):** 3.50\", 4.00\", 4.50\" (varies by cylinder)  
 - **Seat Height Ranges (varies by configuration):**
-  - 17.00\" – 20.50\"
+  - 17.00\" – 20.50"
   - 18.50\" – 21.875\"
   - 18.75\" – 21.875\"  
 - **Cylinder:** Standard Height Cylinder, Black Finish (Y16)  
