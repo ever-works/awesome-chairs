@@ -1,5 +1,15 @@
-# AKRacing Core EX
+## Overview
 
-High-end 2026 AKRacing Core EX for premium esports and gaming, incorporating 4D arms, RGB elements, and massage lumbar for pro gamers and streamers. Surpassing DXRacer with enhanced reclining capabilities up to 180°, it supports intense tournament play and long streaming shifts. Luxury fabric or PU options provide breathable, durable comfort.
+AKRacing Core EX is a premium gaming chair with enhanced features for esports and long sessions.
 
-[https://www.bestbuy.com/site/reviews/akracing-core-series-ex-gaming-chair-black-blue/6215594?page=5](https://www.bestbuy.com/site/reviews/akracing-core-series-ex-gaming-chair-black-blue/6215594?page=5)
+## Features
+
+- 4D adjustable armrests
+- Up to 180° recline
+- PU leather or fabric upholstery
+- Integrated lumbar support
+- High-density foam padding
+
+## Pricing
+
+Mid-to-premium range, value-packed.

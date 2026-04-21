@@ -1,16 +1,14 @@
 ## Overview
 
-The **Homall Gaming Chair** is designed with both gamers and budget-conscious users in mind, combining racing-style aesthetics with essential ergonomic features at an affordable price point whether gaming or working from a secondary desk setup.
+The Homall Gaming Chair combines racing-style aesthetics with essential comfort features at a budget price, suitable for gamers and desk workers.
 
 ## Features
 
-- **Racing-Style Design**: Classic gaming aesthetic
-- **High-Density Foam Cushioning**: Firm support for extended sitting
-- **Removable Lumbar & Neck Pillows**: Adjustable cushion support
-- **Adjustable Seat Height**: Pneumatic gas lift customization
-- **Armrests**: Height-adjustable padded arms
-- **160° Recline**: Expansive backrest recline
-- **PU Leather Upholstery**: Durable, easy-to-clean surface
+- Racing-style design with PU leather
+- High-density foam padding for seat and backrest
+- Basic removable lumbar and neck pillows
+- 160° reclining backrest
+- Adjustable height and padded armrests
 
 ## Pricing
 

@@ -1,29 +1,14 @@
-### GTRACING Gaming Chair
+## Overview
 
-![GTRACING Gaming Chair](https://gtracing.com/images/gaming-chair-1.jpg)
+The GTRACING Gaming Chair provides ergonomic comfort for extended gaming or work sessions at an affordable price.
 
-#### Overview
-The **GTRACING Gaming Chair** is tailored for gamers and professionals who require extended periods of sitting comfort. With its ergonomic design, this chair ensures optimal support and comfort, making it an ideal choice for both gaming setups and office environments.
+## Features
 
-#### Features
-- **Ergonomic Design**: Crafted to provide maximum comfort with features such as adjustable armrests and a high backrest.
-- **Lumbar Support**: Includes lumbar support to alleviate back strain during prolonged use.
-- **High-Quality Materials**: Constructed with durable materials ensuring longevity and a premium feel.
-- **Sleek Aesthetic**: Modern design that complements any gaming or office setting.
+- Ergonomic design with lumbar support
+- Adjustable armrests and high backrest
+- Reclining function and padded seating
+- High-quality PU leather upholstery
 
-#### Brand
-- **Brand Name**: GTRACING
-- **Logo**: ![GTRACING Logo](https://gtracing.com/logo.png)
+## Pricing
 
-#### Category
-- **Type**: Chair Accessories
-
-#### Pricing
-- **Current Offers**: While specific pricing for this model isn't provided, GTRACING's website often features discounts and sales events like the Christmas Sale offering up to 60% off.
-
-#### Source
-- **Website**: [Visit GTRACING](https://gtracing.com/)
-
----
-
-For more details and options, visit the [official GTRACING website](https://gtracing.com/).
+Often features discounts up to 60% off during sales.
