@@ -1,19 +1,26 @@
 ## Overview
 
-2026 GT905 RGB gaming chair for budget immersive sessions.
+2026 GT905 delivers immersive RGB gaming chair experience at budget pricing for endurance use.
 
-## Features
+## Key Features
 
-- RGB lighting
-- Adjustable ergonomics
-- Reclining backrest
-- Padded lumbar/neck
-- 360° swivel
+- RGB base lighting for setup ambiance
+- 180° reclining backrest
+- Adjustable lumbar and neck pillows
+- 300 lbs weight capacity
+- 360° swivel with smooth casters
+
+## Use Cases
+
+- Streaming marathons: RGB enhances viewer appeal
+- Esports entry: Affordable pro-style support
+- Daily gaming: Recline for breaks
 
 ## Comparisons
 
-Vs Razer Iskur: Affordable RGB racing style with comparable recline, lacks advanced lumbar.
+- Vs Secretlab Omega: Added RGB at half the price, similar capacity
+- Vs Noblechairs Legend: Budget alternative with matching recline but lighter frame
 
 ## Pricing
 
-Budget pricing on official site.
+$150-250 on official site.

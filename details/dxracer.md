@@ -1,20 +1,26 @@
 ## Overview
 
-DXRacer pioneered gaming chairs in 2006 with the Formula Series.
+DXRacer pioneered gaming chairs in 2006 with racing-inspired designs optimized for long-hour gaming endurance.
 
-## Features
+## Key Features
 
-- Robust steel frames
-- PU leather upholstery
-- High-back design
-- Lumbar support
-- 135-degree recline
-- Wide seat options
+- 135° reclining backrest for rest breaks
+- High-density foam padding for fatigue reduction
+- Swiveling lumbar support pillow
+- Steel frame supporting up to 275 lbs
+- PU leather for easy maintenance
 
-## Product Range
+## Use Cases
 
-Multiple series: Formula, Blade, Craft, Master, Air, etc.
+- Esports tournaments: Stable posture for precision play
+- Streaming: All-day comfort without adjustments
+- Racing sims: Immersive bucket-seat feel
+
+## Comparisons
+
+- Vs Secretlab Titan: Similar 4D armrests but wider seat options and lower cost
+- Vs Noblechairs Hero: More aggressive racing aesthetics with better recline for lounging
 
 ## Pricing
 
-Mid-to-premium range, varies by model.
+Mid-range $300-600, varying by series like Tank or Drifting.
