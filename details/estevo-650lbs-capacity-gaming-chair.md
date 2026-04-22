@@ -7,7 +7,7 @@ The Estevo 650lbs Capacity gaming chair is built like a tank to handle serious w
 | Feature | Details |
 |---------|--------|
 | Weight Capacity | 650 lbs |
-| Height Recommendation | 5'8" — 6'10" |
+| Height Recommendation | 5'8\" — 6'10\" |
 | Seat Width | 24 inches |
 | Recline Range | 90° — 155° |
 | Material | Reinforced PU Leather |
