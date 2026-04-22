@@ -12,20 +12,6 @@ The **AndaSeat Phantom 3 Gaming Chair** is designed for those seeking a blend of
 - **Premium Materials**: Crafted with durable materials that ensure longevity and a sleek appearance.
 - **Stylish Aesthetics**: Modern design that complements any gaming or office environment.
 
-### **Category**
-
-- **Gaming Chairs**
-
-### **Brand**
-
-- ![AndaSeat Logo](https://www.andaseat.com/logo.png) [AndaSeat](https://www.andaseat.com)
-
-### **Tags**
-
-- **Premium**
-- **Stylish**
-- **Functional**
-
 ### **Source**
 
 For more information, visit the [AndaSeat Blog](https://www.andaseat.com/blogs/news/the-best-budget-gaming-chair).

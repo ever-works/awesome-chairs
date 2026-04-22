@@ -17,10 +17,6 @@ The **AndaSeat Ninjas in Pyjamas Gaming Chair** is a premium gaming chair design
 - **Brand**: AndaSeat
 - ![AndaSeat Logo](https://www.andaseat.com/logo.png)
 
-## Category
-- **Type**: Gaming Chair
-- **Tags**: Ergonomic, Adjustable, Collaboration
-
 ## Pricing
 - Specific pricing details for the AndaSeat Ninjas in Pyjamas Gaming Chair are not available in the provided content.
 
