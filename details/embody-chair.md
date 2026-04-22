@@ -25,7 +25,7 @@ The Embody Chair is an ergonomic work chair designed for people who sit for exte
   - Thoracic (upper back) support
 
 - **Adjustable seat depth**
-  - Range: 15"–18"
+  - Range: 15\"–18\"
   - Helps accommodate different leg lengths
 
 - **Recline and tilt control**
