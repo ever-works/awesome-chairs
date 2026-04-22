@@ -1,29 +1,32 @@
 ## Overview
 
-The Sminuo Gaming Chair is a large, robustly-built gaming chair priced close to £200. Its generous sizing and heavy-duty construction make it suitable for gamers of all ages and sizes. It features a wingback design with a subtle sports contour and faux suede upholstery — an alternative for those who dislike PVC or leather.
+Heavy-duty faux suede gaming chair with high capacity and adjustability under $300, rivaling premium racing styles for extended use.
 
-## Features
+## Key Features vs Price
 
-- **Material**: Faux suede upholstery with aluminium frame
-- **Lumbar Support**: Cushion-style lumbar pillow (comfortable and good fit for chair shape)
-- **Armrests**: 2D adjustable armrests — 2\" height adjustment and 30° rotation
-- **Recline**: 90°–150° tilt with Class 3 gas lift
-- **Footrest**: Slide-out retractable footrest
-- **Build**: Extremely solid and robust construction
+- **Faux Suede Upholstery** (softer alternative to PU, premium feel)
+- **440 lb Capacity** (big/tall ready, rare under $400)
+- **2D Adjustable Armrests** (height/rotation, better than fixed budget arms)
+- **Retractable Footrest** & **150° Recline** (full relaxation setup)
+- **Aluminum Frame** (robust, no flex over time)
+
+## Long-Hour Comfort
+
+Generous sizing and lumbar pillow support 8+ hour days; suede breathes better than leather for marathon sessions.
+
+## Comparisons to Premium
+
+Noblechairs (~$600): Similar style/durability but Sminuo halves cost with comparable capacity. Outperforms standard office chairs in gaming ergonomics.
 
 ## Specifications
 
 | Specification | Detail |
-|---|---|
-| Weight | 22 kg |
-| Maximum Load | 200 kg |
-| Seat Height | 43–52 cm |
+|---------------|--------|
+| Weight Capacity | 440 lbs |
+| Recline | 90°-150° |
 | Seat Width | 40 cm |
-| Seat Depth | 59 cm |
 | Backrest Height | 83 cm |
-| Backrest Width | 56 cm |
-| Casters | Smooth-rolling |
 
 ## Pricing
 
-Approximately $149.99 (£149.99). The chair offers premium-like features at this price point, though users with lower back issues may want built-in lumbar support rather than a cushion.
+Approximately $149.99-$299.

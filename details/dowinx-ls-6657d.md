@@ -1,20 +1,28 @@
 ## Overview
 
-Breathable fabric gaming chair with massage lumbar, footrest, high capacity, ideal for larger users.
+Breathable fabric gaming chair delivering long-hour comfort with massage lumbar and footrest at budget pricing, comparable to premium models for larger users.
 
-## Features
+## Key Features vs Price
 
-- **Breathable Fabric**: Superior airflow
-- **Massage Lumbar Support**: USB-powered
-- **Retractable Footrest**: For relaxation
-- **Ergonomic Design**: Full support
-- **Recline**: Up to 160°
+- **Breathable Fabric Upholstery** ($ value: better airflow than $800+ leather chairs)
+- **USB-Powered Massage Lumbar** (rare in under-$500 chairs)
+- **Retractable Footrest** (full recline relaxation setup)
+- **High Weight Capacity** (420 lbs, matches big/tall premium tier)
+- **Recline up to 160°** with ergonomic full-body support
+
+## Long-Hour Comfort
+
+Fabric design excels in extended sessions (8+ hours), reducing sweat vs PU leather competitors. Solid build supports all-day gaming/work without sagging.
+
+## Comparisons to Premium
+
+Secretlab Titan Evo (~$550+): Similar recline/capacity but no massage/breathable fabric at this price point. Dowinx offers more features for big users under $500.
 
 ## Specifications
 
 - Weight Capacity: 420 lbs
-- Recline Range: 90° to 160°
+- Recline: 90°-160°
 
 ## Pricing
 
-Under $500.
+Typically $300-$450.

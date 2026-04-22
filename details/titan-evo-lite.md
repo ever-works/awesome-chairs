@@ -12,14 +12,6 @@ The **TITAN Evo Lite** is a high-quality ergonomic office chair designed by Secr
 - **High-Quality Materials**: Made with durable materials ensuring long-lasting use.
 - **Adjustable Components**: Customizable settings for maximum comfort.
 
-### Category
-- **Ergonomic Office Chairs**
-
-### Tags
-- Affordable
-- Ergonomic
-- Quality
-
 ### Pricing
 - **Direct Pricing**: Purchase directly to save up to 25% by eliminating middlemen costs.
 - **Flexible Payment Plan**: 

@@ -15,7 +15,7 @@ The Duramont Ergonomic Office Chair is a budget-friendly ergonomic chair that of
 
 - Good balance of mesh and foam that is firm but comfortable
 - Notable for its adjustable lumbar support with 0.5 inches of depth adjustment range
-- Suitable for users up to 6'6" tall; the headrest works well for this height range
+- Suitable for users up to 6'6\" tall; the headrest works well for this height range
 
 ## Limitations
 

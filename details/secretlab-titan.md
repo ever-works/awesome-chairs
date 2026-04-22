@@ -1,38 +1,31 @@
 ## Overview
 
-Secretlab Titan Evo 2026 edition features advanced ergonomics for all-day comfort in gaming and work setups.
+Secretlab Titan Evo 2026 edition for advanced ergonomics in gaming/work.
 
 ## Features
 
-- Cold-cure foam seatbase for shape retention over 12+ hours
-- 4D full-metal armrests with swappable tops
-- Patented L-ADAPT lumbar system auto-adjusts to movements
-- Magnetic memory foam head pillow
-- 165° recline with multi-tilt mechanism
-- Swappable skins and aluminum base for durability
-- Supports up to 285 lbs
+- Cold-cure foam for 12+ hour shape retention
+- 4D full-metal armrests
+- Patented L-ADAPT lumbar
+- Magnetic memory foam pillow
+- 165° recline multi-tilt
+- Swappable skins, aluminum base
+- 285 lbs support
 
 ## Use Cases
 
-- All-day sitting for gamers, streamers, and programmers during marathon sessions in executive setups
-- Hybrid work/gaming: comfortable for coding, streaming, or office tasks
-- Esports tournaments requiring sustained focus without fatigue
+- Esports, streaming, programming marathons
 
-## Comparisons to Budget Options
+## Comparisons
 
-Compared to budget gaming chairs under $300 (e.g., basic racing styles):
-- Superior cold-cure foam vs flattening PU foam
-- Dynamic lumbar prevents back pain vs static pillows
-- 5-year warranty vs 1-2 years
-- Higher build quality reduces creaks and wear
+Vs Razer Iskur: Better foam retention, adaptive lumbar, 5-year warranty vs Iskur's 3-year.
 
-| Feature | Secretlab Titan | Budget ($200-300) |
-|---------|-----------------|-------------------|
-| Foam    | Cold-cure       | Standard PU       |
-| Lumbar  | 4-way adaptive  | Adjustable pillow |
-| Recline | 165° multi-tilt | 180° basic        |
-| Warranty| 5 years         | 1-2 years         |
+| Feature | Secretlab Titan | Razer Iskur |
+|---------|-----------------|-------------|
+| Foam    | Cold-cure      | Molded     |
+| Lumbar  | L-ADAPT        | 4D         |
+| Warranty| 5 years        | 3 years    |
 
 ## Pricing
 
-Starts at $549 for standard, up to $699+ for special editions. Premium pricing reflects materials and 5-year warranty.
+$549+.

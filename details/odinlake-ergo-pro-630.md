@@ -15,7 +15,7 @@ The Odinlake Ergo Pro 630 is a budget-friendly ergonomic chair under $300 that o
 
 - Weight Capacity: Up to 300 lbs
 - Recline Range: 90° to 125°
-- Seat Height Range: 18" to 21.5"
+- Seat Height Range: 18\" to 21.5\"
 - Warranty: 2-year manufacturer warranty
 - Certifications: BIFMA compliant
 

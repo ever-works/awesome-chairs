@@ -1,22 +1,28 @@
 ## Overview
 
-The GTPlayer GT800A is an entry-level gaming chair with PU leather, footrest, and basic adjustments for casual use.
+Entry-level PU leather gaming chair with footrest and basic adjustments, emphasizing value for casual extended use under $150.
 
-## Features
+## Key Features vs Price
 
-- **Pivoting Seat Design**: Seat adjusts in sync with the backrest during recline
-- **Integrated Footrest**: Hidden pull-out footrest for relaxation
-- **PU Leather Upholstery**: Durable, easy-to-clean surface
-- **Fixed Armrests**: Thickly padded, non-adjustable arms
-- **Reclining Function**: 90° to 145° range with tilt lock
-- **Height Adjustment**: Standard pneumatic gas lift
+- **Retractable Footrest** (premium-like relaxation in budget tier)
+- **Pivoting Seat** (syncs with recline, uncommon under $200)
+- **145° Recline** (with tilt lock for versatile positioning)
+- **PU Leather** (durable, easy-clean surface)
+- **Padded Fixed Armrests** (comfortable for short-medium sessions)
+
+## Long-Hour Comfort
+
+Good for up to 6 hours with footrest aiding breaks; PU holds up but benefits from airflow in warm environments.
+
+## Comparisons to Premium
+
+Homall (~$120) or BestOffice: Similar but GTPlayer adds pivoting seat. Vs Secretlab (~$500+): Lacks adjustability but 70% less cost for core gaming needs.
 
 ## Specifications
 
-- Weight Capacity: Up to 280 lbs
-- Recline Range: 90° to 145°
-- Recommended Use: Up to 5 hours per session
+- Weight Capacity: 280 lbs
+- Recline: 90°-145°
 
 ## Pricing
 
-Starting at approximately $129.99
+Starting at $129.99.

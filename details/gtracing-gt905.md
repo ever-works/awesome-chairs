@@ -1,14 +1,19 @@
 ## Overview
 
-The GTRacing GT905 is an RGB-enhanced gaming chair designed for comfort during long sessions at a budget price.
+2026 GT905 RGB gaming chair for budget immersive sessions.
 
 ## Features
 
-- Ergonomic design with adjustable components
-- RGB lighting integration
-- Reclining backrest and padded support
-- 360-degree swivel base
+- RGB lighting
+- Adjustable ergonomics
+- Reclining backrest
+- Padded lumbar/neck
+- 360° swivel
+
+## Comparisons
+
+Vs Razer Iskur: Affordable RGB racing style with comparable recline, lacks advanced lumbar.
 
 ## Pricing
 
-Check official site for current pricing and promotions.
+Budget pricing on official site.

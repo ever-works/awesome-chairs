@@ -1,23 +1,18 @@
 ## Overview
 
-The GTRACING Ace Pro X is an advanced gaming chair from GTRACING's premium Ace series, featuring enhanced ergonomic support and quality construction designed for serious gamers seeking professional-grade seating.
+2026 Ace Pro X for professional gaming endurance.
 
 ## Features
 
-- **Ace Series Design**: Premium tier from GTRACING
-- **Enhanced Ergonomics**: Advanced support system
-- **High-Quality Materials**: Premium upholstery and padding
-- **Adjustable Components**: Comprehensive customization
-- **Sturdy Construction**: Heavy-duty frame and base
-- **Professional Grade**: Built for competitive gaming
+- Enhanced ergonomics
+- 330 lbs capacity
+- 90-165° recline
+- Premium materials
 
-## Specifications
+## Comparisons
 
-- Weight Capacity: Up to 330 lbs
-- Recline Range: 90° to 165°
-- Seat Dimensions: Spacious for extended sessions
-- Warranty: 2-year manufacturer warranty
+Vs Razer Iskur: Similar pro features at better value.
 
 ## Pricing
 
-Starting at $249.99
+$249.99+.
