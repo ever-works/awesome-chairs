@@ -9,8 +9,8 @@
 
 ## Use Cases
 
-- Long office hours for executives
-- Gaming or work for big & tall users
+- Long office hours for large executives
+- Gaming or work for big & tall users long hours
 
 ## Pricing
 

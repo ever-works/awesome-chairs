@@ -8,8 +8,8 @@
 
 ## Use Cases
 
-- Extended gaming or coding marathons
-- Office use for big & tall professionals
+- Extended gaming or coding marathons for large users
+- Office use for big & tall professionals long hours
 
 ## Pricing
 

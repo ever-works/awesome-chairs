@@ -1,6 +1,6 @@
 ## Features
 
-- 350-400lb capacity with heavy-duty build
+- 400lb capacity with heavy-duty build
 - Extra-wide seat and tall backrest
 - Reinforced metal frame
 - USB massage lumbar cushion
@@ -9,7 +9,7 @@
 
 ## Use Cases
 
-- Prolonged gaming for larger users
+- Prolonged gaming for large users long hours
 - Office setups needing wide support
 
 ## Pricing

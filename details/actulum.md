@@ -2,6 +2,8 @@
 
 The Actulum is one of the best and most versatile ergonomic kneeling chairs available. It is designed to provide proper posture support and comfortable seating for extended periods at a desk, promoting active sitting and forward-tilt positioning.
 
+![Ergo Chair](https://placeholder.com/ergonomic-chair.jpg)
+
 ## Features
 
 - Ergonomic kneeling chair design promoting proper spinal alignment

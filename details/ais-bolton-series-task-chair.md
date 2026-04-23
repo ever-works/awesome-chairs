@@ -2,6 +2,8 @@
 
 The AIS Bolton Series Task Chair provides adjustable seat depth, arms, and seat height that ergonomically support users of smaller stature, delivering the key adjustments short people need for all-day office comfort.
 
+![Ergo Chair](https://placeholder.com/ergonomic-chair.jpg)
+
 ## Features
 - Adjustable seat depth for proper positioning across body types
 - Height-adjustable arms to prevent shoulder elevation

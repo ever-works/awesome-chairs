@@ -6,7 +6,7 @@
 
 An ergonomic, electrostatic discharge (ESD)–safe version of Herman Miller’s Aeron chair, designed for computer, lab, and technical work environments that require ESD protection while supporting long-duration sitting.
 
-![Aeron ESD Chair](https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/aeron_esd_chairs/mm_aeron_esd_chairs_hero.jpg)
+![Ergo Chair](https://placeholder.com/ergonomic-chair.jpg)
 
 ---
 
