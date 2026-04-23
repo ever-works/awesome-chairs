@@ -15,17 +15,6 @@ The **Mirra 2 Chair** by Herman Miller is a highly adaptable ergonomic office ch
 - **Brand Name**: Herman Miller
 - ![Herman Miller Logo](https://www.hermanmiller.com/content/dam/hermanmiller/images/logos/herman-miller-logo.png)
 
-### Category
-- **Category**: Ergonomic Office Chairs
-
-### Tags
-- Dynamic Support
-- Flexible
-- Ergonomic
-
-### Source
-For more information, visit the [Herman Miller Online Store](https://store.hermanmiller.com/office-chairs-ergonomic-chairs/mirra-2-chair/1453.html?lang=en_US).
-
 ### Pricing
 Please visit the [product page](https://store.hermanmiller.com/office-chairs-ergonomic-chairs/mirra-2-chair/1453.html?lang=en_US) for detailed pricing information and purchasing options. 
 
