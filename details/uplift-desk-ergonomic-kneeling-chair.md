@@ -14,7 +14,7 @@ The UPLIFT Desk Ergonomic Kneeling Chair features thicker knee padding and a ben
 ## Specifications
 
 - Weight Capacity: Up to 250 lbs
-- Height Adjustment Range: 21" to 28"
+- Height Adjustment Range: 21\" to 28\"
 - Base Material: Bent birch wood
 - Warranty: Limited manufacturer warranty
 - Current Promotion: On sale through 03/31/2026

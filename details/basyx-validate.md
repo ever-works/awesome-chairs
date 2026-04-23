@@ -4,8 +4,8 @@ The Basyx Validate is a classic high back leather big and tall office chair with
 
 ## Features
 
-- 31 5/8\" tall backrest
-- 22\" wide seat
+- 31 5/8" tall backrest
+- 22" wide seat
 - 450 lbs weight capacity
 - SofThread leather upholstery with decorative stitching
 - Thick seat and back padding

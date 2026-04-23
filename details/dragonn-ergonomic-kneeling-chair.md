@@ -4,7 +4,7 @@ Taking ergonomics, price, and quality into consideration, the DRAGONN Ergonomic 
 
 ## Features
 
-- **Height Adjustability**: 21" to 28" range for versatile use
+- **Height Adjustability**: 21\" to 28\" range for versatile use
 - **Thick Padding**: Comfortable cushions for knees and seat
 - **Sturdy Frame**: Metal construction for stability
 - **Promotes Good Posture**: Opens hip angle to reduce back strain
@@ -14,7 +14,7 @@ Taking ergonomics, price, and quality into consideration, the DRAGONN Ergonomic 
 ## Specifications
 
 - Weight Capacity: Up to 250 lbs
-- Height Adjustment: 21" to 28"
+- Height Adjustment: 21\" to 28\"
 - Frame Material: Heavy-duty metal
 - Cushion: Thick foam padding
 - Warranty: 1-year manufacturer warranty
