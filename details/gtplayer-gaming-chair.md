@@ -20,7 +20,7 @@ The GTPLAYER Gaming Chair is recommended as the best overall gaming chair with b
 
 ## Specifications
 
-- Dimensions: 20.1"D x 18.1"W x 50"H (51.05 cm x 45.97 cm x 127 cm)
+- Dimensions: 20.1\"D x 18.1\"W x 50\"H (51.05 cm x 45.97 cm x 127 cm)
 - Speaker location: Both shoulder wings
 - Connectivity: Bluetooth
 - Comfort features: Foam cushioning, reclining, plush armrests

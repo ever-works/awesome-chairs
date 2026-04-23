@@ -14,7 +14,7 @@ The Herman Miller Mirra is an ergonomic task chair designed by Studio 7.5. It fe
 ## Specifications
 
 - Weight Capacity: 350 lbs
-- Seat Height: 16"–20.5"
+- Seat Height: 16\"–20.5\"
 - Warranty: 12-year Herman Miller warranty
 
 ## Pricing
