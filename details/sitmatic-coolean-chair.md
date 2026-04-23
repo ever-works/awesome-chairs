@@ -11,7 +11,7 @@ The Sitmatic CooLean Chair is an ergonomically designed seating solution that ca
 - **Seat Options:** Available in medium or standard sizes to accommodate different user preferences.
 - **Ergonomic Design:** Supports long hours of sitting, enhancing comfort for both office work and gaming.
 - **Backrest and Seat Shape:** Unique design encourages frequent posture changes, allowing the chair to be straddled while providing full sternum support.
-- **Adjustable Back Height:** Intuitive design allows a 6" back height adjustment using a fingertip lever, ensuring personalized comfort.
+- **Adjustable Back Height:** Intuitive design allows a 6\" back height adjustment using a fingertip lever, ensuring personalized comfort.
 - **Quality Manufacturing:** Components are designed and manufactured in California, boasting Italian-built quality and engineering excellence.
 
 ## Brand
