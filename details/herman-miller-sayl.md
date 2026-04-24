@@ -14,7 +14,7 @@ The Herman Miller Sayl is an office chair designed by Yves Béhar, featuring an 
 ## Specifications
 
 - Weight Capacity: 350 lbs
-- Seat Height: 15.5"–20.25"
+- Seat Height: 15.5\"–20.25\"
 - Warranty: 12-year warranty
 
 ## Pricing

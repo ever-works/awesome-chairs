@@ -1,5 +1,5 @@
 # Herman Miller Cosm Chair
 
-The Herman Miller Cosm Chair is an ergonomic office chair with auto-harmonic tilt, a flexible frame for natural movement, and a breathable elastomeric back. It features a frameless design, weight-activated recline, and supports up to 8 hours of daily use. Ideal for long coding sessions and office work, it serves as a more affordable dynamic alternative to the Aeron.
+Premium ergonomic office chair from Herman Miller, ideal for long-hour computer work and hybrid gaming/office use. Features flexible elastomeric backrest for breathability, dynamic support akin to PostureFit, auto-harmonic tilt, adjustable arms. Perfect for programmers enduring 12+ hour days, executive offices, gamers seeking office-grade ergonomics. Compared to gaming chairs like Secretlab (more stylish but less dynamic support) or budget mesh chairs, offers superior durability and 12-year warranty.
 
 [https://www.hermanmiller.com/products/seating/office-chairs/cosm-chairs/](https://www.hermanmiller.com/products/seating/office-chairs/cosm-chairs/)
