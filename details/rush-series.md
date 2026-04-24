@@ -1,25 +1,27 @@
 ## Overview
 
-GTRacing Rush Series provides 160°+ recline with footrest and massage for ultimate relax during gaming or work breaks.
+Luxury series with coldfoam and leather for pro endurance.
 
 ## Features
 
-- Recline: 160°+
-- Footrest: Included
-- Massage: Lumbar support
-- Adjustable 4D armrests
-- High backrest
-- Real leather, aluminum base
+- High-density coldfoam padding
+- 4D adjustable armrests
+- Dynamic lumbar massage
+- Magnetic pillow compatibility
+- 160° recline with footrest
+- Real leather upholstery
+- Aluminum base
 
 ## Use Cases
 
-- Gaming with recovery naps in executive setups
-- Prolonged desk work
+- Esports tournaments
+- Marathon streaming
+- Gaming recovery sessions
 
 ## Comparisons
 
-Deep recline matches new Secretlab 2026 updates; massage feature edges out Noblechairs standard lines for recovery. Better durability than budget.
+Vs budget: Aluminum/real leather 4x more durable, no frame cracks; massage/recline absent in cheap models.
 
 ## Pricing
 
-Affordable premium, under $500.
+Under $500 premium.

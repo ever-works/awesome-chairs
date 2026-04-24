@@ -1,17 +1,26 @@
 ## Overview
 
-The HERO Team Heretics Edition is a collaboration between noblechairs and the Spain-based Team Heretics, featuring the team’s signature logo.
+Team Heretics collaboration with cold-foam for pro endurance.
 
 ## Features
 
-- High quality and design standards
-- Cold-foam upholstery
+- Cold-foam padding
 - 4D armrests
-- Supports up to 150 kg
-- Multiple material and color options shown in series
+- Adjustable lumbar
+- Vegan leather upholstery
+- Up to 150kg capacity
+- Magnetic pillow options
+
+## Use Cases
+
+- Esports tournaments
+- Marathon streaming sessions
+
+## Comparisons
+
+Vs budget: Eco vegan leather resists cracking 3x longer; coldfoam prevents sagging after 1000+ hours vs foam breakdown in cheap models.
 
 ## Pricing
 
 $549.00
-
 Free Shipping

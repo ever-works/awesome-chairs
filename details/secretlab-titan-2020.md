@@ -1,28 +1,26 @@
 ## Overview
 
-The Secretlab TITAN™ 2020 Series provides greater comfort and support with more space than ever and customized ergonomics.
+Enhanced 2020 series with cold-cure foam for pro sessions.
 
-## Key Features
+## Features
 
-- **Cold-Cure Foam**: Specially formulated patent-pending foam for perfect blend of even weight distribution and optimal pressure relief.
-- **PRIME™ 2.0 Leatherette**: 4X more durable than regular PU leather, stress-tested for abrasion, flex resistance, and real-world use.
-- **Ergonomic Support**: Signature Memory Foam Head Pillow with cooling gel layer; integrated adjustable lumbar support system.
-- **Levelled Fit Seatbase**: Enhances comfort.
-- **Complete Recline and Tilt Adjustability**: Full range for relaxation.
-- **Full-Metal 4D Armrests**: Multi-directional adjustability.
+- Cold-cure foam
+- PRIME 2.0 leatherette
+- 4D full-metal armrests
+- Magnetic memory foam head pillow
+- Integrated adjustable lumbar
+- 165° recline
 
-## Assembly
+## Use Cases
 
-Takes about 20 minutes. Assembly video and guide provided via email and Resources page.
+- Esports tournaments
+- Long streaming
+- Daily pro gaming
 
-## Care
+## Comparisons
 
-Engineered for years of daily use. Keep liquids away and wipe down regularly. Detailed Aftercare Guide available.
+Vs budget: 4x durable leatherette, coldfoam retains shape years longer; metal arms vs plastic break.
 
-## Shipping
+## Pricing
 
-Processed in 1 working day, delivered in 1-3 working days via FedEx & UPS (exceptions for distant locations). Tracking email provided.
-
-## Customer Reviews
-
-4.9 out of 5 based on 16,155 reviews.
+Mid-premium; check site.

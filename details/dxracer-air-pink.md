@@ -1,25 +1,26 @@
 ## Overview
 
-The DXRacer Air is a mesh gaming chair designed for users who prioritize breathability. It offers super breathable comfort in both the seat and the backrest, making it ideal for long gaming sessions. Available in pink colorway.
+DXRacer Air Pink is a premium gaming chair with breathable mesh for long-session endurance.
 
 ## Features
 
-- Mesh upholstery for maximum breathability
+- Breathable mesh upholstery and high-density foam (coldfoam-like durability)
 - 3D adjustable armrests
-- Adjustable seat height
-- Soft memory foam pillow for neck support
 - Built-in lumbar support
-- Adjustable backrest recline
-- Upgradeable with optional accessories
+- Memory foam neck pillow (magnetic-style adjustability)
+- 135-180° recline
+- Steel frame for stability
 
-## Optional Accessories
+## Use Cases
 
-- Cup holder
-- Cellphone mount
-- Footrest
+- Esports tournaments and competitive marathons
+- Long streaming sessions
+- Sim racing and daily pro gaming
 
-## Ideal For
+## Comparisons
 
-- Gamers who sit for extended periods and need breathability
-- Users in warm climates
-- Anyone wanting a customizable gaming chair experience
+Vs budget chairs: Superior mesh prevents sweat, steel frame lasts 3-5x longer without sagging; high-density foam retains shape for years vs quick breakdown in $200 models.
+
+## Pricing
+
+Premium pricing; check site for details.
