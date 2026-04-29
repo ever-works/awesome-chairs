@@ -1,19 +1,24 @@
-# Sihoo M18 Ergonomic Chair
-
 ## Overview
-The **Sihoo M18** is an ergonomic office chair designed for budget-conscious users who need basic ergonomic features.
+
+Cost-effective ergonomic basics for daily desk work.
 
 ## Features
-- **Contoured foam seat cushion**: Adequate padding for standard desk sessions
-- **Adjustable headrest**: Fits various neck positions
-- **Dual lumbar support pillows**: Manually positionable lower-back support
-- **Adjustable armrests**: Height-adjustable for basic arm support
-- **Tilt mechanism**: Standard tilt with tension knob
 
-## Specifications
-- Weight Capacity: 300 lbs
-- Warranty: 3-Year Warranty
-- Free Shipping
+- Dual repositionable lumbar pillows
+- Adjustable headrest (height/angle)
+- Height-adjustable armrests
+- Contoured high-density foam seat
+- Multi-lock tilt mechanism
+- 300lbs capacity
+
+## Use Cases
+
+Perfect for budget home offices with 6-8 hour sitting needs. Good starter for students or casual gamers prioritizing lumbar relief. Reliable for standard builds in small apartments.
+
+## Comparisons
+
+Vs FlexiSpot OC3: Simpler arms but dual pillows for better low-back targeting; equally affordable.
 
 ## Pricing
-Approximately $200–$250. Visit [Sihoo M18](https://sihoooffice.com/products/m18-ergonomic-chair) for current pricing.
+
+$200–$250.

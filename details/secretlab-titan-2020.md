@@ -1,26 +1,25 @@
 ## Overview
 
-Enhanced 2020 series with cold-cure foam for pro sessions.
+Secretlab TITAN 2020 series chair with premium cold-cure foam and magnetic headrest for pro-level comfort.
 
 ## Features
 
-- Cold-cure foam
-- PRIME 2.0 leatherette
-- 4D full-metal armrests
+- Cold-cure foam seat and back
+- NEO Hybrid leatherette upholstery
 - Magnetic memory foam head pillow
-- Integrated adjustable lumbar
-- 165° recline
+- Integrated adjustable lumbar support
+- 4D full-metal armrests
+- 165° recline with lock
+- Multi-height seat options
 
 ## Use Cases
 
-- Esports tournaments
-- Long streaming
-- Daily pro gaming
+Ideal for esports tournaments requiring sustained focus over 12+ hours. Suited for hybrid work/gaming setups with adjustable ergonomics for coding or streaming. Supports big & tall users up to 285 lbs with robust aluminum base.
 
 ## Comparisons
 
-Vs budget: 4x durable leatherette, coldfoam retains shape years longer; metal arms vs plastic break.
+Vs Titan Evo: Shares 165° recline and cold foam but uses older NEO leatherette; Evo adds swappable headrests and softer NEO 2.0. More affordable entry to Secretlab premium ecosystem.
 
 ## Pricing
 
-Mid-premium; check site.
+$499–$599 depending on size and material.
