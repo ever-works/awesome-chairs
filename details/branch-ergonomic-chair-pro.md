@@ -17,7 +17,7 @@ The Branch Ergonomic Chair Pro is Branch's most advanced model with 14 points of
 - Weight Capacity: Up to 275 lbs
 - Recline Range: 90° to 130°
 - Warranty: Lifetime warranty on frame, 5 years on parts
-- Height Range: Suitable for users 5'0" to 6'4" 
+- Height Range: Suitable for users 5'0\" to 6'4\" 
 - Certifications: GREENGUARD Gold certified
 
 ## Pricing
