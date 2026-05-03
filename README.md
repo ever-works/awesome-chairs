@@ -49,7 +49,7 @@ A directory of the best computer and gaming chairs for people who sit all day!
 - [Entry-Level Budget Chairs (3)](#entry-level-budget-chairs)
 - [Entry-Level Chairs (2)](#entry-level-chairs)
 - [Entry-Level Chairs (<$300) (1)](#entry-level-chairs-300)
-- [Gaming Chairs (1)](#gaming-chairs-1)
+- [Gaming Chairs (2)](#gaming-chairs-1)
 - [Massage & Vibration Chairs (6)](#massage--vibration-chairs)
 - [Others (2)](#others-1)
 - [Sim Racing & VR Immersive Chairs (5)](#sim-racing--vr-immersive-chairs)
@@ -999,6 +999,7 @@ A directory of the best computer and gaming chairs for people who sit all day!
 ## Gaming Chairs
 
 - [AndaSeat Ninjas In Pyjamas Edition](https://www.andaseat.com/) - Celebrating the legacy of the legendary esports team Ninjas In Pyjamas, this gaming chair by AndaSeat features advanced pop-out lumbar support for superior ergonomics. It's designed for fans and gamers who appreciate both style and functionality. ([Read more](/details/andaseat-ninjas-in-pyjamas-edition.md)) `Ergonomic` `Stylish` `Lumbar Support`
+- [Corsair WW T2 Road Warrior](https://www.corsair.com/us/en/Categories/Products/Gaming-Chairs/WW-T2-Road-Warrior/p/CF-9010020-WW) - The Corsair WW T2 Road Warrior gaming chair features a perforated PU leather design for enhanced breathability during long gaming sessions. It offers a reclining angle up to 170°, 4D armrests, an aluminum base with a steel skeleton frame, and comes in multiple color options. The chair is praised for its comfort and durability in the mid-range budget category. ([Read more](/details/corsair-ww-t2-road-warrior.md)) `Breathable` `4d Armrests` `Aluminum Base`
 
 ## Massage & Vibration Chairs
 
