@@ -4,7 +4,7 @@ A directory of the best computer and gaming chairs for people who sit all day!
 ## 📑 Table of Contents
 
 - [Chair Accessories (256)](#chair-accessories)
-- [Gaming Chairs (98)](#gaming-chairs)
+- [Gaming Chairs (99)](#gaming-chairs)
 - [Ergonomic Office Chairs (176)](#ergonomic-office-chairs)
 - [Executive & Task Chairs (22)](#executive--task-chairs)
 - [Standing & Active Seating (41)](#standing--active-seating)
@@ -49,10 +49,11 @@ A directory of the best computer and gaming chairs for people who sit all day!
 - [Entry-Level Budget Chairs (3)](#entry-level-budget-chairs)
 - [Entry-Level Chairs (2)](#entry-level-chairs)
 - [Entry-Level Chairs (<$300) (1)](#entry-level-chairs-300)
-- [Gaming Chairs (2)](#gaming-chairs-1)
+- [Gaming Chairs (3)](#gaming-chairs-1)
 - [Massage & Vibration Chairs (6)](#massage--vibration-chairs)
 - [Others (2)](#others-1)
 - [Sim Racing & VR Immersive Chairs (5)](#sim-racing--vr-immersive-chairs)
+- [Specialty Gaming Chairs (1)](#specialty-gaming-chairs-1)
 
 
 ## Chair Accessories
@@ -403,6 +404,7 @@ A directory of the best computer and gaming chairs for people who sit all day!
 - [Racingreat Gaming Chair](https://www.amazon.com/Racingreat-Gaming-Chair/dp/B0CQYX3M2K) - Ultra-budget racing-style gaming chair at approximately $70 featuring two-tone PU leather, high-density moulded foam, removable lumbar and headrest cushions, 90°–155° recline with tilt lock, retractable footrest, and a ~240 lb weight capacity. Ideal for budget-conscious first-time buyers, teenagers setting up their initial desk, and secondary gaming setups where minimal cost is the primary concern. While it undercuts the Secretlab Titan Evo by over $400 and offers a footrest, it trades the Titan's 4D armrests, integrated lumbar, and premium materials for basic PU leather and fixed armrests. ([Read more](/details/racingreat-gaming-chair.md)) `Ultra Budget` `Racing Style` `Footrest`
 - [Razer Iskur V2 X](https://www.razer.com/gaming-chairs/razer-iskur-v2-x) - The Razer Iskur V2 X is a budget-friendly gaming chair offering essential features like built-in lumbar support, 2D armrests, and a full 152-degree recline. It's designed for gamers seeking comfort without breaking the bank, retailing for under $300. ([Read more](/details/razer-iskur-v2-x.md)) `Budget Friendly` `Lumbar Support` `Reclining`
 - [Realm of Thrones Admiral](https://www.realmofthrones.com) - Budget-friendly racing-style gaming chair with an oversized adjustable mesh headrest (height and pivot), PU leather upholstery, steel frame, and a recline range up to 155°, supporting up to 300 lbs. Rated C+ to B-Tier by reviewers, it is praised for its unusually large and comfortable headrest that accommodates users of varying heights. Compared to the Secretlab Titan Evo's magnetic memory foam head pillow, the Admiral's oversized mesh headrest offers more breathability and coverage, though the chair overall lacks the Titan's integrated lumbar, material quality, and office-grade refinement. ([Read more](/details/realm-of-thrones-admiral.md)) `Oversized Headrest` `Mesh` `Budget`
+- [Secretlab Titan Evo 2022 Series](https://secretlab.co/pages/titan-evo-2022-series) - The Secretlab Titan Evo 2022 Series is a highly adjustable gaming chair available in three sizes (Small, Regular, XL) with multiple upholstery options including NEO Hybrid Leatherette, SoftWeave Plus Fabric, Secretlab NAPA Leather, and Exotic Ash Microsuede. It features built-in dynamic lumbar support, 4D adjustable armrests, memory foam head pillow, and a weight capacity ranging from 200lbs to 395lbs depending on size. ([Read more](/details/secretlab-titan-evo-2022-series.md)) `Adjustable` `Lumbar Support` `Memory Foam`
 - [Secretlab Titan Evo Nanogen XL](https://www.secretlab.co/products/titan-evo-2022-series) - The big-and-tall version of Secretlab's flagship Titan Evo, featuring ultra-soft NanoGen Hybrid Leatherette, extra Nanofoam Composite cushioning, 4-way adjustable lumbar support, hot-swappable 4D PlushCell armrests, and a magnetic neck pillow with cooling gel — rated up to 395 lbs with an 85°–165° recline range. Ideal for larger gamers, streamers, and content creators who need maximum capacity without sacrificing plush comfort or ergonomic precision. It sets the benchmark for big-and-tall gaming chairs, outclassing the Razer Iskur V2 with superior material softness and magnetic accessories, while providing warmer, more cushioned comfort than Herman Miller Vantum's mesh-first design. ([Read more](/details/secretlab-titan-evo-nanogen-xl.md)) `Big And Tall` `Premium` `Ergonomic`
 - [SL1800](https://www.vertagear.com/products/sl1800) - The SL1800 is an ergonomic gaming chair designed for comfort and support during long hours of sitting. It accommodates users up to 260 lbs and 6'1" in height, making it suitable for a wide range of individuals. The chair is part of the 800 Series, known for its affordability and quality. ([Read more](/details/sl1800.md)) `Ergonomic` `Affordable` `Supportive`
 - [SL5800](https://www.vertagear.com/products/sl5800-ergonomic-gaming-chair) - The SL5800 is an ergonomic gaming chair designed for users up to 260 lbs and 6'4" in height. It is part of the 800 Series and is highly rated for its comfort and support, making it ideal for long gaming sessions. ([Read more](/details/sl5800.md)) `Ergonomic` `Comfortable` `Supportive`
@@ -1000,6 +1002,7 @@ A directory of the best computer and gaming chairs for people who sit all day!
 
 - [AndaSeat Ninjas In Pyjamas Edition](https://www.andaseat.com/) - Celebrating the legacy of the legendary esports team Ninjas In Pyjamas, this gaming chair by AndaSeat features advanced pop-out lumbar support for superior ergonomics. It's designed for fans and gamers who appreciate both style and functionality. ([Read more](/details/andaseat-ninjas-in-pyjamas-edition.md)) `Ergonomic` `Stylish` `Lumbar Support`
 - [Corsair WW T2 Road Warrior](https://www.corsair.com/us/en/Categories/Products/Gaming-Chairs/WW-T2-Road-Warrior/p/CF-9010020-WW) - The Corsair WW T2 Road Warrior gaming chair features a perforated PU leather design for enhanced breathability during long gaming sessions. It offers a reclining angle up to 170°, 4D armrests, an aluminum base with a steel skeleton frame, and comes in multiple color options. The chair is praised for its comfort and durability in the mid-range budget category. ([Read more](/details/corsair-ww-t2-road-warrior.md)) `Breathable` `4d Armrests` `Aluminum Base`
+- [The Foldable Gaming Chair](https://foldablegamingchair.com/products/foldable-gaming-chair) - A unique folding gaming chair that resembles a traditional lawn chair but with ample cushions and support for back, bottom, thighs, and arms. It folds for storage and travel, includes a carry bag, drink holders, and a retractable headphone/headset hook. ([Read more](/details/the-foldable-gaming-chair.md)) `Foldable` `Portable` `Travel`
 
 ## Massage & Vibration Chairs
 
@@ -1022,6 +1025,10 @@ A directory of the best computer and gaming chairs for people who sit all day!
 - [GT Omega](https://www.gtomega.com/collections/gaming-chairs) - Gaming and office chairs with racing-style ergonomics for long PC gaming and esports sessions, featuring supportive designs that enhance immersion over basic seating. Provides pro-level aesthetics and comfort for competitive play, with durable builds suited for sim racing and extended use. ([Read more](/details/gt-omega.md)) `Racing Style` `Ergonomic` `Gaming` `RGB Lighting` `Themed Design` `Esports Ready`
 - [Playseat Gaming Chairs](https://www.playseatstore.com) - Specializes in racing sim cockpits and gaming chairs for immersive sim racing and long-hour setups. ([Read more](/details/playseat-gaming-chairs.md)) `Racing Sim` `Cockpit Seat` `Sim Racing`
 - [PlaySeat Trophy Logitech G Edition](https://www.playseatstore.com/collections/trophy-series) - Dedicated racing simulation cockpit seat with official Logitech G partnership integration, compatible wheel and pedal mounting points, and a foldable design for easy storage, supporting up to 150 kg. Purpose-built for sim racing enthusiasts who need an authentic racing seat position with force feedback immersion rather than a general-purpose gaming or office chair. Unlike the Secretlab Titan Evo or Herman Miller Vantum, the PlaySeat Trophy is a single-use cockpit rather than an adjustable seat—it cannot serve as an office chair or for non-racing games, but it delivers unmatched racing authenticity for sim racing setups. ([Read more](/details/playseat-trophy-logitech-g-edition.md)) `Racing Sim` `Logitech G` `Cockpit Seat` `Racing Sim`
+
+## Specialty Gaming Chairs
+
+- [Moon Pod](https://www.moonpod.co/products/moon-pod) - An ergonomic bean bag chair designed for adults that provides back and lumbar support through high-density beads that simulate weightlessness. While not a traditional gaming chair, it functions as a high-end living room chair for gaming, working from home, and relaxation. ([Read more](/details/moon-pod.md)) `Bean Bag` `Ergonomic` `Living Room`
 
 
 ## Legal
