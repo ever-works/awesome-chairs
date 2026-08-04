@@ -1037,6 +1037,10 @@ A directory of the best computer and gaming chairs for people who sit all day!
 - [Moon Pod](https://www.moonpod.co/products/moon-pod) - An ergonomic bean bag chair designed for adults that provides back and lumbar support through high-density beads that simulate weightlessness. While not a traditional gaming chair, it functions as a high-end living room chair for gaming, working from home, and relaxation. ([Read more](/details/moon-pod.md)) `Bean Bag` `Ergonomic` `Living Room`
 
 
+## ⭐ Star History
+
+[![Star History Chart](https://stats-github.ever.works/svg?repos=ever-works/awesome-chairs&type=Date)](https://stats-github.ever.works/#ever-works/awesome-chairs&Date)
+
 ## Legal
 
 All product names, logos, and brands are the property of their respective owners. All company, product, and service names used in this repository, related repositories, and associated websites are for identification purposes only. The use of these names, logos, and brands does not imply endorsement, affiliation, or sponsorship.
